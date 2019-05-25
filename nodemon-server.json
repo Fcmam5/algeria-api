@@ -1,0 +1,17 @@
+{
+  "restartable": "rs",
+  "exitcrash": false,
+  "verbose": true,
+  
+  "events": {
+    "restart": "notify --message 'App restarted due to:\n'$FILENAME'\"' --title 'Algeria API has crashed' -s && node -e \"console.log('\\7')\""
+  },
+  "watch": [
+    "server"
+  ],
+  "env": {
+    "DEBUG": "algeriaApi:*"
+
+  },
+  "ext": "js,json"
+}

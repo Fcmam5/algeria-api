@@ -4,6 +4,8 @@
   "description": "",
   "main": "server/app.js",
   "scripts": {
+    "server": "node ./server/bin/www",
+    "server:dev": "nodemon --config nodemon-server.json ./server/bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,6 +14,16 @@
   "devDependencies": {
     "eslint": "5.16.0",
     "eslint-config-airbnb-base": "13.1.0",
-    "eslint-plugin-import": "2.17.2"
+    "eslint-plugin-import": "2.17.2",
+    "node-notifier-cli": "1.1.2",
+    "nodemon": "1.19.0"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "debug": "4.1.1",
+    "dotenv": "8.0.0",
+    "express": "4.17.0",
+    "helmet": "3.18.0",
+    "morgan": "1.9.1"
   }
 }
