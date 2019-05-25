@@ -1,0 +1,2326 @@
+{
+  "ADRAR": [
+    {
+      "code": "101",
+      "daira": "ADRAR"
+    },
+    {
+      "code": "123",
+      "daira": "AOUGROUT"
+    },
+    {
+      "code": "112",
+      "daira": "AOULEF"
+    },
+    {
+      "code": "125",
+      "daira": "BORDJ BADJI MOKHTAR"
+    },
+    {
+      "code": "1250",
+      "daira": "BORDJ BADJI MOKHTAR (wilaya déléguée)"
+    },
+    {
+      "code": "103",
+      "daira": "CHAROUINE"
+    },
+    {
+      "code": "115",
+      "daira": "FENOUGHIL"
+    },
+    {
+      "code": "104",
+      "daira": "REGGANE"
+    },
+    {
+      "code": "1090",
+      "daira": "TIMIMOUN (wilaya déléguée)"
+    },
+    {
+      "code": "109",
+      "daira": "TIMIMOUN"
+    },
+    {
+      "code": "116",
+      "daira": "TINERKOUK"
+    },
+    {
+      "code": "108",
+      "daira": "TSABIT"
+    },
+    {
+      "code": "111",
+      "daira": "ZAOUIAT KOUNTA"
+    }
+  ],
+  "CHLEF": [
+    {
+      "code": "222",
+      "daira": "ABOU EL HASSANE"
+    },
+    {
+      "code": "232",
+      "daira": "AIN MERANE"
+    },
+    {
+      "code": "207",
+      "daira": "BENI HAOUA"
+    },
+    {
+      "code": "212",
+      "daira": "BOUKADIR"
+    },
+    {
+      "code": "201",
+      "daira": "CHLEF"
+    },
+    {
+      "code": "204",
+      "daira": "EL KARIMIA"
+    },
+    {
+      "code": "223",
+      "daira": "EL MARSA"
+    },
+    {
+      "code": "229",
+      "daira": "OUED FODDA"
+    },
+    {
+      "code": "230",
+      "daira": "OULED BEN ABDELKADER"
+    },
+    {
+      "code": "210",
+      "daira": "OULED FARES"
+    },
+    {
+      "code": "206",
+      "daira": "TAOUGRIT"
+    },
+    {
+      "code": "202",
+      "daira": "TENES"
+    },
+    {
+      "code": "220",
+      "daira": "ZEBOUDJA"
+    }
+  ],
+  "LAGHOUAT": [
+    {
+      "code": "319",
+      "daira": "AFLOU"
+    },
+    {
+      "code": "307",
+      "daira": "AIN MADHI"
+    },
+    {
+      "code": "313",
+      "daira": "BRIDA"
+    },
+    {
+      "code": "314",
+      "daira": "EL GHICHA"
+    },
+    {
+      "code": "310",
+      "daira": "GUELTAT SIDI SAAD"
+    },
+    {
+      "code": "306",
+      "daira": "HASSI R'MEL"
+    },
+    {
+      "code": "302",
+      "daira": "KSAR EL HIRANE"
+    },
+    {
+      "code": "301",
+      "daira": "LAGHOUAT"
+    },
+    {
+      "code": "321",
+      "daira": "OUED MORRA"
+    },
+    {
+      "code": "304",
+      "daira": "SIDI MAKHLOUF"
+    }
+  ],
+  "OUM EL BOUAGHI": [
+    {
+      "code": "408",
+      "daira": "AIN BABOUCHE"
+    },
+    {
+      "code": "402",
+      "daira": "AIN BEIDA"
+    },
+    {
+      "code": "425",
+      "daira": "AIN FEKROUN"
+    },
+    {
+      "code": "412",
+      "daira": "AIN KERCHA"
+    },
+    {
+      "code": "403",
+      "daira": "AIN M'LILA"
+    },
+    {
+      "code": "411",
+      "daira": "DHALAA"
+    },
+    {
+      "code": "416",
+      "daira": "F'KIRINA"
+    },
+    {
+      "code": "422",
+      "daira": "KSAR SBAHI"
+    },
+    {
+      "code": "424",
+      "daira": "MESKIANA"
+    },
+    {
+      "code": "401",
+      "daira": "OUM EL BOUAGHI"
+    },
+    {
+      "code": "406",
+      "daira": "SIGUS"
+    },
+    {
+      "code": "417",
+      "daira": "SOUK NAAMANE"
+    }
+  ],
+  "BATNA": [
+    {
+      "code": "519",
+      "daira": "AIN DJASSER"
+    },
+    {
+      "code": "545",
+      "daira": "AIN TOUTA"
+    },
+    {
+      "code": "516",
+      "daira": "ARRIS"
+    },
+    {
+      "code": "542",
+      "daira": "BARIKA"
+    },
+    {
+      "code": "501",
+      "daira": "BATNA"
+    },
+    {
+      "code": "535",
+      "daira": "BOUZINA"
+    },
+    {
+      "code": "536",
+      "daira": "CHEMORA"
+    },
+    {
+      "code": "543",
+      "daira": "DJEZZAR"
+    },
+    {
+      "code": "507",
+      "daira": "EL MADHER"
+    },
+    {
+      "code": "530",
+      "daira": "ICHEMOUL"
+    },
+    {
+      "code": "506",
+      "daira": "MENAA"
+    },
+    {
+      "code": "504",
+      "daira": "MEROUANA"
+    },
+    {
+      "code": "509",
+      "daira": "N'GAOUS"
+    },
+    {
+      "code": "553",
+      "daira": "OULED SI SLIMANE"
+    },
+    {
+      "code": "551",
+      "daira": "RAS EL AIOUN"
+    },
+    {
+      "code": "529",
+      "daira": "SEGGANA"
+    },
+    {
+      "code": "505",
+      "daira": "SERIANA"
+    },
+    {
+      "code": "508",
+      "daira": "TAZOULT"
+    },
+    {
+      "code": "547",
+      "daira": "THENIET EL ABED"
+    },
+    {
+      "code": "550",
+      "daira": "TIMGAD"
+    },
+    {
+      "code": "544",
+      "daira": "TKOUT"
+    }
+  ],
+  "BEJAIA": [
+    {
+      "code": "624",
+      "daira": "ADEKAR"
+    },
+    {
+      "code": "625",
+      "daira": "AKBOU"
+    },
+    {
+      "code": "602",
+      "daira": "AMIZOUR"
+    },
+    {
+      "code": "622",
+      "daira": "AOKAS"
+    },
+    {
+      "code": "634",
+      "daira": "BARBACHA"
+    },
+    {
+      "code": "601",
+      "daira": "BEJAIA"
+    },
+    {
+      "code": "650",
+      "daira": "BENI MAOUCHE"
+    },
+    {
+      "code": "629",
+      "daira": "CHEMINI"
+    },
+    {
+      "code": "620",
+      "daira": "DARGUINA"
+    },
+    {
+      "code": "640",
+      "daira": "EL KSEUR"
+    },
+    {
+      "code": "636",
+      "daira": "IFRI OUZELLAGUENE"
+    },
+    {
+      "code": "617",
+      "daira": "IGHIL ALI"
+    },
+    {
+      "code": "644",
+      "daira": "KHERRATA"
+    },
+    {
+      "code": "626",
+      "daira": "SEDDOUK"
+    },
+    {
+      "code": "639",
+      "daira": "SIDI AICH"
+    },
+    {
+      "code": "608",
+      "daira": "SOUK EL TENINE"
+    },
+    {
+      "code": "627",
+      "daira": "TAZMALT"
+    },
+    {
+      "code": "611",
+      "daira": "TICHY"
+    },
+    {
+      "code": "607",
+      "daira": "TIMEZRIT"
+    }
+  ],
+  "BISKRA": [
+    {
+      "code": "701",
+      "daira": "BISKRA"
+    },
+    {
+      "code": "720",
+      "daira": "DJEMORAH"
+    },
+    {
+      "code": "717",
+      "daira": "EL KANTARA"
+    },
+    {
+      "code": "719",
+      "daira": "EL OUTAYA"
+    },
+    {
+      "code": "726",
+      "daira": "FOUGHALA"
+    },
+    {
+      "code": "712",
+      "daira": "MECHOUNECHE"
+    },
+    {
+      "code": "705",
+      "daira": "OULED DJELLAL"
+    },
+    {
+      "code": "7050",
+      "daira": "OULED DJELLAL (wilaya déléguée)"
+    },
+    {
+      "code": "724",
+      "daira": "OURLAL"
+    },
+    {
+      "code": "708",
+      "daira": "SIDI KHALED"
+    },
+    {
+      "code": "711",
+      "daira": "SIDI OKBA"
+    },
+    {
+      "code": "721",
+      "daira": "TOLGA"
+    },
+    {
+      "code": "715",
+      "daira": "ZERIBET EL OUED"
+    }
+  ],
+  "BECHAR": [
+    {
+      "code": "817",
+      "daira": "ABADLA"
+    },
+    {
+      "code": "801",
+      "daira": "BECHAR"
+    },
+    {
+      "code": "807",
+      "daira": "BENI ABBES"
+    },
+    {
+      "code": "8070",
+      "daira": "BENI ABBES (wilaya déléguée)"
+    },
+    {
+      "code": "821",
+      "daira": "BENI OUNIF"
+    },
+    {
+      "code": "814",
+      "daira": "EL OUATA"
+    },
+    {
+      "code": "811",
+      "daira": "IGLI"
+    },
+    {
+      "code": "810",
+      "daira": "KENADSA"
+    },
+    {
+      "code": "818",
+      "daira": "KERZAZ"
+    },
+    {
+      "code": "806",
+      "daira": "LAHMAR"
+    },
+    {
+      "code": "803",
+      "daira": "OULED KHODEIR"
+    },
+    {
+      "code": "812",
+      "daira": "TABELBALA"
+    },
+    {
+      "code": "813",
+      "daira": "TAGHIT"
+    }
+  ],
+  "BLIDA": [
+    {
+      "code": "901",
+      "daira": "BLIDA"
+    },
+    {
+      "code": "916",
+      "daira": "BOUFARIK"
+    },
+    {
+      "code": "922",
+      "daira": "BOUGARA"
+    },
+    {
+      "code": "903",
+      "daira": "BOUINAN"
+    },
+    {
+      "code": "907",
+      "daira": "EL AFFROUN"
+    },
+    {
+      "code": "917",
+      "daira": "LARBAA"
+    },
+    {
+      "code": "914",
+      "daira": "MEFTAH"
+    },
+    {
+      "code": "912",
+      "daira": "MOUZAIA"
+    },
+    {
+      "code": "904",
+      "daira": "OUED EL ALLEUG"
+    },
+    {
+      "code": "905",
+      "daira": "OULED YAICH"
+    }
+  ],
+  "BOUIRA": [
+    {
+      "code": "1035",
+      "daira": "AIN BESSEM"
+    },
+    {
+      "code": "1033",
+      "daira": "BECHLOUL"
+    },
+    {
+      "code": "1036",
+      "daira": "BIR GHBALOU"
+    },
+    {
+      "code": "1018",
+      "daira": "BORDJ OKHRISS"
+    },
+    {
+      "code": "1001",
+      "daira": "BOUIRA"
+    },
+    {
+      "code": "1015",
+      "daira": "EL HACHIMIA"
+    },
+    {
+      "code": "1012",
+      "daira": "HAIZER"
+    },
+    {
+      "code": "1005",
+      "daira": "KADIRIA"
+    },
+    {
+      "code": "1013",
+      "daira": "LAKHDARIA"
+    },
+    {
+      "code": "1037",
+      "daira": "M'CHEDALLAH"
+    },
+    {
+      "code": "1004",
+      "daira": "SOUK EL KHEMIS"
+    },
+    {
+      "code": "1038",
+      "daira": "SOUR EL GHOZLANE"
+    }
+  ],
+  "TAMANRASSET": [
+    {
+      "code": "1103",
+      "daira": "IN GHAR"
+    },
+    {
+      "code": "1104",
+      "daira": "IN GUEZZAM"
+    },
+    {
+      "code": "1104",
+      "daira": "IN GUEZZAM (wilaya déléguée)"
+    },
+    {
+      "code": "1108",
+      "daira": "IN SALAH"
+    },
+    {
+      "code": "1108",
+      "daira": "IN SALAH (wilaya déléguée)"
+    },
+    {
+      "code": "1102",
+      "daira": "SILET"
+    },
+    {
+      "code": "1101",
+      "daira": "TAMANRASSET"
+    },
+    {
+      "code": "1106",
+      "daira": "TAZROUK"
+    },
+    {
+      "code": "1107",
+      "daira": "TIN ZOUATINE"
+    }
+  ],
+  "TEBESSA": [
+    {
+      "code": "1202",
+      "daira": "BIR EL ATER"
+    },
+    {
+      "code": "1210",
+      "daira": "BIR MOKADEM"
+    },
+    {
+      "code": "1203",
+      "daira": "CHERIA"
+    },
+    {
+      "code": "1205",
+      "daira": "EL AOUINET"
+    },
+    {
+      "code": "1211",
+      "daira": "EL KOUIF"
+    },
+    {
+      "code": "1220",
+      "daira": "EL MALABIOD"
+    },
+    {
+      "code": "1213",
+      "daira": "EL OGLA"
+    },
+    {
+      "code": "1212",
+      "daira": "MORSOTT"
+    },
+    {
+      "code": "1209",
+      "daira": "NEGRINE"
+    },
+    {
+      "code": "1219",
+      "daira": "OUENZA"
+    },
+    {
+      "code": "1221",
+      "daira": "OUM ALI"
+    },
+    {
+      "code": "1201",
+      "daira": "TEBESSA"
+    }
+  ],
+  "TLEMCEN": [
+    {
+      "code": "1303",
+      "daira": "AIN TELLOUT"
+    },
+    {
+      "code": "1318",
+      "daira": "BAB EL ASSA"
+    },
+    {
+      "code": "1338",
+      "daira": "BENI BOUSSAID"
+    },
+    {
+      "code": "1317",
+      "daira": "BENI SNOUS"
+    },
+    {
+      "code": "1324",
+      "daira": "BENSEKRANE"
+    },
+    {
+      "code": "1350",
+      "daira": "CHETOUANE"
+    },
+    {
+      "code": "1320",
+      "daira": "FELLAOUCENE"
+    },
+    {
+      "code": "1307",
+      "daira": "GHAZAOUET"
+    },
+    {
+      "code": "1326",
+      "daira": "HENNAYA"
+    },
+    {
+      "code": "1344",
+      "daira": "HONNAINE"
+    },
+    {
+      "code": "1327",
+      "daira": "MAGHNIA"
+    },
+    {
+      "code": "1351",
+      "daira": "MANSOURAH"
+    },
+    {
+      "code": "1339",
+      "daira": "MARSA BEN MEHDI"
+    },
+    {
+      "code": "1340",
+      "daira": "NEDROMA"
+    },
+    {
+      "code": "1313",
+      "daira": "OULED MIMOUN"
+    },
+    {
+      "code": "1304",
+      "daira": "REMCHI"
+    },
+    {
+      "code": "1306",
+      "daira": "SABRA"
+    },
+    {
+      "code": "1335",
+      "daira": "SEBDOU"
+    },
+    {
+      "code": "1341",
+      "daira": "SIDI DJILLALI"
+    },
+    {
+      "code": "1301",
+      "daira": "TLEMCEN"
+    }
+  ],
+  "TIARET": [
+    {
+      "code": "1406",
+      "daira": "AIN DEHEB"
+    },
+    {
+      "code": "1428",
+      "daira": "AIN KERMES"
+    },
+    {
+      "code": "1413",
+      "daira": "DAHMOUNI"
+    },
+    {
+      "code": "1427",
+      "daira": "FRENDA"
+    },
+    {
+      "code": "1435",
+      "daira": "HAMADIA"
+    },
+    {
+      "code": "1429",
+      "daira": "KSAR CHELLALA"
+    },
+    {
+      "code": "1415",
+      "daira": "MAHDIA"
+    },
+    {
+      "code": "1434",
+      "daira": "MECHRAA SFA"
+    },
+    {
+      "code": "1402",
+      "daira": "MEDROUSSA"
+    },
+    {
+      "code": "1421",
+      "daira": "MEGHILA"
+    },
+    {
+      "code": "1433",
+      "daira": "OUED LILI"
+    },
+    {
+      "code": "1414",
+      "daira": "RAHOUIA"
+    },
+    {
+      "code": "1416",
+      "daira": "SOUGUEUR"
+    },
+    {
+      "code": "1401",
+      "daira": "TIARET"
+    }
+  ],
+  "TIZI-OUZOU": [
+    {
+      "code": "1502",
+      "daira": "AIN EL HAMMAM"
+    },
+    {
+      "code": "1518",
+      "daira": "AZAZGA"
+    },
+    {
+      "code": "1537",
+      "daira": "AZEFFOUN"
+    },
+    {
+      "code": "1532",
+      "daira": "BENI DOUALA"
+    },
+    {
+      "code": "1552",
+      "daira": "BENNI YENNI"
+    },
+    {
+      "code": "1540",
+      "daira": "BOGHNI"
+    },
+    {
+      "code": "1534",
+      "daira": "BOUZEGUENE"
+    },
+    {
+      "code": "1547",
+      "daira": "DRAA BEN KHEDDA"
+    },
+    {
+      "code": "1510",
+      "daira": "DRAA EL MIZAN"
+    },
+    {
+      "code": "1517",
+      "daira": "IFERHOUNENE"
+    },
+    {
+      "code": "1521",
+      "daira": "LARBAA NATH IRATEN"
+    },
+    {
+      "code": "1529",
+      "daira": "MAATKAS"
+    },
+    {
+      "code": "1509",
+      "daira": "MAKOUDA"
+    },
+    {
+      "code": "1550",
+      "daira": "MEKLA"
+    },
+    {
+      "code": "1548",
+      "daira": "OUACIF"
+    },
+    {
+      "code": "1536",
+      "daira": "OUADHIAS"
+    },
+    {
+      "code": "1524",
+      "daira": "OUAGUENOUN"
+    },
+    {
+      "code": "1538",
+      "daira": "TIGZIRT"
+    },
+    {
+      "code": "1501",
+      "daira": "TIZI OUZOU"
+    },
+    {
+      "code": "1522",
+      "daira": "TIZI RACHED"
+    },
+    {
+      "code": "1511",
+      "daira": "TIZI-GHENIF"
+    }
+  ],
+  "ALGER": [
+    {
+      "code": "1605",
+      "daira": "BAB EL OUED"
+    },
+    {
+      "code": "1614",
+      "daira": "BARAKI"
+    },
+    {
+      "code": "1609",
+      "daira": "BIR MOURAD RAIS"
+    },
+    {
+      "code": "1636",
+      "daira": "BIRTOUTA"
+    },
+    {
+      "code": "1611",
+      "daira": "BOUZAREAH"
+    },
+    {
+      "code": "1652",
+      "daira": "CHERAGA"
+    },
+    {
+      "code": "1620",
+      "daira": "DAR EL BEIDA"
+    },
+    {
+      "code": "1649",
+      "daira": "DRARIA"
+    },
+    {
+      "code": "1613",
+      "daira": "EL HARRACH"
+    },
+    {
+      "code": "1617",
+      "daira": "HUSSEIN DEY"
+    },
+    {
+      "code": "1638",
+      "daira": "ROUIBA"
+    },
+    {
+      "code": "1602",
+      "daira": "SIDI M'HAMED"
+    },
+    {
+      "code": "1644",
+      "daira": "ZERALDA"
+    }
+  ],
+  "DJELFA": [
+    {
+      "code": "1730",
+      "daira": "AIN EL IBEL"
+    },
+    {
+      "code": "1731",
+      "daira": "AIN OUSSERA"
+    },
+    {
+      "code": "1708",
+      "daira": "BIRINE"
+    },
+    {
+      "code": "1726",
+      "daira": "CHAREF"
+    },
+    {
+      "code": "1725",
+      "daira": "DAR CHIOUKH"
+    },
+    {
+      "code": "1701",
+      "daira": "DJELFA"
+    },
+    {
+      "code": "1714",
+      "daira": "EL IDRISSIA"
+    },
+    {
+      "code": "1707",
+      "daira": "FAIDH EL BOTMA"
+    },
+    {
+      "code": "1720",
+      "daira": "HAD SAHARY"
+    },
+    {
+      "code": "1704",
+      "daira": "HASSI BAHBAH"
+    },
+    {
+      "code": "1717",
+      "daira": "MESSAAD"
+    },
+    {
+      "code": "1719",
+      "daira": "SIDI LAADJEL"
+    }
+  ],
+  "JIJEL": [
+    {
+      "code": "1807",
+      "daira": "CHEKFA"
+    },
+    {
+      "code": "1817",
+      "daira": "DJIMLA"
+    },
+    {
+      "code": "1812",
+      "daira": "EL ANCER"
+    },
+    {
+      "code": "1803",
+      "daira": "EL AOUANA"
+    },
+    {
+      "code": "1809",
+      "daira": "EL MILIA"
+    },
+    {
+      "code": "1801",
+      "daira": "JIJEL"
+    },
+    {
+      "code": "1811",
+      "daira": "SETTARA"
+    },
+    {
+      "code": "1810",
+      "daira": "SIDI MAROUF"
+    },
+    {
+      "code": "1805",
+      "daira": "TAHER"
+    },
+    {
+      "code": "1824",
+      "daira": "TEXENNA"
+    },
+    {
+      "code": "1804",
+      "daira": "ZIAMAH MANSOURIAH"
+    }
+  ],
+  "SETIF": [
+    {
+      "code": "1926",
+      "daira": "AIN ARNAT"
+    },
+    {
+      "code": "1940",
+      "daira": "AIN AZEL"
+    },
+    {
+      "code": "1902",
+      "daira": "AIN EL KEBIRA"
+    },
+    {
+      "code": "1928",
+      "daira": "AIN OULMENE"
+    },
+    {
+      "code": "1927",
+      "daira": "AMOUCHA"
+    },
+    {
+      "code": "1916",
+      "daira": "BABOR"
+    },
+    {
+      "code": "1903",
+      "daira": "BENI AZIZ"
+    },
+    {
+      "code": "1922",
+      "daira": "BENI OURTILANE"
+    },
+    {
+      "code": "1908",
+      "daira": "BIR EL ARCH"
+    },
+    {
+      "code": "1930",
+      "daira": "BOUANDAS"
+    },
+    {
+      "code": "1943",
+      "daira": "BOUGAA"
+    },
+    {
+      "code": "1921",
+      "daira": "DJEMILA"
+    },
+    {
+      "code": "1920",
+      "daira": "EL EULMA"
+    },
+    {
+      "code": "1941",
+      "daira": "GUENZET"
+    },
+    {
+      "code": "1917",
+      "daira": "GUIDJEL"
+    },
+    {
+      "code": "1950",
+      "daira": "HAMMAM GUERGOUR"
+    },
+    {
+      "code": "1932",
+      "daira": "HAMMAM SOKHNA"
+    },
+    {
+      "code": "1955",
+      "daira": "MAOKLANE"
+    },
+    {
+      "code": "1939",
+      "daira": "SALAH BEY"
+    },
+    {
+      "code": "1901",
+      "daira": "SETIF"
+    }
+  ],
+  "SAIDA": [
+    {
+      "code": "2003",
+      "daira": "AIN EL HADJAR"
+    },
+    {
+      "code": "2010",
+      "daira": "EL HASSASNA"
+    },
+    {
+      "code": "2014",
+      "daira": "OULED BRAHIM"
+    },
+    {
+      "code": "2001",
+      "daira": "SAIDA"
+    },
+    {
+      "code": "2009",
+      "daira": "SIDI BOUBEKEUR"
+    },
+    {
+      "code": "2006",
+      "daira": "YOUB"
+    }
+  ],
+  "SKIKDA": [
+    {
+      "code": "2127",
+      "daira": "AIN KECHRA"
+    },
+    {
+      "code": "2104",
+      "daira": "AZZABA"
+    },
+    {
+      "code": "2108",
+      "daira": "BEN AZZOUZ"
+    },
+    {
+      "code": "2110",
+      "daira": "COLLO"
+    },
+    {
+      "code": "2103",
+      "daira": "EL HADAIEK"
+    },
+    {
+      "code": "2116",
+      "daira": "EL HARROUCH"
+    },
+    {
+      "code": "2113",
+      "daira": "OULED ATTIA"
+    },
+    {
+      "code": "2128",
+      "daira": "OUM TOUB"
+    },
+    {
+      "code": "2123",
+      "daira": "RAMDANE DJAMEL"
+    },
+    {
+      "code": "2119",
+      "daira": "SIDI MEZGHICHE"
+    },
+    {
+      "code": "2101",
+      "daira": "SKIKDA"
+    },
+    {
+      "code": "2126",
+      "daira": "TAMALOUS"
+    },
+    {
+      "code": "2115",
+      "daira": "ZITOUNA"
+    }
+  ],
+  "SIDI BEL-ABBES": [
+    {
+      "code": "2228",
+      "daira": "AIN EL BERD"
+    },
+    {
+      "code": "2245",
+      "daira": "BEN BADIS"
+    },
+    {
+      "code": "2210",
+      "daira": "MARHOUM"
+    },
+    {
+      "code": "2222",
+      "daira": "MERINE"
+    },
+    {
+      "code": "2204",
+      "daira": "MOSTEFA  BEN BRAHIM"
+    },
+    {
+      "code": "2218",
+      "daira": "MOULAY SLISSEN"
+    },
+    {
+      "code": "2223",
+      "daira": "RAS EL MA"
+    },
+    {
+      "code": "2229",
+      "daira": "SFISEF"
+    },
+    {
+      "code": "2246",
+      "daira": "SIDI ALI BEN YOUB"
+    },
+    {
+      "code": "2208",
+      "daira": "SIDI ALI BOUSSIDI"
+    },
+    {
+      "code": "2201",
+      "daira": "SIDI BEL ABBES"
+    },
+    {
+      "code": "2214",
+      "daira": "SIDI LAHCENE"
+    },
+    {
+      "code": "2205",
+      "daira": "TELAGH"
+    },
+    {
+      "code": "2217",
+      "daira": "TENIRA"
+    },
+    {
+      "code": "2202",
+      "daira": "TESSALA"
+    }
+  ],
+  "ANNABA": [
+    {
+      "code": "2309",
+      "daira": "AIN EL BERDA"
+    },
+    {
+      "code": "2301",
+      "daira": "ANNABA"
+    },
+    {
+      "code": "2302",
+      "daira": "BERRAHAL"
+    },
+    {
+      "code": "2310",
+      "daira": "CHETAIBI"
+    },
+    {
+      "code": "2305",
+      "daira": "EL BOUNI"
+    },
+    {
+      "code": "2303",
+      "daira": "EL HADJAR"
+    }
+  ],
+  "GUELMA": [
+    {
+      "code": "2427",
+      "daira": "AIN HESSAINIA"
+    },
+    {
+      "code": "2413",
+      "daira": "AIN MAKHLOUF"
+    },
+    {
+      "code": "2425",
+      "daira": "BOUCHEGOUF"
+    },
+    {
+      "code": "2418",
+      "daira": "GUELAAT BOUSBAA"
+    },
+    {
+      "code": "2401",
+      "daira": "GUELMA"
+    },
+    {
+      "code": "2419",
+      "daira": "HAMMAM DEBAGH"
+    },
+    {
+      "code": "2422",
+      "daira": "HAMMAM N'BAILS"
+    },
+    {
+      "code": "2426",
+      "daira": "HELIOPOLIS"
+    },
+    {
+      "code": "2415",
+      "daira": "KHEZARAS"
+    },
+    {
+      "code": "2404",
+      "daira": "OUED ZENATI"
+    }
+  ],
+  "CONSTANTINE": [
+    {
+      "code": "2507",
+      "daira": "AIN ABID"
+    },
+    {
+      "code": "2501",
+      "daira": "CONSTANTINE"
+    },
+    {
+      "code": "2506",
+      "daira": "EL KHROUB"
+    },
+    {
+      "code": "2502",
+      "daira": "HAMMA BOUZIANE"
+    },
+    {
+      "code": "2512",
+      "daira": "IBN ZIAD"
+    },
+    {
+      "code": "2504",
+      "daira": "ZIGHOUD YOUCEF"
+    }
+  ],
+  "MEDEA": [
+    {
+      "code": "2604",
+      "daira": "AIN BOUCIF"
+    },
+    {
+      "code": "2632",
+      "daira": "AZIZ"
+    },
+    {
+      "code": "2646",
+      "daira": "BENI SLIMANE"
+    },
+    {
+      "code": "2647",
+      "daira": "BERROUAGHIA"
+    },
+    {
+      "code": "2638",
+      "daira": "CHAHBOUNIA"
+    },
+    {
+      "code": "2618",
+      "daira": "CHELLALAT EL ADHAOURA"
+    },
+    {
+      "code": "2636",
+      "daira": "EL AZIZIA"
+    },
+    {
+      "code": "2607",
+      "daira": "EL OMARIA"
+    },
+    {
+      "code": "2609",
+      "daira": "GUELB EL KEBIR"
+    },
+    {
+      "code": "2635",
+      "daira": "KSAR EL BOUKHARI"
+    },
+    {
+      "code": "2601",
+      "daira": "MEDEA"
+    },
+    {
+      "code": "2643",
+      "daira": "OUAMRI"
+    },
+    {
+      "code": "2658",
+      "daira": "OULED ANTAR"
+    },
+    {
+      "code": "2602",
+      "daira": "OUZERA"
+    },
+    {
+      "code": "2648",
+      "daira": "SEGHOUANE"
+    },
+    {
+      "code": "2644",
+      "daira": "SI MAHDJOUB"
+    },
+    {
+      "code": "2626",
+      "daira": "SIDI NAAMANE"
+    },
+    {
+      "code": "2633",
+      "daira": "SOUAGHI"
+    },
+    {
+      "code": "2652",
+      "daira": "TABLAT"
+    }
+  ],
+  "MOSTAGANEM": [
+    {
+      "code": "2717",
+      "daira": "ACHAACHA"
+    },
+    {
+      "code": "2705",
+      "daira": "AIN NOUICY"
+    },
+    {
+      "code": "2707",
+      "daira": "AIN TEDELES"
+    },
+    {
+      "code": "2719",
+      "daira": "BOUGUIRAT"
+    },
+    {
+      "code": "2706",
+      "daira": "HASSI MAMECHE"
+    },
+    {
+      "code": "2711",
+      "daira": "KHEIR EDDINE"
+    },
+    {
+      "code": "2722",
+      "daira": "MESRA"
+    },
+    {
+      "code": "2701",
+      "daira": "MOSTAGANEM"
+    },
+    {
+      "code": "2712",
+      "daira": "SIDI ALI"
+    },
+    {
+      "code": "2716",
+      "daira": "SIDI LAKHDAR"
+    }
+  ],
+  "M'SILA": [
+    {
+      "code": "2817",
+      "daira": "AIN EL HADJEL"
+    },
+    {
+      "code": "2841",
+      "daira": "AIN EL MELH"
+    },
+    {
+      "code": "2824",
+      "daira": "BEN SROUR"
+    },
+    {
+      "code": "2820",
+      "daira": "BOUSAADA"
+    },
+    {
+      "code": "2809",
+      "daira": "CHELLAL"
+    },
+    {
+      "code": "2847",
+      "daira": "DJEBEL MESSAAD"
+    },
+    {
+      "code": "2803",
+      "daira": "HAMMAM DALAA"
+    },
+    {
+      "code": "2807",
+      "daira": "KHOUBANA"
+    },
+    {
+      "code": "2801",
+      "daira": "M'SILA"
+    },
+    {
+      "code": "2811",
+      "daira": "MAGRA"
+    },
+    {
+      "code": "2842",
+      "daira": "MEDJEDEL"
+    },
+    {
+      "code": "2804",
+      "daira": "OULED DERRADJ"
+    },
+    {
+      "code": "2821",
+      "daira": "OULED SIDI BRAHIM"
+    },
+    {
+      "code": "2816",
+      "daira": "SIDI AISSA"
+    },
+    {
+      "code": "2822",
+      "daira": "SIDI AMEUR"
+    }
+  ],
+  "MASCARA": [
+    {
+      "code": "2924",
+      "daira": "AIN FARES"
+    },
+    {
+      "code": "2918",
+      "daira": "AIN FEKAN"
+    },
+    {
+      "code": "2923",
+      "daira": "AOUF"
+    },
+    {
+      "code": "2902",
+      "daira": "BOUHANIFIA"
+    },
+    {
+      "code": "2917",
+      "daira": "EL BORDJ"
+    },
+    {
+      "code": "2912",
+      "daira": "GHRISS"
+    },
+    {
+      "code": "2907",
+      "daira": "HACHEM"
+    },
+    {
+      "code": "2901",
+      "daira": "MASCARA"
+    },
+    {
+      "code": "2931",
+      "daira": "MOHAMMADIA"
+    },
+    {
+      "code": "2927",
+      "daira": "OGGAZ"
+    },
+    {
+      "code": "2910",
+      "daira": "OUED EL ABTAL"
+    },
+    {
+      "code": "2922",
+      "daira": "OUED TARIA"
+    },
+    {
+      "code": "2926",
+      "daira": "SIG"
+    },
+    {
+      "code": "2906",
+      "daira": "TIGHENNIF"
+    },
+    {
+      "code": "2903",
+      "daira": "TIZI"
+    },
+    {
+      "code": "2930",
+      "daira": "ZAHANA"
+    }
+  ],
+  "OUARGLA": [
+    {
+      "code": "3021",
+      "daira": "EL BORMA"
+    },
+    {
+      "code": "3014",
+      "daira": "EL-HADJIRA"
+    },
+    {
+      "code": "3004",
+      "daira": "HASSI MESSAOUD"
+    },
+    {
+      "code": "3019",
+      "daira": "MEGARINE"
+    },
+    {
+      "code": "3003",
+      "daira": "N'GOUSSA"
+    },
+    {
+      "code": "3001",
+      "daira": "OUARGLA"
+    },
+    {
+      "code": "3011",
+      "daira": "SIDI KHOUILED"
+    },
+    {
+      "code": "3015",
+      "daira": "TAIBET"
+    },
+    {
+      "code": "3016",
+      "daira": "TEMACINE"
+    },
+    {
+      "code": "3013",
+      "daira": "TOUGGOURT"
+    },
+    {
+      "code": "3013",
+      "daira": "TOUGGOURT (wilaya déléguée)"
+    }
+  ],
+  "ORAN": [
+    {
+      "code": "3109",
+      "daira": "AIN TURK"
+    },
+    {
+      "code": "3106",
+      "daira": "ARZEW"
+    },
+    {
+      "code": "3107",
+      "daira": "BETHIOUA"
+    },
+    {
+      "code": "3103",
+      "daira": "BIR EL DJIR"
+    },
+    {
+      "code": "3124",
+      "daira": "BOUTLELIS"
+    },
+    {
+      "code": "3105",
+      "daira": "ES SENIA"
+    },
+    {
+      "code": "3102",
+      "daira": "GDYEL"
+    },
+    {
+      "code": "3101",
+      "daira": "ORAN"
+    },
+    {
+      "code": "3111",
+      "daira": "OUED TLELAT"
+    }
+  ],
+  "EL BAYADH": [
+    {
+      "code": "3204",
+      "daira": "BOUALEM"
+    },
+    {
+      "code": "3206",
+      "daira": "BOUGTOB"
+    },
+    {
+      "code": "3207",
+      "daira": "BOUSSEMGHOUN"
+    },
+    {
+      "code": "3203",
+      "daira": "BREZINA"
+    },
+    {
+      "code": "3208",
+      "daira": "CHELLALA"
+    },
+    {
+      "code": "3201",
+      "daira": "EL BAYADH"
+    },
+    {
+      "code": "3205",
+      "daira": "LABIODH SIDI CHEIKH"
+    },
+    {
+      "code": "3202",
+      "daira": "ROGASSA"
+    }
+  ],
+  "ILLIZI": [
+    {
+      "code": "3302",
+      "daira": "DJANET"
+    },
+    {
+      "code": "3302",
+      "daira": "DJANET (wilaya déléguée)"
+    },
+    {
+      "code": "3301",
+      "daira": "ILLIZI"
+    },
+    {
+      "code": "3306",
+      "daira": "IN AMENAS"
+    }
+  ],
+  "B.B.ARRERIDJ": [
+    {
+      "code": "3408",
+      "daira": "AIN TAGHROUT"
+    },
+    {
+      "code": "3431",
+      "daira": "BIR KASDALI"
+    },
+    {
+      "code": "3401",
+      "daira": "BORDJ BOU ARRERIDJ"
+    },
+    {
+      "code": "3409",
+      "daira": "BORDJ GHEDIR"
+    },
+    {
+      "code": "3403",
+      "daira": "BORDJ ZEMMOURA"
+    },
+    {
+      "code": "3415",
+      "daira": "DJAAFRA"
+    },
+    {
+      "code": "3411",
+      "daira": "EL HAMADIA"
+    },
+    {
+      "code": "3404",
+      "daira": "MANSOURAH"
+    },
+    {
+      "code": "3413",
+      "daira": "MEDJANA"
+    },
+    {
+      "code": "3402",
+      "daira": "RAS EL OUED"
+    }
+  ],
+  "BOUMERDES": [
+    {
+      "code": "3505",
+      "daira": "BAGHLIA"
+    },
+    {
+      "code": "3504",
+      "daira": "BORDJ MENAIEL"
+    },
+    {
+      "code": "3502",
+      "daira": "BOUDOUAOU"
+    },
+    {
+      "code": "3501",
+      "daira": "BOUMERDES"
+    },
+    {
+      "code": "3523",
+      "daira": "DELLYS"
+    },
+    {
+      "code": "3509",
+      "daira": "ISSER"
+    },
+    {
+      "code": "3531",
+      "daira": "KHEMIS EL KHECHNA"
+    },
+    {
+      "code": "3507",
+      "daira": "NACIRIA"
+    },
+    {
+      "code": "3514",
+      "daira": "THENIA"
+    }
+  ],
+  "EL TARF": [
+    {
+      "code": "3603",
+      "daira": "BEN M'HIDI"
+    },
+    {
+      "code": "3616",
+      "daira": "BESBES"
+    },
+    {
+      "code": "3602",
+      "daira": "BOUHADJAR"
+    },
+    {
+      "code": "3608",
+      "daira": "BOUTELDJA"
+    },
+    {
+      "code": "3613",
+      "daira": "DREAN"
+    },
+    {
+      "code": "3605",
+      "daira": "EL KALA"
+    },
+    {
+      "code": "3601",
+      "daira": "EL TARF"
+    }
+  ],
+  "TINDOUF": [
+    {
+      "code": "3701",
+      "daira": "TINDOUF"
+    }
+  ],
+  "TISSEMSILT": [
+    {
+      "code": "3813",
+      "daira": "AMMARI"
+    },
+    {
+      "code": "3802",
+      "daira": "BORDJ BOUNAAMA"
+    },
+    {
+      "code": "3809",
+      "daira": "BORDJ EMIR ABDELKADER"
+    },
+    {
+      "code": "3811",
+      "daira": "KHEMISTI"
+    },
+    {
+      "code": "3806",
+      "daira": "LARDJEM"
+    },
+    {
+      "code": "3804",
+      "daira": "LAZHARIA"
+    },
+    {
+      "code": "3803",
+      "daira": "THENIET EL HAD"
+    },
+    {
+      "code": "3801",
+      "daira": "TISSEMSILT"
+    }
+  ],
+  "EL-OUED": [
+    {
+      "code": "3904",
+      "daira": "BAYADHA"
+    },
+    {
+      "code": "3911",
+      "daira": "DEBILA"
+    },
+    {
+      "code": "3928",
+      "daira": "DJAMAA"
+    },
+    {
+      "code": "3927",
+      "daira": "EL MEGHAIER"
+    },
+    {
+      "code": "3927",
+      "daira": "EL MEGHAIER (wilaya déléguée)"
+    },
+    {
+      "code": "3901",
+      "daira": "EL OUED"
+    },
+    {
+      "code": "3906",
+      "daira": "GUEMAR"
+    },
+    {
+      "code": "3913",
+      "daira": "HASSI KHALIFA"
+    },
+    {
+      "code": "3918",
+      "daira": "MAGRANE"
+    },
+    {
+      "code": "3926",
+      "daira": "MIH OUENSA"
+    },
+    {
+      "code": "3908",
+      "daira": "REGUIBA"
+    },
+    {
+      "code": "3902",
+      "daira": "ROBBAH"
+    },
+    {
+      "code": "3914",
+      "daira": "TALEB LARBI"
+    }
+  ],
+  "KHENCHELA": [
+    {
+      "code": "4006",
+      "daira": "AIN TOUILA"
+    },
+    {
+      "code": "4013",
+      "daira": "BABAR"
+    },
+    {
+      "code": "4008",
+      "daira": "BOUHMAMA"
+    },
+    {
+      "code": "4011",
+      "daira": "CHECHAR"
+    },
+    {
+      "code": "4005",
+      "daira": "EL HAMMA"
+    },
+    {
+      "code": "4003",
+      "daira": "KAIS"
+    },
+    {
+      "code": "4001",
+      "daira": "KHENCHELA"
+    },
+    {
+      "code": "4016",
+      "daira": "OULED RECHACHE"
+    }
+  ],
+  "SOUK AHRAS": [
+    {
+      "code": "4114",
+      "daira": "BIR BOUHOUCHE"
+    },
+    {
+      "code": "4110",
+      "daira": "HADDADA"
+    },
+    {
+      "code": "4115",
+      "daira": "M'DAOUROUCHE"
+    },
+    {
+      "code": "4104",
+      "daira": "MECHROHA"
+    },
+    {
+      "code": "4112",
+      "daira": "MERAHNA"
+    },
+    {
+      "code": "4105",
+      "daira": "OULED DRISS"
+    },
+    {
+      "code": "4116",
+      "daira": "OUM EL ADHAIM"
+    },
+    {
+      "code": "4102",
+      "daira": "SEDRATA"
+    },
+    {
+      "code": "4101",
+      "daira": "SOUK AHRAS"
+    },
+    {
+      "code": "4108",
+      "daira": "TAOURA"
+    }
+  ],
+  "TIPAZA": [
+    {
+      "code": "4219",
+      "daira": "AHMAR EL AIN"
+    },
+    {
+      "code": "4218",
+      "daira": "BOU ISMAIL"
+    },
+    {
+      "code": "4214",
+      "daira": "CHERCHELL"
+    },
+    {
+      "code": "4215",
+      "daira": "DAMOUS"
+    },
+    {
+      "code": "4217",
+      "daira": "FOUKA"
+    },
+    {
+      "code": "4210",
+      "daira": "GOURAYA"
+    },
+    {
+      "code": "4208",
+      "daira": "HADJOUT"
+    },
+    {
+      "code": "4224",
+      "daira": "KOLEA"
+    },
+    {
+      "code": "4209",
+      "daira": "SIDI AMAR"
+    },
+    {
+      "code": "4201",
+      "daira": "TIPAZA"
+    }
+  ],
+  "MILA": [
+    {
+      "code": "4330",
+      "daira": "AIN BEIDA HARRICHE"
+    },
+    {
+      "code": "4314",
+      "daira": "BOUHATEM"
+    },
+    {
+      "code": "4303",
+      "daira": "CHELGHOUM LAID"
+    },
+    {
+      "code": "4302",
+      "daira": "FERDJIOUA"
+    },
+    {
+      "code": "4317",
+      "daira": "GRAREM GOUGA"
+    },
+    {
+      "code": "4301",
+      "daira": "MILA"
+    },
+    {
+      "code": "4310",
+      "daira": "OUED ENDJA"
+    },
+    {
+      "code": "4315",
+      "daira": "ROUACHED"
+    },
+    {
+      "code": "4318",
+      "daira": "SIDI MEROUANE"
+    },
+    {
+      "code": "4308",
+      "daira": "TADJENANET"
+    },
+    {
+      "code": "4319",
+      "daira": "TASSADANE HADDADA"
+    },
+    {
+      "code": "4306",
+      "daira": "TELEGHMA"
+    },
+    {
+      "code": "4323",
+      "daira": "TERRAI BAINEN"
+    }
+  ],
+  "AIN-DEFLA": [
+    {
+      "code": "4401",
+      "daira": "AIN DEFLA"
+    },
+    {
+      "code": "4414",
+      "daira": "AIN LECHIAKH"
+    },
+    {
+      "code": "4431",
+      "daira": "BATHIA"
+    },
+    {
+      "code": "4422",
+      "daira": "BORDJ EL EMIR KHALED"
+    },
+    {
+      "code": "4403",
+      "daira": "BOUMEDFAA"
+    },
+    {
+      "code": "4407",
+      "daira": "DJELIDA"
+    },
+    {
+      "code": "4412",
+      "daira": "DJENDEL"
+    },
+    {
+      "code": "4411",
+      "daira": "EL ABADIA"
+    },
+    {
+      "code": "4408",
+      "daira": "EL AMRA"
+    },
+    {
+      "code": "4410",
+      "daira": "EL ATTAF"
+    },
+    {
+      "code": "4405",
+      "daira": "HAMMAM RIGHA"
+    },
+    {
+      "code": "4404",
+      "daira": "KHEMIS"
+    },
+    {
+      "code": "4402",
+      "daira": "MILIANA"
+    },
+    {
+      "code": "4416",
+      "daira": "ROUINA"
+    }
+  ],
+  "NAAMA": [
+    {
+      "code": "4503",
+      "daira": "AIN SEFRA"
+    },
+    {
+      "code": "4507",
+      "daira": "ASLA"
+    },
+    {
+      "code": "4502",
+      "daira": "MECHERIA"
+    },
+    {
+      "code": "4510",
+      "daira": "MEKMEN BEN AMAR"
+    },
+    {
+      "code": "4506",
+      "daira": "MOGHRAR"
+    },
+    {
+      "code": "4501",
+      "daira": "NAAMA"
+    },
+    {
+      "code": "4505",
+      "daira": "SFISSIFA"
+    }
+  ],
+  "AIN TEMOUCHENT": [
+    {
+      "code": "4622",
+      "daira": "AIN KIHEL"
+    },
+    {
+      "code": "4609",
+      "daira": "AIN LARBAA"
+    },
+    {
+      "code": "4601",
+      "daira": "AIN TEMOUCHENT"
+    },
+    {
+      "code": "4623",
+      "daira": "BENI SAF"
+    },
+    {
+      "code": "4619",
+      "daira": "EL AMRIA"
+    },
+    {
+      "code": "4614",
+      "daira": "EL MALEH"
+    },
+    {
+      "code": "4604",
+      "daira": "HAMMAM BOU HADJAR"
+    },
+    {
+      "code": "4625",
+      "daira": "OULHASSA GHERABA"
+    }
+  ],
+  "GHARDAIA": [
+    {
+      "code": "4704",
+      "daira": "BERRIANE"
+    },
+    {
+      "code": "4710",
+      "daira": "BOUNOURA"
+    },
+    {
+      "code": "4703",
+      "daira": "DHAYET BEN DHAHOUA"
+    },
+    {
+      "code": "4706",
+      "daira": "EL GUERRARA"
+    },
+    {
+      "code": "4702",
+      "daira": "EL MENIA"
+    },
+    {
+      "code": "4702",
+      "daira": "EL MENIA (wilaya déléguée)"
+    },
+    {
+      "code": "4701",
+      "daira": "GHARDAIA"
+    },
+    {
+      "code": "4713",
+      "daira": "MANSOURAH"
+    },
+    {
+      "code": "4705",
+      "daira": "METLILI"
+    },
+    {
+      "code": "4708",
+      "daira": "ZELFANA"
+    }
+  ],
+  "RELIZANE": [
+    {
+      "code": "4819",
+      "daira": "AIN TAREK"
+    },
+    {
+      "code": "4811",
+      "daira": "AMMI MOUSSA"
+    },
+    {
+      "code": "4814",
+      "daira": "DJIDIOUIA"
+    },
+    {
+      "code": "4807",
+      "daira": "EL H'MADNA"
+    },
+    {
+      "code": "4817",
+      "daira": "EL MATMAR"
+    },
+    {
+      "code": "4822",
+      "daira": "MAZOUNA"
+    },
+    {
+      "code": "4828",
+      "daira": "MENDES"
+    },
+    {
+      "code": "4802",
+      "daira": "OUED RHIOU"
+    },
+    {
+      "code": "4827",
+      "daira": "RAMKA"
+    },
+    {
+      "code": "4801",
+      "daira": "RELIZANE"
+    },
+    {
+      "code": "4808",
+      "daira": "SIDI M'HAMED BEN ALI"
+    },
+    {
+      "code": "4825",
+      "daira": "YELLEL"
+    },
+    {
+      "code": "4812",
+      "daira": "ZEMMOURA"
+    }
+  ]
+}
