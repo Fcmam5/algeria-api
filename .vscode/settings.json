@@ -1,5 +1,12 @@
 {
   "editor.tabSize": 2,
   "eslint.autoFixOnSave": true,
-  "eslint.enable": true
+  "eslint.enable": true,
+  "window.titleBarStyle": "custom",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.activeBackground": "#4CAF50",
+    "statusBar.background": "#F44336"
+  },
+  "window.title": "${dirty}${activeEditorShort}${separator} 🇩🇿 ${rootName}${separator}${appName}"
 }
