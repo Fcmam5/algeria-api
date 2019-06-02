@@ -15,13 +15,6 @@ async function getDairas(wilaya) {
   return rs;
 }
 
-async function getBaladyiahts(dairaCode) {
-  const html = await rp(baladyiahUrl(dairaCode));
-  const rs = $('#content table.table tbody tr:not(:first-child)', html)
-    .map((i, elm) => $(elm).find('td:nth-of-type(2)').text().trim()).get();
-  return rs;
-}
-
 (async function main() {
   const result = {};
   const dayrasPromises = WILAYAS.map((wilaya, index) => getDairas(index + 1));
@@ -34,6 +27,4 @@ async function getBaladyiahts(dairaCode) {
 
     fs.writeFileSync(`${__dirname}/dairasPerWilaya.json`, JSON.stringify(result));
   });
-
-  // TODO: Get Baladyiats
 }());

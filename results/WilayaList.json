@@ -87,80 +87,80 @@
     "dairats": [
       {
         "name": "ADRAR",
-        "name_ar": "ADRAR",
+        "name_ar": "أدرار",
         "name_en": "ADRAR",
         "baladyiats": []
       },
       {
-        "name": "AOUGROUT",
-        "name_ar": "AOUGROUT",
-        "name_en": "AOUGROUT",
-        "baladyiats": []
-      },
-      {
-        "name": "AOULEF",
-        "name_ar": "AOULEF",
-        "name_en": "AOULEF",
-        "baladyiats": []
-      },
-      {
-        "name": "BORDJ BADJI MOKHTAR",
-        "name_ar": "BORDJ BADJI MOKHTAR",
-        "name_en": "BORDJ BADJI MOKHTAR",
-        "baladyiats": []
-      },
-      {
-        "name": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
-        "name_ar": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
-        "name_en": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
         "name": "CHAROUINE",
-        "name_ar": "CHAROUINE",
+        "name_ar": "شروين",
         "name_en": "CHAROUINE",
         "baladyiats": []
       },
       {
-        "name": "FENOUGHIL",
-        "name_ar": "FENOUGHIL",
-        "name_en": "FENOUGHIL",
-        "baladyiats": []
-      },
-      {
         "name": "REGGANE",
-        "name_ar": "REGGANE",
+        "name_ar": "رقان",
         "name_en": "REGGANE",
         "baladyiats": []
       },
       {
-        "name": "TIMIMOUN (wilaya déléguée)",
-        "name_ar": "TIMIMOUN (wilaya déléguée)",
-        "name_en": "TIMIMOUN (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
-        "name": "TIMIMOUN",
-        "name_ar": "TIMIMOUN",
-        "name_en": "TIMIMOUN",
-        "baladyiats": []
-      },
-      {
-        "name": "TINERKOUK",
-        "name_ar": "TINERKOUK",
-        "name_en": "TINERKOUK",
-        "baladyiats": []
-      },
-      {
         "name": "TSABIT",
-        "name_ar": "TSABIT",
+        "name_ar": "تسابيت",
         "name_en": "TSABIT",
         "baladyiats": []
       },
       {
+        "name": "TIMIMOUN",
+        "name_ar": "تيميمون",
+        "name_en": "TIMIMOUN",
+        "baladyiats": []
+      },
+      {
         "name": "ZAOUIAT KOUNTA",
-        "name_ar": "ZAOUIAT KOUNTA",
+        "name_ar": "زاوية كنتة",
         "name_en": "ZAOUIAT KOUNTA",
+        "baladyiats": []
+      },
+      {
+        "name": "AOULEF",
+        "name_ar": "أولف",
+        "name_en": "AOULEF",
+        "baladyiats": []
+      },
+      {
+        "name": "FENOUGHIL",
+        "name_ar": "فنوغيل",
+        "name_en": "FENOUGHIL",
+        "baladyiats": []
+      },
+      {
+        "name": "TINERKOUK",
+        "name_ar": "تنركوك",
+        "name_en": "TINERKOUK",
+        "baladyiats": []
+      },
+      {
+        "name": "AOUGROUT",
+        "name_ar": "أوقروت",
+        "name_en": "AOUGROUT",
+        "baladyiats": []
+      },
+      {
+        "name": "BORDJ BADJI MOKHTAR",
+        "name_ar": "برج باجي مختار",
+        "name_en": "BORDJ BADJI MOKHTAR",
+        "baladyiats": []
+      },
+      {
+        "name": "TIMIMOUN (wilaya déléguée)",
+        "name_ar": "تيميمون (ولاية منتدبة)",
+        "name_en": "TIMIMOUN (wilaya déléguée)",
+        "baladyiats": []
+      },
+      {
+        "name": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
+        "name_ar": "برج باجي مختار (ولاية منتدبة)",
+        "name_en": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
         "baladyiats": []
       }
     ]
@@ -278,81 +278,81 @@
     ],
     "dairats": [
       {
-        "name": "ABOU EL HASSANE",
-        "name_ar": "ABOU EL HASSANE",
-        "name_en": "ABOU EL HASSANE",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN MERANE",
-        "name_ar": "AIN MERANE",
-        "name_en": "AIN MERANE",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI HAOUA",
-        "name_ar": "BENI HAOUA",
-        "name_en": "BENI HAOUA",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUKADIR",
-        "name_ar": "BOUKADIR",
-        "name_en": "BOUKADIR",
-        "baladyiats": []
-      },
-      {
         "name": "CHLEF",
-        "name_ar": "CHLEF",
+        "name_ar": "الشلف",
         "name_en": "CHLEF",
         "baladyiats": []
       },
       {
+        "name": "TENES",
+        "name_ar": "تنس",
+        "name_en": "TENES",
+        "baladyiats": []
+      },
+      {
         "name": "EL KARIMIA",
-        "name_ar": "EL KARIMIA",
+        "name_ar": "الكريمية",
         "name_en": "EL KARIMIA",
         "baladyiats": []
       },
       {
+        "name": "TAOUGRIT",
+        "name_ar": "تاوقريت",
+        "name_en": "TAOUGRIT",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI HAOUA",
+        "name_ar": "بني حواء",
+        "name_en": "BENI HAOUA",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED FARES",
+        "name_ar": "أولاد فارس",
+        "name_en": "OULED FARES",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUKADIR",
+        "name_ar": "بوقادير",
+        "name_en": "BOUKADIR",
+        "baladyiats": []
+      },
+      {
+        "name": "ZEBOUDJA",
+        "name_ar": "الزبوجة",
+        "name_en": "ZEBOUDJA",
+        "baladyiats": []
+      },
+      {
+        "name": "ABOU EL HASSANE",
+        "name_ar": "أبو الحسن",
+        "name_en": "ABOU EL HASSANE",
+        "baladyiats": []
+      },
+      {
         "name": "EL MARSA",
-        "name_ar": "EL MARSA",
+        "name_ar": "المرسى",
         "name_en": "EL MARSA",
         "baladyiats": []
       },
       {
         "name": "OUED FODDA",
-        "name_ar": "OUED FODDA",
+        "name_ar": "وادي الفضة",
         "name_en": "OUED FODDA",
         "baladyiats": []
       },
       {
         "name": "OULED BEN ABDELKADER",
-        "name_ar": "OULED BEN ABDELKADER",
+        "name_ar": "أولاد بن عبد القادر",
         "name_en": "OULED BEN ABDELKADER",
         "baladyiats": []
       },
       {
-        "name": "OULED FARES",
-        "name_ar": "OULED FARES",
-        "name_en": "OULED FARES",
-        "baladyiats": []
-      },
-      {
-        "name": "TAOUGRIT",
-        "name_ar": "TAOUGRIT",
-        "name_en": "TAOUGRIT",
-        "baladyiats": []
-      },
-      {
-        "name": "TENES",
-        "name_ar": "TENES",
-        "name_en": "TENES",
-        "baladyiats": []
-      },
-      {
-        "name": "ZEBOUDJA",
-        "name_ar": "ZEBOUDJA",
-        "name_en": "ZEBOUDJA",
+        "name": "AIN MERANE",
+        "name_ar": "عين مران",
+        "name_en": "AIN MERANE",
         "baladyiats": []
       }
     ]
@@ -421,63 +421,63 @@
     ],
     "dairats": [
       {
-        "name": "AFLOU",
-        "name_ar": "AFLOU",
-        "name_en": "AFLOU",
+        "name": "LAGHOUAT",
+        "name_ar": "الأغواط",
+        "name_en": "LAGHOUAT",
+        "baladyiats": []
+      },
+      {
+        "name": "KSAR EL HIRANE",
+        "name_ar": "قصر الحيران",
+        "name_en": "KSAR EL HIRANE",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI MAKHLOUF",
+        "name_ar": "سيدي مخلوف",
+        "name_en": "SIDI MAKHLOUF",
+        "baladyiats": []
+      },
+      {
+        "name": "HASSI R'MEL",
+        "name_ar": "حاسي الرمل",
+        "name_en": "HASSI R'MEL",
         "baladyiats": []
       },
       {
         "name": "AIN MADHI",
-        "name_ar": "AIN MADHI",
+        "name_ar": "عين ماضي",
         "name_en": "AIN MADHI",
         "baladyiats": []
       },
       {
+        "name": "GUELTAT SIDI SAAD",
+        "name_ar": "قتلة سيدي سعيد",
+        "name_en": "GUELTAT SIDI SAAD",
+        "baladyiats": []
+      },
+      {
         "name": "BRIDA",
-        "name_ar": "BRIDA",
+        "name_ar": "بريدة",
         "name_en": "BRIDA",
         "baladyiats": []
       },
       {
         "name": "EL GHICHA",
-        "name_ar": "EL GHICHA",
+        "name_ar": "الغيشة",
         "name_en": "EL GHICHA",
         "baladyiats": []
       },
       {
-        "name": "GUELTAT SIDI SAAD",
-        "name_ar": "GUELTAT SIDI SAAD",
-        "name_en": "GUELTAT SIDI SAAD",
-        "baladyiats": []
-      },
-      {
-        "name": "HASSI R'MEL",
-        "name_ar": "HASSI R'MEL",
-        "name_en": "HASSI R'MEL",
-        "baladyiats": []
-      },
-      {
-        "name": "KSAR EL HIRANE",
-        "name_ar": "KSAR EL HIRANE",
-        "name_en": "KSAR EL HIRANE",
-        "baladyiats": []
-      },
-      {
-        "name": "LAGHOUAT",
-        "name_ar": "LAGHOUAT",
-        "name_en": "LAGHOUAT",
+        "name": "AFLOU",
+        "name_ar": "أفلو",
+        "name_en": "AFLOU",
         "baladyiats": []
       },
       {
         "name": "OUED MORRA",
-        "name_ar": "OUED MORRA",
+        "name_ar": "وادي مرة",
         "name_en": "OUED MORRA",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI MAKHLOUF",
-        "name_ar": "SIDI MAKHLOUF",
-        "name_en": "SIDI MAKHLOUF",
         "baladyiats": []
       }
     ]
@@ -561,75 +561,75 @@
     ],
     "dairats": [
       {
-        "name": "AIN BABOUCHE",
-        "name_ar": "AIN BABOUCHE",
-        "name_en": "AIN BABOUCHE",
+        "name": "OUM EL BOUAGHI",
+        "name_ar": "أم البواقي",
+        "name_en": "OUM EL BOUAGHI",
         "baladyiats": []
       },
       {
         "name": "AIN BEIDA",
-        "name_ar": "AIN BEIDA",
+        "name_ar": "عين البيضاء",
         "name_en": "AIN BEIDA",
         "baladyiats": []
       },
       {
-        "name": "AIN FEKROUN",
-        "name_ar": "AIN FEKROUN",
-        "name_en": "AIN FEKROUN",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN KERCHA",
-        "name_ar": "AIN KERCHA",
-        "name_en": "AIN KERCHA",
-        "baladyiats": []
-      },
-      {
         "name": "AIN M'LILA",
-        "name_ar": "AIN M'LILA",
+        "name_ar": "عين مليلة",
         "name_en": "AIN M'LILA",
         "baladyiats": []
       },
       {
+        "name": "SIGUS",
+        "name_ar": "سيقوس",
+        "name_en": "SIGUS",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN BABOUCHE",
+        "name_ar": "عين ببوش",
+        "name_en": "AIN BABOUCHE",
+        "baladyiats": []
+      },
+      {
         "name": "DHALAA",
-        "name_ar": "DHALAA",
+        "name_ar": "الضلعة",
         "name_en": "DHALAA",
         "baladyiats": []
       },
       {
+        "name": "AIN KERCHA",
+        "name_ar": "عين كرشة",
+        "name_en": "AIN KERCHA",
+        "baladyiats": []
+      },
+      {
         "name": "F'KIRINA",
-        "name_ar": "F'KIRINA",
+        "name_ar": "فكيرينة",
         "name_en": "F'KIRINA",
         "baladyiats": []
       },
       {
+        "name": "SOUK NAAMANE",
+        "name_ar": "سوق نعمان",
+        "name_en": "SOUK NAAMANE",
+        "baladyiats": []
+      },
+      {
         "name": "KSAR SBAHI",
-        "name_ar": "KSAR SBAHI",
+        "name_ar": "قصر الصباحي",
         "name_en": "KSAR SBAHI",
         "baladyiats": []
       },
       {
         "name": "MESKIANA",
-        "name_ar": "MESKIANA",
+        "name_ar": "مسكيانة",
         "name_en": "MESKIANA",
         "baladyiats": []
       },
       {
-        "name": "OUM EL BOUAGHI",
-        "name_ar": "OUM EL BOUAGHI",
-        "name_en": "OUM EL BOUAGHI",
-        "baladyiats": []
-      },
-      {
-        "name": "SIGUS",
-        "name_ar": "SIGUS",
-        "name_en": "SIGUS",
-        "baladyiats": []
-      },
-      {
-        "name": "SOUK NAAMANE",
-        "name_ar": "SOUK NAAMANE",
-        "name_en": "SOUK NAAMANE",
+        "name": "AIN FEKROUN",
+        "name_ar": "عين فكرون",
+        "name_en": "AIN FEKROUN",
         "baladyiats": []
       }
     ]
@@ -791,129 +791,129 @@
     ],
     "dairats": [
       {
-        "name": "AIN DJASSER",
-        "name_ar": "AIN DJASSER",
-        "name_en": "AIN DJASSER",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN TOUTA",
-        "name_ar": "AIN TOUTA",
-        "name_en": "AIN TOUTA",
-        "baladyiats": []
-      },
-      {
-        "name": "ARRIS",
-        "name_ar": "ARRIS",
-        "name_en": "ARRIS",
-        "baladyiats": []
-      },
-      {
-        "name": "BARIKA",
-        "name_ar": "BARIKA",
-        "name_en": "BARIKA",
-        "baladyiats": []
-      },
-      {
         "name": "BATNA",
-        "name_ar": "BATNA",
+        "name_ar": "باتنة",
         "name_en": "BATNA",
         "baladyiats": []
       },
       {
+        "name": "MEROUANA",
+        "name_ar": "مروانة",
+        "name_en": "MEROUANA",
+        "baladyiats": []
+      },
+      {
+        "name": "SERIANA",
+        "name_ar": "سريانة",
+        "name_en": "SERIANA",
+        "baladyiats": []
+      },
+      {
+        "name": "MENAA",
+        "name_ar": "منعة",
+        "name_en": "MENAA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL MADHER",
+        "name_ar": "المعذر",
+        "name_en": "EL MADHER",
+        "baladyiats": []
+      },
+      {
+        "name": "TAZOULT",
+        "name_ar": "تازولت",
+        "name_en": "TAZOULT",
+        "baladyiats": []
+      },
+      {
+        "name": "N'GAOUS",
+        "name_ar": "نقاوس",
+        "name_en": "N'GAOUS",
+        "baladyiats": []
+      },
+      {
+        "name": "ARRIS",
+        "name_ar": "أريس",
+        "name_en": "ARRIS",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN DJASSER",
+        "name_ar": "عين جاسر",
+        "name_en": "AIN DJASSER",
+        "baladyiats": []
+      },
+      {
+        "name": "SEGGANA",
+        "name_ar": "سقانة",
+        "name_en": "SEGGANA",
+        "baladyiats": []
+      },
+      {
+        "name": "ICHEMOUL",
+        "name_ar": "إشمول",
+        "name_en": "ICHEMOUL",
+        "baladyiats": []
+      },
+      {
         "name": "BOUZINA",
-        "name_ar": "BOUZINA",
+        "name_ar": "بوزينة",
         "name_en": "BOUZINA",
         "baladyiats": []
       },
       {
         "name": "CHEMORA",
-        "name_ar": "CHEMORA",
+        "name_ar": "الشمرة",
         "name_en": "CHEMORA",
         "baladyiats": []
       },
       {
+        "name": "BARIKA",
+        "name_ar": "بريكة",
+        "name_en": "BARIKA",
+        "baladyiats": []
+      },
+      {
         "name": "DJEZZAR",
-        "name_ar": "DJEZZAR",
+        "name_ar": "الجزار",
         "name_en": "DJEZZAR",
         "baladyiats": []
       },
       {
-        "name": "EL MADHER",
-        "name_ar": "EL MADHER",
-        "name_en": "EL MADHER",
+        "name": "TKOUT",
+        "name_ar": "تكوت",
+        "name_en": "TKOUT",
         "baladyiats": []
       },
       {
-        "name": "ICHEMOUL",
-        "name_ar": "ICHEMOUL",
-        "name_en": "ICHEMOUL",
-        "baladyiats": []
-      },
-      {
-        "name": "MENAA",
-        "name_ar": "MENAA",
-        "name_en": "MENAA",
-        "baladyiats": []
-      },
-      {
-        "name": "MEROUANA",
-        "name_ar": "MEROUANA",
-        "name_en": "MEROUANA",
-        "baladyiats": []
-      },
-      {
-        "name": "N'GAOUS",
-        "name_ar": "N'GAOUS",
-        "name_en": "N'GAOUS",
-        "baladyiats": []
-      },
-      {
-        "name": "OULED SI SLIMANE",
-        "name_ar": "OULED SI SLIMANE",
-        "name_en": "OULED SI SLIMANE",
-        "baladyiats": []
-      },
-      {
-        "name": "RAS EL AIOUN",
-        "name_ar": "RAS EL AIOUN",
-        "name_en": "RAS EL AIOUN",
-        "baladyiats": []
-      },
-      {
-        "name": "SEGGANA",
-        "name_ar": "SEGGANA",
-        "name_en": "SEGGANA",
-        "baladyiats": []
-      },
-      {
-        "name": "SERIANA",
-        "name_ar": "SERIANA",
-        "name_en": "SERIANA",
-        "baladyiats": []
-      },
-      {
-        "name": "TAZOULT",
-        "name_ar": "TAZOULT",
-        "name_en": "TAZOULT",
+        "name": "AIN TOUTA",
+        "name_ar": "عين التوتة",
+        "name_en": "AIN TOUTA",
         "baladyiats": []
       },
       {
         "name": "THENIET EL ABED",
-        "name_ar": "THENIET EL ABED",
+        "name_ar": "ثنية العابد",
         "name_en": "THENIET EL ABED",
         "baladyiats": []
       },
       {
         "name": "TIMGAD",
-        "name_ar": "TIMGAD",
+        "name_ar": "تيمقاد",
         "name_en": "TIMGAD",
         "baladyiats": []
       },
       {
-        "name": "TKOUT",
-        "name_ar": "TKOUT",
-        "name_en": "TKOUT",
+        "name": "RAS EL AIOUN",
+        "name_ar": "رأس العيون",
+        "name_en": "RAS EL AIOUN",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED SI SLIMANE",
+        "name_ar": "أولاد سي سليمان",
+        "name_en": "OULED SI SLIMANE",
         "baladyiats": []
       }
     ]
@@ -1072,117 +1072,117 @@
     ],
     "dairats": [
       {
+        "name": "BEJAIA",
+        "name_ar": "بجاية",
+        "name_en": "BEJAIA",
+        "baladyiats": []
+      },
+      {
+        "name": "AMIZOUR",
+        "name_ar": "أميزور",
+        "name_en": "AMIZOUR",
+        "baladyiats": []
+      },
+      {
+        "name": "TIMEZRIT",
+        "name_ar": "تيمزريت",
+        "name_en": "TIMEZRIT",
+        "baladyiats": []
+      },
+      {
+        "name": "SOUK EL TENINE",
+        "name_ar": "سوق الإثنين",
+        "name_en": "SOUK EL TENINE",
+        "baladyiats": []
+      },
+      {
+        "name": "TICHY",
+        "name_ar": "تيشي",
+        "name_en": "TICHY",
+        "baladyiats": []
+      },
+      {
+        "name": "IGHIL ALI",
+        "name_ar": "إغيل علي",
+        "name_en": "IGHIL ALI",
+        "baladyiats": []
+      },
+      {
+        "name": "DARGUINA",
+        "name_ar": "درقينة",
+        "name_en": "DARGUINA",
+        "baladyiats": []
+      },
+      {
+        "name": "AOKAS",
+        "name_ar": "أوقاس",
+        "name_en": "AOKAS",
+        "baladyiats": []
+      },
+      {
         "name": "ADEKAR",
-        "name_ar": "ADEKAR",
+        "name_ar": "أدكار",
         "name_en": "ADEKAR",
         "baladyiats": []
       },
       {
         "name": "AKBOU",
-        "name_ar": "AKBOU",
+        "name_ar": "أقبو",
         "name_en": "AKBOU",
         "baladyiats": []
       },
       {
-        "name": "AMIZOUR",
-        "name_ar": "AMIZOUR",
-        "name_en": "AMIZOUR",
-        "baladyiats": []
-      },
-      {
-        "name": "AOKAS",
-        "name_ar": "AOKAS",
-        "name_en": "AOKAS",
-        "baladyiats": []
-      },
-      {
-        "name": "BARBACHA",
-        "name_ar": "BARBACHA",
-        "name_en": "BARBACHA",
-        "baladyiats": []
-      },
-      {
-        "name": "BEJAIA",
-        "name_ar": "BEJAIA",
-        "name_en": "BEJAIA",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI MAOUCHE",
-        "name_ar": "BENI MAOUCHE",
-        "name_en": "BENI MAOUCHE",
-        "baladyiats": []
-      },
-      {
-        "name": "CHEMINI",
-        "name_ar": "CHEMINI",
-        "name_en": "CHEMINI",
-        "baladyiats": []
-      },
-      {
-        "name": "DARGUINA",
-        "name_ar": "DARGUINA",
-        "name_en": "DARGUINA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL KSEUR",
-        "name_ar": "EL KSEUR",
-        "name_en": "EL KSEUR",
-        "baladyiats": []
-      },
-      {
-        "name": "IFRI OUZELLAGUENE",
-        "name_ar": "IFRI OUZELLAGUENE",
-        "name_en": "IFRI OUZELLAGUENE",
-        "baladyiats": []
-      },
-      {
-        "name": "IGHIL ALI",
-        "name_ar": "IGHIL ALI",
-        "name_en": "IGHIL ALI",
-        "baladyiats": []
-      },
-      {
-        "name": "KHERRATA",
-        "name_ar": "KHERRATA",
-        "name_en": "KHERRATA",
-        "baladyiats": []
-      },
-      {
         "name": "SEDDOUK",
-        "name_ar": "SEDDOUK",
+        "name_ar": "صدوق",
         "name_en": "SEDDOUK",
         "baladyiats": []
       },
       {
-        "name": "SIDI AICH",
-        "name_ar": "SIDI AICH",
-        "name_en": "SIDI AICH",
-        "baladyiats": []
-      },
-      {
-        "name": "SOUK EL TENINE",
-        "name_ar": "SOUK EL TENINE",
-        "name_en": "SOUK EL TENINE",
-        "baladyiats": []
-      },
-      {
         "name": "TAZMALT",
-        "name_ar": "TAZMALT",
+        "name_ar": "تازملت",
         "name_en": "TAZMALT",
         "baladyiats": []
       },
       {
-        "name": "TICHY",
-        "name_ar": "TICHY",
-        "name_en": "TICHY",
+        "name": "CHEMINI",
+        "name_ar": "شميني",
+        "name_en": "CHEMINI",
         "baladyiats": []
       },
       {
-        "name": "TIMEZRIT",
-        "name_ar": "TIMEZRIT",
-        "name_en": "TIMEZRIT",
+        "name": "BARBACHA",
+        "name_ar": "برباشة",
+        "name_en": "BARBACHA",
+        "baladyiats": []
+      },
+      {
+        "name": "IFRI OUZELLAGUENE",
+        "name_ar": "إفري أوزلاقن",
+        "name_en": "IFRI OUZELLAGUENE",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI AICH",
+        "name_ar": "سيدي عيش",
+        "name_en": "SIDI AICH",
+        "baladyiats": []
+      },
+      {
+        "name": "EL KSEUR",
+        "name_ar": "القصر",
+        "name_en": "EL KSEUR",
+        "baladyiats": []
+      },
+      {
+        "name": "KHERRATA",
+        "name_ar": "خراطة",
+        "name_en": "KHERRATA",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI MAOUCHE",
+        "name_ar": "بني معوش",
+        "name_en": "BENI MAOUCHE",
         "baladyiats": []
       }
     ]
@@ -1296,80 +1296,80 @@
     "dairats": [
       {
         "name": "BISKRA",
-        "name_ar": "BISKRA",
+        "name_ar": "بسكرة",
         "name_en": "BISKRA",
         "baladyiats": []
       },
       {
-        "name": "DJEMORAH",
-        "name_ar": "DJEMORAH",
-        "name_en": "DJEMORAH",
-        "baladyiats": []
-      },
-      {
-        "name": "EL KANTARA",
-        "name_ar": "EL KANTARA",
-        "name_en": "EL KANTARA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL OUTAYA",
-        "name_ar": "EL OUTAYA",
-        "name_en": "EL OUTAYA",
-        "baladyiats": []
-      },
-      {
-        "name": "FOUGHALA",
-        "name_ar": "FOUGHALA",
-        "name_en": "FOUGHALA",
-        "baladyiats": []
-      },
-      {
-        "name": "MECHOUNECHE",
-        "name_ar": "MECHOUNECHE",
-        "name_en": "MECHOUNECHE",
-        "baladyiats": []
-      },
-      {
         "name": "OULED DJELLAL",
-        "name_ar": "OULED DJELLAL",
+        "name_ar": "أولاد جلال",
         "name_en": "OULED DJELLAL",
         "baladyiats": []
       },
       {
-        "name": "OULED DJELLAL (wilaya déléguée)",
-        "name_ar": "OULED DJELLAL (wilaya déléguée)",
-        "name_en": "OULED DJELLAL (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
-        "name": "OURLAL",
-        "name_ar": "OURLAL",
-        "name_en": "OURLAL",
-        "baladyiats": []
-      },
-      {
         "name": "SIDI KHALED",
-        "name_ar": "SIDI KHALED",
+        "name_ar": "سيدي  خالد",
         "name_en": "SIDI KHALED",
         "baladyiats": []
       },
       {
         "name": "SIDI OKBA",
-        "name_ar": "SIDI OKBA",
+        "name_ar": "سيدي عقبة",
         "name_en": "SIDI OKBA",
         "baladyiats": []
       },
       {
-        "name": "TOLGA",
-        "name_ar": "TOLGA",
-        "name_en": "TOLGA",
+        "name": "MECHOUNECHE",
+        "name_ar": "مشونش",
+        "name_en": "MECHOUNECHE",
         "baladyiats": []
       },
       {
         "name": "ZERIBET EL OUED",
-        "name_ar": "ZERIBET EL OUED",
+        "name_ar": "زريبة الوادي",
         "name_en": "ZERIBET EL OUED",
+        "baladyiats": []
+      },
+      {
+        "name": "EL KANTARA",
+        "name_ar": "القنطرة",
+        "name_en": "EL KANTARA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL OUTAYA",
+        "name_ar": "الوطاية",
+        "name_en": "EL OUTAYA",
+        "baladyiats": []
+      },
+      {
+        "name": "DJEMORAH",
+        "name_ar": "جمورة",
+        "name_en": "DJEMORAH",
+        "baladyiats": []
+      },
+      {
+        "name": "TOLGA",
+        "name_ar": "طولقة",
+        "name_en": "TOLGA",
+        "baladyiats": []
+      },
+      {
+        "name": "OURLAL",
+        "name_ar": "أورلال",
+        "name_en": "OURLAL",
+        "baladyiats": []
+      },
+      {
+        "name": "FOUGHALA",
+        "name_ar": "فوغالة",
+        "name_en": "FOUGHALA",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED DJELLAL (wilaya déléguée)",
+        "name_ar": "أولاد جلال (ولاية منتدبة)",
+        "name_en": "OULED DJELLAL (wilaya déléguée)",
         "baladyiats": []
       }
     ]
@@ -1446,81 +1446,81 @@
     ],
     "dairats": [
       {
-        "name": "ABADLA",
-        "name_ar": "ABADLA",
-        "name_en": "ABADLA",
-        "baladyiats": []
-      },
-      {
         "name": "BECHAR",
-        "name_ar": "BECHAR",
+        "name_ar": "بشار",
         "name_en": "BECHAR",
         "baladyiats": []
       },
       {
-        "name": "BENI ABBES",
-        "name_ar": "BENI ABBES",
-        "name_en": "BENI ABBES",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI ABBES (wilaya déléguée)",
-        "name_ar": "BENI ABBES (wilaya déléguée)",
-        "name_en": "BENI ABBES (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI OUNIF",
-        "name_ar": "BENI OUNIF",
-        "name_en": "BENI OUNIF",
-        "baladyiats": []
-      },
-      {
-        "name": "EL OUATA",
-        "name_ar": "EL OUATA",
-        "name_en": "EL OUATA",
-        "baladyiats": []
-      },
-      {
-        "name": "IGLI",
-        "name_ar": "IGLI",
-        "name_en": "IGLI",
-        "baladyiats": []
-      },
-      {
-        "name": "KENADSA",
-        "name_ar": "KENADSA",
-        "name_en": "KENADSA",
-        "baladyiats": []
-      },
-      {
-        "name": "KERZAZ",
-        "name_ar": "KERZAZ",
-        "name_en": "KERZAZ",
-        "baladyiats": []
-      },
-      {
-        "name": "LAHMAR",
-        "name_ar": "LAHMAR",
-        "name_en": "LAHMAR",
-        "baladyiats": []
-      },
-      {
         "name": "OULED KHODEIR",
-        "name_ar": "OULED KHODEIR",
+        "name_ar": "أولاد خضير",
         "name_en": "OULED KHODEIR",
         "baladyiats": []
       },
       {
+        "name": "LAHMAR",
+        "name_ar": "لحمر",
+        "name_en": "LAHMAR",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI ABBES",
+        "name_ar": "بني عباس",
+        "name_en": "BENI ABBES",
+        "baladyiats": []
+      },
+      {
+        "name": "KENADSA",
+        "name_ar": "القنادسة",
+        "name_en": "KENADSA",
+        "baladyiats": []
+      },
+      {
+        "name": "IGLI",
+        "name_ar": "إقلي",
+        "name_en": "IGLI",
+        "baladyiats": []
+      },
+      {
         "name": "TABELBALA",
-        "name_ar": "TABELBALA",
+        "name_ar": "تبلبالة",
         "name_en": "TABELBALA",
         "baladyiats": []
       },
       {
         "name": "TAGHIT",
-        "name_ar": "TAGHIT",
+        "name_ar": "تاغيت",
         "name_en": "TAGHIT",
+        "baladyiats": []
+      },
+      {
+        "name": "EL OUATA",
+        "name_ar": "الواتة",
+        "name_en": "EL OUATA",
+        "baladyiats": []
+      },
+      {
+        "name": "ABADLA",
+        "name_ar": "العبادلة",
+        "name_en": "ABADLA",
+        "baladyiats": []
+      },
+      {
+        "name": "KERZAZ",
+        "name_ar": "كرزاز",
+        "name_en": "KERZAZ",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI OUNIF",
+        "name_ar": "بني ونيف",
+        "name_en": "BENI OUNIF",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI ABBES (wilaya déléguée)",
+        "name_ar": "بني عباس (ولاية منتدبة)",
+        "name_en": "BENI ABBES (wilaya déléguée)",
         "baladyiats": []
       }
     ]
@@ -1614,62 +1614,62 @@
     "dairats": [
       {
         "name": "BLIDA",
-        "name_ar": "BLIDA",
+        "name_ar": "البليدة",
         "name_en": "BLIDA",
         "baladyiats": []
       },
       {
-        "name": "BOUFARIK",
-        "name_ar": "BOUFARIK",
-        "name_en": "BOUFARIK",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUGARA",
-        "name_ar": "BOUGARA",
-        "name_en": "BOUGARA",
-        "baladyiats": []
-      },
-      {
         "name": "BOUINAN",
-        "name_ar": "BOUINAN",
+        "name_ar": "بوعينان",
         "name_en": "BOUINAN",
         "baladyiats": []
       },
       {
-        "name": "EL AFFROUN",
-        "name_ar": "EL AFFROUN",
-        "name_en": "EL AFFROUN",
-        "baladyiats": []
-      },
-      {
-        "name": "LARBAA",
-        "name_ar": "LARBAA",
-        "name_en": "LARBAA",
-        "baladyiats": []
-      },
-      {
-        "name": "MEFTAH",
-        "name_ar": "MEFTAH",
-        "name_en": "MEFTAH",
-        "baladyiats": []
-      },
-      {
-        "name": "MOUZAIA",
-        "name_ar": "MOUZAIA",
-        "name_en": "MOUZAIA",
-        "baladyiats": []
-      },
-      {
         "name": "OUED EL ALLEUG",
-        "name_ar": "OUED EL ALLEUG",
+        "name_ar": "وادي العلايق",
         "name_en": "OUED EL ALLEUG",
         "baladyiats": []
       },
       {
         "name": "OULED YAICH",
-        "name_ar": "OULED YAICH",
+        "name_ar": "أولاد يعيش",
         "name_en": "OULED YAICH",
+        "baladyiats": []
+      },
+      {
+        "name": "EL AFFROUN",
+        "name_ar": "العفرون",
+        "name_en": "EL AFFROUN",
+        "baladyiats": []
+      },
+      {
+        "name": "MOUZAIA",
+        "name_ar": "موزاية",
+        "name_en": "MOUZAIA",
+        "baladyiats": []
+      },
+      {
+        "name": "MEFTAH",
+        "name_ar": "مفتاح",
+        "name_en": "MEFTAH",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUFARIK",
+        "name_ar": "بوفاريك",
+        "name_en": "BOUFARIK",
+        "baladyiats": []
+      },
+      {
+        "name": "LARBAA",
+        "name_ar": "الأربعاء",
+        "name_en": "LARBAA",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUGARA",
+        "name_ar": "بوقرة",
+        "name_en": "BOUGARA",
         "baladyiats": []
       }
     ]
@@ -1792,74 +1792,74 @@
     ],
     "dairats": [
       {
-        "name": "AIN BESSEM",
-        "name_ar": "AIN BESSEM",
-        "name_en": "AIN BESSEM",
-        "baladyiats": []
-      },
-      {
-        "name": "BECHLOUL",
-        "name_ar": "BECHLOUL",
-        "name_en": "BECHLOUL",
-        "baladyiats": []
-      },
-      {
-        "name": "BIR GHBALOU",
-        "name_ar": "BIR GHBALOU",
-        "name_en": "BIR GHBALOU",
-        "baladyiats": []
-      },
-      {
-        "name": "BORDJ OKHRISS",
-        "name_ar": "BORDJ OKHRISS",
-        "name_en": "BORDJ OKHRISS",
-        "baladyiats": []
-      },
-      {
         "name": "BOUIRA",
-        "name_ar": "BOUIRA",
+        "name_ar": "البويرة",
         "name_en": "BOUIRA",
         "baladyiats": []
       },
       {
-        "name": "EL HACHIMIA",
-        "name_ar": "EL HACHIMIA",
-        "name_en": "EL HACHIMIA",
-        "baladyiats": []
-      },
-      {
-        "name": "HAIZER",
-        "name_ar": "HAIZER",
-        "name_en": "HAIZER",
-        "baladyiats": []
-      },
-      {
-        "name": "KADIRIA",
-        "name_ar": "KADIRIA",
-        "name_en": "KADIRIA",
-        "baladyiats": []
-      },
-      {
-        "name": "LAKHDARIA",
-        "name_ar": "LAKHDARIA",
-        "name_en": "LAKHDARIA",
-        "baladyiats": []
-      },
-      {
-        "name": "M'CHEDALLAH",
-        "name_ar": "M'CHEDALLAH",
-        "name_en": "M'CHEDALLAH",
-        "baladyiats": []
-      },
-      {
         "name": "SOUK EL KHEMIS",
-        "name_ar": "SOUK EL KHEMIS",
+        "name_ar": "سوق الخميس",
         "name_en": "SOUK EL KHEMIS",
         "baladyiats": []
       },
       {
+        "name": "KADIRIA",
+        "name_ar": "القادرية",
+        "name_en": "KADIRIA",
+        "baladyiats": []
+      },
+      {
+        "name": "HAIZER",
+        "name_ar": "الحيزر",
+        "name_en": "HAIZER",
+        "baladyiats": []
+      },
+      {
+        "name": "LAKHDARIA",
+        "name_ar": "الأخضرية",
+        "name_en": "LAKHDARIA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL HACHIMIA",
+        "name_ar": "الهاشمية",
+        "name_en": "EL HACHIMIA",
+        "baladyiats": []
+      },
+      {
+        "name": "BORDJ OKHRISS",
+        "name_ar": "برج أوخريص",
+        "name_en": "BORDJ OKHRISS",
+        "baladyiats": []
+      },
+      {
+        "name": "BECHLOUL",
+        "name_ar": "بشلول",
+        "name_en": "BECHLOUL",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN BESSEM",
+        "name_ar": "عين بسام",
+        "name_en": "AIN BESSEM",
+        "baladyiats": []
+      },
+      {
+        "name": "BIR GHBALOU",
+        "name_ar": "بئر غبالو",
+        "name_en": "BIR GHBALOU",
+        "baladyiats": []
+      },
+      {
+        "name": "M'CHEDALLAH",
+        "name_ar": "مشد الله",
+        "name_en": "M'CHEDALLAH",
+        "baladyiats": []
+      },
+      {
         "name": "SOUR EL GHOZLANE",
-        "name_ar": "SOUR EL GHOZLANE",
+        "name_ar": "سور الغزلان",
         "name_en": "SOUR EL GHOZLANE",
         "baladyiats": []
       }
@@ -1909,57 +1909,57 @@
     ],
     "dairats": [
       {
-        "name": "IN GHAR",
-        "name_ar": "IN GHAR",
-        "name_en": "IN GHAR",
-        "baladyiats": []
-      },
-      {
-        "name": "IN GUEZZAM",
-        "name_ar": "IN GUEZZAM",
-        "name_en": "IN GUEZZAM",
-        "baladyiats": []
-      },
-      {
-        "name": "IN GUEZZAM (wilaya déléguée)",
-        "name_ar": "IN GUEZZAM (wilaya déléguée)",
-        "name_en": "IN GUEZZAM (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
-        "name": "IN SALAH",
-        "name_ar": "IN SALAH",
-        "name_en": "IN SALAH",
-        "baladyiats": []
-      },
-      {
-        "name": "IN SALAH (wilaya déléguée)",
-        "name_ar": "IN SALAH (wilaya déléguée)",
-        "name_en": "IN SALAH (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
-        "name": "SILET",
-        "name_ar": "SILET",
-        "name_en": "SILET",
-        "baladyiats": []
-      },
-      {
         "name": "TAMANRASSET",
-        "name_ar": "TAMANRASSET",
+        "name_ar": "تمنراست",
         "name_en": "TAMANRASSET",
         "baladyiats": []
       },
       {
+        "name": "SILET",
+        "name_ar": "سيلت",
+        "name_en": "SILET",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN GHAR",
+        "name_ar": "إينغر",
+        "name_en": "AIN GHAR",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN GUEZZAM",
+        "name_ar": "عين قزام",
+        "name_en": "AIN GUEZZAM",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN GUEZZAM (wilaya déléguée)",
+        "name_ar": "عين قزام (ولاية منتدبة)",
+        "name_en": "AIN GUEZZAM (wilaya déléguée)",
+        "baladyiats": []
+      },
+      {
         "name": "TAZROUK",
-        "name_ar": "TAZROUK",
+        "name_ar": "تاظروك",
         "name_en": "TAZROUK",
         "baladyiats": []
       },
       {
         "name": "TIN ZOUATINE",
-        "name_ar": "TIN ZOUATINE",
+        "name_ar": "تين زواتين",
         "name_en": "TIN ZOUATINE",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN SALAH",
+        "name_ar": "عين صالح",
+        "name_en": "AIN SALAH",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN SALAH (wilaya déléguée)",
+        "name_ar": "عين صالح (ولاية منتدبة)",
+        "name_en": "AIN SALAH (wilaya déléguée)",
         "baladyiats": []
       }
     ]
@@ -2042,75 +2042,75 @@
     ],
     "dairats": [
       {
+        "name": "TEBESSA",
+        "name_ar": "تبسة",
+        "name_en": "TEBESSA",
+        "baladyiats": []
+      },
+      {
         "name": "BIR EL ATER",
-        "name_ar": "BIR EL ATER",
+        "name_ar": "بئر العاتر",
         "name_en": "BIR EL ATER",
         "baladyiats": []
       },
       {
-        "name": "BIR MOKADEM",
-        "name_ar": "BIR MOKADEM",
-        "name_en": "BIR MOKADEM",
-        "baladyiats": []
-      },
-      {
         "name": "CHERIA",
-        "name_ar": "CHERIA",
+        "name_ar": "الشريعة",
         "name_en": "CHERIA",
         "baladyiats": []
       },
       {
         "name": "EL AOUINET",
-        "name_ar": "EL AOUINET",
+        "name_ar": "العوينات",
         "name_en": "EL AOUINET",
         "baladyiats": []
       },
       {
-        "name": "EL KOUIF",
-        "name_ar": "EL KOUIF",
-        "name_en": "EL KOUIF",
-        "baladyiats": []
-      },
-      {
-        "name": "EL MALABIOD",
-        "name_ar": "EL MALABIOD",
-        "name_en": "EL MALABIOD",
-        "baladyiats": []
-      },
-      {
-        "name": "EL OGLA",
-        "name_ar": "EL OGLA",
-        "name_en": "EL OGLA",
-        "baladyiats": []
-      },
-      {
-        "name": "MORSOTT",
-        "name_ar": "MORSOTT",
-        "name_en": "MORSOTT",
-        "baladyiats": []
-      },
-      {
         "name": "NEGRINE",
-        "name_ar": "NEGRINE",
+        "name_ar": "نقرين",
         "name_en": "NEGRINE",
         "baladyiats": []
       },
       {
+        "name": "BIR MOKADEM",
+        "name_ar": "بئر مقدم",
+        "name_en": "BIR MOKADEM",
+        "baladyiats": []
+      },
+      {
+        "name": "EL KOUIF",
+        "name_ar": "الكويف",
+        "name_en": "EL KOUIF",
+        "baladyiats": []
+      },
+      {
+        "name": "MORSOTT",
+        "name_ar": "مرسط",
+        "name_en": "MORSOTT",
+        "baladyiats": []
+      },
+      {
+        "name": "EL OGLA",
+        "name_ar": "العقلة",
+        "name_en": "EL OGLA",
+        "baladyiats": []
+      },
+      {
         "name": "OUENZA",
-        "name_ar": "OUENZA",
+        "name_ar": "الونزة",
         "name_en": "OUENZA",
         "baladyiats": []
       },
       {
-        "name": "OUM ALI",
-        "name_ar": "OUM ALI",
-        "name_en": "OUM ALI",
+        "name": "EL MALABIOD",
+        "name_ar": "الماء الابيض",
+        "name_en": "EL MALABIOD",
         "baladyiats": []
       },
       {
-        "name": "TEBESSA",
-        "name_ar": "TEBESSA",
-        "name_en": "TEBESSA",
+        "name": "OUM ALI",
+        "name_ar": "أم علي",
+        "name_en": "OUM ALI",
         "baladyiats": []
       }
     ]
@@ -2239,123 +2239,123 @@
     ],
     "dairats": [
       {
+        "name": "TLEMCEN",
+        "name_ar": "تلمسان",
+        "name_en": "TLEMCEN",
+        "baladyiats": []
+      },
+      {
         "name": "AIN TELLOUT",
-        "name_ar": "AIN TELLOUT",
+        "name_ar": "عين تالوت",
         "name_en": "AIN TELLOUT",
         "baladyiats": []
       },
       {
-        "name": "BAB EL ASSA",
-        "name_ar": "BAB EL ASSA",
-        "name_en": "BAB EL ASSA",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI BOUSSAID",
-        "name_ar": "BENI BOUSSAID",
-        "name_en": "BENI BOUSSAID",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI SNOUS",
-        "name_ar": "BENI SNOUS",
-        "name_en": "BENI SNOUS",
-        "baladyiats": []
-      },
-      {
-        "name": "BENSEKRANE",
-        "name_ar": "BENSEKRANE",
-        "name_en": "BENSEKRANE",
-        "baladyiats": []
-      },
-      {
-        "name": "CHETOUANE",
-        "name_ar": "CHETOUANE",
-        "name_en": "CHETOUANE",
-        "baladyiats": []
-      },
-      {
-        "name": "FELLAOUCENE",
-        "name_ar": "FELLAOUCENE",
-        "name_en": "FELLAOUCENE",
-        "baladyiats": []
-      },
-      {
-        "name": "GHAZAOUET",
-        "name_ar": "GHAZAOUET",
-        "name_en": "GHAZAOUET",
-        "baladyiats": []
-      },
-      {
-        "name": "HENNAYA",
-        "name_ar": "HENNAYA",
-        "name_en": "HENNAYA",
-        "baladyiats": []
-      },
-      {
-        "name": "HONNAINE",
-        "name_ar": "HONNAINE",
-        "name_en": "HONNAINE",
-        "baladyiats": []
-      },
-      {
-        "name": "MAGHNIA",
-        "name_ar": "MAGHNIA",
-        "name_en": "MAGHNIA",
-        "baladyiats": []
-      },
-      {
-        "name": "MANSOURAH",
-        "name_ar": "MANSOURAH",
-        "name_en": "MANSOURAH",
-        "baladyiats": []
-      },
-      {
-        "name": "MARSA BEN MEHDI",
-        "name_ar": "MARSA BEN MEHDI",
-        "name_en": "MARSA BEN MEHDI",
-        "baladyiats": []
-      },
-      {
-        "name": "NEDROMA",
-        "name_ar": "NEDROMA",
-        "name_en": "NEDROMA",
-        "baladyiats": []
-      },
-      {
-        "name": "OULED MIMOUN",
-        "name_ar": "OULED MIMOUN",
-        "name_en": "OULED MIMOUN",
-        "baladyiats": []
-      },
-      {
         "name": "REMCHI",
-        "name_ar": "REMCHI",
+        "name_ar": "الرمشي",
         "name_en": "REMCHI",
         "baladyiats": []
       },
       {
         "name": "SABRA",
-        "name_ar": "SABRA",
+        "name_ar": "صبرة",
         "name_en": "SABRA",
         "baladyiats": []
       },
       {
+        "name": "GHAZAOUET",
+        "name_ar": "الغزوات",
+        "name_en": "GHAZAOUET",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED MIMOUN",
+        "name_ar": "أولاد ميمون",
+        "name_en": "OULED MIMOUN",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI SNOUS",
+        "name_ar": "بني سنوس",
+        "name_en": "BENI SNOUS",
+        "baladyiats": []
+      },
+      {
+        "name": "BAB EL ASSA",
+        "name_ar": "باب العسة",
+        "name_en": "BAB EL ASSA",
+        "baladyiats": []
+      },
+      {
+        "name": "FELLAOUCENE",
+        "name_ar": "فلاوسن",
+        "name_en": "FELLAOUCENE",
+        "baladyiats": []
+      },
+      {
+        "name": "BENSEKRANE",
+        "name_ar": "بن سكران",
+        "name_en": "BENSEKRANE",
+        "baladyiats": []
+      },
+      {
+        "name": "HENNAYA",
+        "name_ar": "الحناية",
+        "name_en": "HENNAYA",
+        "baladyiats": []
+      },
+      {
+        "name": "MAGHNIA",
+        "name_ar": "مغنية",
+        "name_en": "MAGHNIA",
+        "baladyiats": []
+      },
+      {
         "name": "SEBDOU",
-        "name_ar": "SEBDOU",
+        "name_ar": "سبدو",
         "name_en": "SEBDOU",
         "baladyiats": []
       },
       {
+        "name": "BENI BOUSSAID",
+        "name_ar": "بني بوسعيد",
+        "name_en": "BENI BOUSSAID",
+        "baladyiats": []
+      },
+      {
+        "name": "MARSA BEN MEHDI",
+        "name_ar": "مرسى بن مهيدي",
+        "name_en": "MARSA BEN MEHDI",
+        "baladyiats": []
+      },
+      {
+        "name": "NEDROMA",
+        "name_ar": "ندرومة",
+        "name_en": "NEDROMA",
+        "baladyiats": []
+      },
+      {
         "name": "SIDI DJILLALI",
-        "name_ar": "SIDI DJILLALI",
+        "name_ar": "سيدي الجيلالي",
         "name_en": "SIDI DJILLALI",
         "baladyiats": []
       },
       {
-        "name": "TLEMCEN",
-        "name_ar": "TLEMCEN",
-        "name_en": "TLEMCEN",
+        "name": "HONNAINE",
+        "name_ar": "هنين",
+        "name_en": "HONNAINE",
+        "baladyiats": []
+      },
+      {
+        "name": "CHETOUANE",
+        "name_ar": "شتوان",
+        "name_en": "CHETOUANE",
+        "baladyiats": []
+      },
+      {
+        "name": "MANSOURAH",
+        "name_ar": "منصورة",
+        "name_en": "MANSOURAH",
         "baladyiats": []
       }
     ]
@@ -2450,87 +2450,87 @@
     ],
     "dairats": [
       {
-        "name": "AIN DEHEB",
-        "name_ar": "AIN DEHEB",
-        "name_en": "AIN DEHEB",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN KERMES",
-        "name_ar": "AIN KERMES",
-        "name_en": "AIN KERMES",
-        "baladyiats": []
-      },
-      {
-        "name": "DAHMOUNI",
-        "name_ar": "DAHMOUNI",
-        "name_en": "DAHMOUNI",
-        "baladyiats": []
-      },
-      {
-        "name": "FRENDA",
-        "name_ar": "FRENDA",
-        "name_en": "FRENDA",
-        "baladyiats": []
-      },
-      {
-        "name": "HAMADIA",
-        "name_ar": "HAMADIA",
-        "name_en": "HAMADIA",
-        "baladyiats": []
-      },
-      {
-        "name": "KSAR CHELLALA",
-        "name_ar": "KSAR CHELLALA",
-        "name_en": "KSAR CHELLALA",
-        "baladyiats": []
-      },
-      {
-        "name": "MAHDIA",
-        "name_ar": "MAHDIA",
-        "name_en": "MAHDIA",
-        "baladyiats": []
-      },
-      {
-        "name": "MECHRAA SFA",
-        "name_ar": "MECHRAA SFA",
-        "name_en": "MECHRAA SFA",
+        "name": "TIARET",
+        "name_ar": "تيارت",
+        "name_en": "TIARET",
         "baladyiats": []
       },
       {
         "name": "MEDROUSSA",
-        "name_ar": "MEDROUSSA",
+        "name_ar": "مدروسة",
         "name_en": "MEDROUSSA",
         "baladyiats": []
       },
       {
-        "name": "MEGHILA",
-        "name_ar": "MEGHILA",
-        "name_en": "MEGHILA",
+        "name": "AIN DEHEB",
+        "name_ar": "عين الذهب",
+        "name_en": "AIN DEHEB",
         "baladyiats": []
       },
       {
-        "name": "OUED LILI",
-        "name_ar": "OUED LILI",
-        "name_en": "OUED LILI",
+        "name": "DAHMOUNI",
+        "name_ar": "دحموني",
+        "name_en": "DAHMOUNI",
         "baladyiats": []
       },
       {
         "name": "RAHOUIA",
-        "name_ar": "RAHOUIA",
+        "name_ar": "رحوية",
         "name_en": "RAHOUIA",
         "baladyiats": []
       },
       {
+        "name": "MAHDIA",
+        "name_ar": "مهدية",
+        "name_en": "MAHDIA",
+        "baladyiats": []
+      },
+      {
         "name": "SOUGUEUR",
-        "name_ar": "SOUGUEUR",
+        "name_ar": "السوقر",
         "name_en": "SOUGUEUR",
         "baladyiats": []
       },
       {
-        "name": "TIARET",
-        "name_ar": "TIARET",
-        "name_en": "TIARET",
+        "name": "MEGHILA",
+        "name_ar": "مغيلة",
+        "name_en": "MEGHILA",
+        "baladyiats": []
+      },
+      {
+        "name": "FRENDA",
+        "name_ar": "فرندة",
+        "name_en": "FRENDA",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN KERMES",
+        "name_ar": "عين كرمس",
+        "name_en": "AIN KERMES",
+        "baladyiats": []
+      },
+      {
+        "name": "KSAR CHELLALA",
+        "name_ar": "قصر الشلالة",
+        "name_en": "KSAR CHELLALA",
+        "baladyiats": []
+      },
+      {
+        "name": "OUED LILI",
+        "name_ar": "وادي ليلي",
+        "name_en": "OUED LILI",
+        "baladyiats": []
+      },
+      {
+        "name": "MECHRAA SFA",
+        "name_ar": "مشرع الصفا",
+        "name_en": "MECHRAA SFA",
+        "baladyiats": []
+      },
+      {
+        "name": "HAMADIA",
+        "name_ar": "حمادية",
+        "name_en": "HAMADIA",
         "baladyiats": []
       }
     ]
@@ -2712,129 +2712,129 @@
     ],
     "dairats": [
       {
-        "name": "AIN EL HAMMAM",
-        "name_ar": "AIN EL HAMMAM",
-        "name_en": "AIN EL HAMMAM",
-        "baladyiats": []
-      },
-      {
-        "name": "AZAZGA",
-        "name_ar": "AZAZGA",
-        "name_en": "AZAZGA",
-        "baladyiats": []
-      },
-      {
-        "name": "AZEFFOUN",
-        "name_ar": "AZEFFOUN",
-        "name_en": "AZEFFOUN",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI DOUALA",
-        "name_ar": "BENI DOUALA",
-        "name_en": "BENI DOUALA",
-        "baladyiats": []
-      },
-      {
-        "name": "BENNI YENNI",
-        "name_ar": "BENNI YENNI",
-        "name_en": "BENNI YENNI",
-        "baladyiats": []
-      },
-      {
-        "name": "BOGHNI",
-        "name_ar": "BOGHNI",
-        "name_en": "BOGHNI",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUZEGUENE",
-        "name_ar": "BOUZEGUENE",
-        "name_en": "BOUZEGUENE",
-        "baladyiats": []
-      },
-      {
-        "name": "DRAA BEN KHEDDA",
-        "name_ar": "DRAA BEN KHEDDA",
-        "name_en": "DRAA BEN KHEDDA",
-        "baladyiats": []
-      },
-      {
-        "name": "DRAA EL MIZAN",
-        "name_ar": "DRAA EL MIZAN",
-        "name_en": "DRAA EL MIZAN",
-        "baladyiats": []
-      },
-      {
-        "name": "IFERHOUNENE",
-        "name_ar": "IFERHOUNENE",
-        "name_en": "IFERHOUNENE",
-        "baladyiats": []
-      },
-      {
-        "name": "LARBAA NATH IRATEN",
-        "name_ar": "LARBAA NATH IRATEN",
-        "name_en": "LARBAA NATH IRATEN",
-        "baladyiats": []
-      },
-      {
-        "name": "MAATKAS",
-        "name_ar": "MAATKAS",
-        "name_en": "MAATKAS",
-        "baladyiats": []
-      },
-      {
-        "name": "MAKOUDA",
-        "name_ar": "MAKOUDA",
-        "name_en": "MAKOUDA",
-        "baladyiats": []
-      },
-      {
-        "name": "MEKLA",
-        "name_ar": "MEKLA",
-        "name_en": "MEKLA",
-        "baladyiats": []
-      },
-      {
-        "name": "OUACIF",
-        "name_ar": "OUACIF",
-        "name_en": "OUACIF",
-        "baladyiats": []
-      },
-      {
-        "name": "OUADHIAS",
-        "name_ar": "OUADHIAS",
-        "name_en": "OUADHIAS",
-        "baladyiats": []
-      },
-      {
-        "name": "OUAGUENOUN",
-        "name_ar": "OUAGUENOUN",
-        "name_en": "OUAGUENOUN",
-        "baladyiats": []
-      },
-      {
-        "name": "TIGZIRT",
-        "name_ar": "TIGZIRT",
-        "name_en": "TIGZIRT",
-        "baladyiats": []
-      },
-      {
         "name": "TIZI OUZOU",
-        "name_ar": "TIZI OUZOU",
+        "name_ar": "تيزي وزو",
         "name_en": "TIZI OUZOU",
         "baladyiats": []
       },
       {
-        "name": "TIZI RACHED",
-        "name_ar": "TIZI RACHED",
-        "name_en": "TIZI RACHED",
+        "name": "AIN EL HAMMAM",
+        "name_ar": "عين الحمام",
+        "name_en": "AIN EL HAMMAM",
+        "baladyiats": []
+      },
+      {
+        "name": "MAKOUDA",
+        "name_ar": "ماكودة",
+        "name_en": "MAKOUDA",
+        "baladyiats": []
+      },
+      {
+        "name": "DRAA EL MIZAN",
+        "name_ar": "ذراع الميزان",
+        "name_en": "DRAA EL MIZAN",
         "baladyiats": []
       },
       {
         "name": "TIZI-GHENIF",
-        "name_ar": "TIZI-GHENIF",
+        "name_ar": "تيزي غنيف",
         "name_en": "TIZI-GHENIF",
+        "baladyiats": []
+      },
+      {
+        "name": "IFERHOUNENE",
+        "name_ar": "إفرحونان",
+        "name_en": "IFERHOUNENE",
+        "baladyiats": []
+      },
+      {
+        "name": "AZAZGA",
+        "name_ar": "عزازقة",
+        "name_en": "AZAZGA",
+        "baladyiats": []
+      },
+      {
+        "name": "LARBAA NATH IRATEN",
+        "name_ar": "الأربعاء ناث إيراثن",
+        "name_en": "LARBAA NATH IRATEN",
+        "baladyiats": []
+      },
+      {
+        "name": "TIZI RACHED",
+        "name_ar": "تيزي راشد",
+        "name_en": "TIZI RACHED",
+        "baladyiats": []
+      },
+      {
+        "name": "OUAGUENOUN",
+        "name_ar": "واقنون",
+        "name_en": "OUAGUENOUN",
+        "baladyiats": []
+      },
+      {
+        "name": "MAATKAS",
+        "name_ar": "معاتقة",
+        "name_en": "MAATKAS",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI DOUALA",
+        "name_ar": "بني دوالة",
+        "name_en": "BENI DOUALA",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUZEGUENE",
+        "name_ar": "بوزقن",
+        "name_en": "BOUZEGUENE",
+        "baladyiats": []
+      },
+      {
+        "name": "OUADHIAS",
+        "name_ar": "واضية",
+        "name_en": "OUADHIAS",
+        "baladyiats": []
+      },
+      {
+        "name": "AZEFFOUN",
+        "name_ar": "أزفون",
+        "name_en": "AZEFFOUN",
+        "baladyiats": []
+      },
+      {
+        "name": "TIGZIRT",
+        "name_ar": "تيقزيرت",
+        "name_en": "TIGZIRT",
+        "baladyiats": []
+      },
+      {
+        "name": "BOGHNI",
+        "name_ar": "بوغني",
+        "name_en": "BOGHNI",
+        "baladyiats": []
+      },
+      {
+        "name": "DRAA BEN KHEDDA",
+        "name_ar": "ذراع بن خدة",
+        "name_en": "DRAA BEN KHEDDA",
+        "baladyiats": []
+      },
+      {
+        "name": "OUACIF",
+        "name_ar": "واسيف",
+        "name_en": "OUACIF",
+        "baladyiats": []
+      },
+      {
+        "name": "MEKLA",
+        "name_ar": "مقلع",
+        "name_en": "MEKLA",
+        "baladyiats": []
+      },
+      {
+        "name": "BENNI YENNI",
+        "name_ar": "بني يني",
+        "name_en": "BENNI YENNI",
         "baladyiats": []
       }
     ]
@@ -3086,81 +3086,81 @@
     ],
     "dairats": [
       {
-        "name": "BAB EL OUED",
-        "name_ar": "BAB EL OUED",
-        "name_en": "BAB EL OUED",
-        "baladyiats": []
-      },
-      {
-        "name": "BARAKI",
-        "name_ar": "BARAKI",
-        "name_en": "BARAKI",
-        "baladyiats": []
-      },
-      {
-        "name": "BIR MOURAD RAIS",
-        "name_ar": "BIR MOURAD RAIS",
-        "name_en": "BIR MOURAD RAIS",
-        "baladyiats": []
-      },
-      {
-        "name": "BIRTOUTA",
-        "name_ar": "BIRTOUTA",
-        "name_en": "BIRTOUTA",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUZAREAH",
-        "name_ar": "BOUZAREAH",
-        "name_en": "BOUZAREAH",
-        "baladyiats": []
-      },
-      {
-        "name": "CHERAGA",
-        "name_ar": "CHERAGA",
-        "name_en": "CHERAGA",
-        "baladyiats": []
-      },
-      {
-        "name": "DAR EL BEIDA",
-        "name_ar": "DAR EL BEIDA",
-        "name_en": "DAR EL BEIDA",
-        "baladyiats": []
-      },
-      {
-        "name": "DRARIA",
-        "name_ar": "DRARIA",
-        "name_en": "DRARIA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL HARRACH",
-        "name_ar": "EL HARRACH",
-        "name_en": "EL HARRACH",
-        "baladyiats": []
-      },
-      {
-        "name": "HUSSEIN DEY",
-        "name_ar": "HUSSEIN DEY",
-        "name_en": "HUSSEIN DEY",
-        "baladyiats": []
-      },
-      {
-        "name": "ROUIBA",
-        "name_ar": "ROUIBA",
-        "name_en": "ROUIBA",
-        "baladyiats": []
-      },
-      {
         "name": "SIDI M'HAMED",
-        "name_ar": "SIDI M'HAMED",
+        "name_ar": "سيدي امحمد",
         "name_en": "SIDI M'HAMED",
         "baladyiats": []
       },
       {
+        "name": "BAB EL OUED",
+        "name_ar": "باب الوادي",
+        "name_en": "BAB EL OUED",
+        "baladyiats": []
+      },
+      {
+        "name": "BIR MOURAD RAIS",
+        "name_ar": "بئر مراد رايس",
+        "name_en": "BIR MOURAD RAIS",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUZAREAH",
+        "name_ar": "بوزريعة",
+        "name_en": "BOUZAREAH",
+        "baladyiats": []
+      },
+      {
+        "name": "EL HARRACH",
+        "name_ar": "الحراش",
+        "name_en": "EL HARRACH",
+        "baladyiats": []
+      },
+      {
+        "name": "BARAKI",
+        "name_ar": "براقي",
+        "name_en": "BARAKI",
+        "baladyiats": []
+      },
+      {
+        "name": "HUSSEIN DEY",
+        "name_ar": "حسين داي",
+        "name_en": "HUSSEIN DEY",
+        "baladyiats": []
+      },
+      {
+        "name": "DAR EL BEIDA",
+        "name_ar": "الدار البيضاء",
+        "name_en": "DAR EL BEIDA",
+        "baladyiats": []
+      },
+      {
+        "name": "BIRTOUTA",
+        "name_ar": "بئر توتة",
+        "name_en": "BIRTOUTA",
+        "baladyiats": []
+      },
+      {
+        "name": "ROUIBA",
+        "name_ar": "الرويبة",
+        "name_en": "ROUIBA",
+        "baladyiats": []
+      },
+      {
         "name": "ZERALDA",
-        "name_ar": "ZERALDA",
+        "name_ar": "زرالدة",
         "name_en": "ZERALDA",
+        "baladyiats": []
+      },
+      {
+        "name": "DRARIA",
+        "name_ar": "الدرارية",
+        "name_en": "DRARIA",
+        "baladyiats": []
+      },
+      {
+        "name": "CHERAGA",
+        "name_ar": "الشراقة",
+        "name_en": "CHERAGA",
         "baladyiats": []
       }
     ]
@@ -3263,75 +3263,75 @@
     ],
     "dairats": [
       {
-        "name": "AIN EL IBEL",
-        "name_ar": "AIN EL IBEL",
-        "name_en": "AIN EL IBEL",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN OUSSERA",
-        "name_ar": "AIN OUSSERA",
-        "name_en": "AIN OUSSERA",
-        "baladyiats": []
-      },
-      {
-        "name": "BIRINE",
-        "name_ar": "BIRINE",
-        "name_en": "BIRINE",
-        "baladyiats": []
-      },
-      {
-        "name": "CHAREF",
-        "name_ar": "CHAREF",
-        "name_en": "CHAREF",
-        "baladyiats": []
-      },
-      {
-        "name": "DAR CHIOUKH",
-        "name_ar": "DAR CHIOUKH",
-        "name_en": "DAR CHIOUKH",
-        "baladyiats": []
-      },
-      {
         "name": "DJELFA",
-        "name_ar": "DJELFA",
+        "name_ar": "الجلفة",
         "name_en": "DJELFA",
         "baladyiats": []
       },
       {
-        "name": "EL IDRISSIA",
-        "name_ar": "EL IDRISSIA",
-        "name_en": "EL IDRISSIA",
-        "baladyiats": []
-      },
-      {
-        "name": "FAIDH EL BOTMA",
-        "name_ar": "FAIDH EL BOTMA",
-        "name_en": "FAIDH EL BOTMA",
-        "baladyiats": []
-      },
-      {
-        "name": "HAD SAHARY",
-        "name_ar": "HAD SAHARY",
-        "name_en": "HAD SAHARY",
-        "baladyiats": []
-      },
-      {
         "name": "HASSI BAHBAH",
-        "name_ar": "HASSI BAHBAH",
+        "name_ar": "حاسي بحبح",
         "name_en": "HASSI BAHBAH",
         "baladyiats": []
       },
       {
+        "name": "FAIDH EL BOTMA",
+        "name_ar": "فيض البطمة",
+        "name_en": "FAIDH EL BOTMA",
+        "baladyiats": []
+      },
+      {
+        "name": "BIRINE",
+        "name_ar": "بيرين",
+        "name_en": "BIRINE",
+        "baladyiats": []
+      },
+      {
+        "name": "EL IDRISSIA",
+        "name_ar": "الادريسية",
+        "name_en": "EL IDRISSIA",
+        "baladyiats": []
+      },
+      {
         "name": "MESSAAD",
-        "name_ar": "MESSAAD",
+        "name_ar": "مسعد",
         "name_en": "MESSAAD",
         "baladyiats": []
       },
       {
         "name": "SIDI LAADJEL",
-        "name_ar": "SIDI LAADJEL",
+        "name_ar": "سيدي لعجال",
         "name_en": "SIDI LAADJEL",
+        "baladyiats": []
+      },
+      {
+        "name": "HAD SAHARY",
+        "name_ar": "حد الصحاري",
+        "name_en": "HAD SAHARY",
+        "baladyiats": []
+      },
+      {
+        "name": "DAR CHIOUKH",
+        "name_ar": "دار الشيوخ",
+        "name_en": "DAR CHIOUKH",
+        "baladyiats": []
+      },
+      {
+        "name": "CHAREF",
+        "name_ar": "الشارف",
+        "name_en": "CHAREF",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN EL IBEL",
+        "name_ar": "عين الإبل",
+        "name_en": "AIN EL IBEL",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN OUSSERA",
+        "name_ar": "عين وسارة",
+        "name_en": "AIN OUSSERA",
         "baladyiats": []
       }
     ]
@@ -3400,69 +3400,69 @@
     ],
     "dairats": [
       {
-        "name": "CHEKFA",
-        "name_ar": "CHEKFA",
-        "name_en": "CHEKFA",
-        "baladyiats": []
-      },
-      {
-        "name": "DJIMLA",
-        "name_ar": "DJIMLA",
-        "name_en": "DJIMLA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL ANCER",
-        "name_ar": "EL ANCER",
-        "name_en": "EL ANCER",
-        "baladyiats": []
-      },
-      {
-        "name": "EL AOUANA",
-        "name_ar": "EL AOUANA",
-        "name_en": "EL AOUANA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL MILIA",
-        "name_ar": "EL MILIA",
-        "name_en": "EL MILIA",
-        "baladyiats": []
-      },
-      {
         "name": "JIJEL",
-        "name_ar": "JIJEL",
+        "name_ar": "جيجل",
         "name_en": "JIJEL",
         "baladyiats": []
       },
       {
-        "name": "SETTARA",
-        "name_ar": "SETTARA",
-        "name_en": "SETTARA",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI MAROUF",
-        "name_ar": "SIDI MAROUF",
-        "name_en": "SIDI MAROUF",
-        "baladyiats": []
-      },
-      {
-        "name": "TAHER",
-        "name_ar": "TAHER",
-        "name_en": "TAHER",
-        "baladyiats": []
-      },
-      {
-        "name": "TEXENNA",
-        "name_ar": "TEXENNA",
-        "name_en": "TEXENNA",
+        "name": "EL AOUANA",
+        "name_ar": "العوانة",
+        "name_en": "EL AOUANA",
         "baladyiats": []
       },
       {
         "name": "ZIAMAH MANSOURIAH",
-        "name_ar": "ZIAMAH MANSOURIAH",
+        "name_ar": "زيامة منصورية",
         "name_en": "ZIAMAH MANSOURIAH",
+        "baladyiats": []
+      },
+      {
+        "name": "TAHER",
+        "name_ar": "الطاهير",
+        "name_en": "TAHER",
+        "baladyiats": []
+      },
+      {
+        "name": "CHEKFA",
+        "name_ar": "الشقفة",
+        "name_en": "CHEKFA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL MILIA",
+        "name_ar": "الميلية",
+        "name_en": "EL MILIA",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI MAROUF",
+        "name_ar": "سيدي معروف",
+        "name_en": "SIDI MAROUF",
+        "baladyiats": []
+      },
+      {
+        "name": "SETTARA",
+        "name_ar": "السطارة",
+        "name_en": "SETTARA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL ANCER",
+        "name_ar": "العنصر",
+        "name_en": "EL ANCER",
+        "baladyiats": []
+      },
+      {
+        "name": "DJIMLA",
+        "name_ar": "جيملة",
+        "name_en": "DJIMLA",
+        "baladyiats": []
+      },
+      {
+        "name": "TEXENNA",
+        "name_ar": "تاكسنة",
+        "name_en": "TEXENNA",
         "baladyiats": []
       }
     ]
@@ -3619,123 +3619,123 @@
     ],
     "dairats": [
       {
-        "name": "AIN ARNAT",
-        "name_ar": "AIN ARNAT",
-        "name_en": "AIN ARNAT",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN AZEL",
-        "name_ar": "AIN AZEL",
-        "name_en": "AIN AZEL",
+        "name": "SETIF",
+        "name_ar": "سطيف",
+        "name_en": "SETIF",
         "baladyiats": []
       },
       {
         "name": "AIN EL KEBIRA",
-        "name_ar": "AIN EL KEBIRA",
+        "name_ar": "عين الكبيرة",
         "name_en": "AIN EL KEBIRA",
         "baladyiats": []
       },
       {
-        "name": "AIN OULMENE",
-        "name_ar": "AIN OULMENE",
-        "name_en": "AIN OULMENE",
-        "baladyiats": []
-      },
-      {
-        "name": "AMOUCHA",
-        "name_ar": "AMOUCHA",
-        "name_en": "AMOUCHA",
-        "baladyiats": []
-      },
-      {
-        "name": "BABOR",
-        "name_ar": "BABOR",
-        "name_en": "BABOR",
-        "baladyiats": []
-      },
-      {
         "name": "BENI AZIZ",
-        "name_ar": "BENI AZIZ",
+        "name_ar": "بني عزيز",
         "name_en": "BENI AZIZ",
         "baladyiats": []
       },
       {
-        "name": "BENI OURTILANE",
-        "name_ar": "BENI OURTILANE",
-        "name_en": "BENI OURTILANE",
-        "baladyiats": []
-      },
-      {
         "name": "BIR EL ARCH",
-        "name_ar": "BIR EL ARCH",
+        "name_ar": "بئر العرش",
         "name_en": "BIR EL ARCH",
         "baladyiats": []
       },
       {
-        "name": "BOUANDAS",
-        "name_ar": "BOUANDAS",
-        "name_en": "BOUANDAS",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUGAA",
-        "name_ar": "BOUGAA",
-        "name_en": "BOUGAA",
-        "baladyiats": []
-      },
-      {
-        "name": "DJEMILA",
-        "name_ar": "DJEMILA",
-        "name_en": "DJEMILA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL EULMA",
-        "name_ar": "EL EULMA",
-        "name_en": "EL EULMA",
-        "baladyiats": []
-      },
-      {
-        "name": "GUENZET",
-        "name_ar": "GUENZET",
-        "name_en": "GUENZET",
+        "name": "BABOR",
+        "name_ar": "بابور",
+        "name_en": "BABOR",
         "baladyiats": []
       },
       {
         "name": "GUIDJEL",
-        "name_ar": "GUIDJEL",
+        "name_ar": "قجال",
         "name_en": "GUIDJEL",
         "baladyiats": []
       },
       {
-        "name": "HAMMAM GUERGOUR",
-        "name_ar": "HAMMAM GUERGOUR",
-        "name_en": "HAMMAM GUERGOUR",
+        "name": "EL EULMA",
+        "name_ar": "العلمة",
+        "name_en": "EL EULMA",
+        "baladyiats": []
+      },
+      {
+        "name": "DJEMILA",
+        "name_ar": "جميلة",
+        "name_en": "DJEMILA",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI OURTILANE",
+        "name_ar": "بني ورتيلان",
+        "name_en": "BENI OURTILANE",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN ARNAT",
+        "name_ar": "عين أرنات",
+        "name_en": "AIN ARNAT",
+        "baladyiats": []
+      },
+      {
+        "name": "AMOUCHA",
+        "name_ar": "عموشة",
+        "name_en": "AMOUCHA",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN OULMENE",
+        "name_ar": "عين ولمان",
+        "name_en": "AIN OULMENE",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUANDAS",
+        "name_ar": "بوعنداس",
+        "name_en": "BOUANDAS",
         "baladyiats": []
       },
       {
         "name": "HAMMAM SOKHNA",
-        "name_ar": "HAMMAM SOKHNA",
+        "name_ar": "حمام السخنة",
         "name_en": "HAMMAM SOKHNA",
         "baladyiats": []
       },
       {
-        "name": "MAOKLANE",
-        "name_ar": "MAOKLANE",
-        "name_en": "MAOKLANE",
-        "baladyiats": []
-      },
-      {
         "name": "SALAH BEY",
-        "name_ar": "SALAH BEY",
+        "name_ar": "صالح باي",
         "name_en": "SALAH BEY",
         "baladyiats": []
       },
       {
-        "name": "SETIF",
-        "name_ar": "SETIF",
-        "name_en": "SETIF",
+        "name": "AIN AZEL",
+        "name_ar": "عين أزال",
+        "name_en": "AIN AZEL",
+        "baladyiats": []
+      },
+      {
+        "name": "GUENZET",
+        "name_ar": "قنزات",
+        "name_en": "GUENZET",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUGAA",
+        "name_ar": "بوقاعة",
+        "name_en": "BOUGAA",
+        "baladyiats": []
+      },
+      {
+        "name": "HAMMAM GUERGOUR",
+        "name_ar": "حمام قرقور",
+        "name_en": "HAMMAM GUERGOUR",
+        "baladyiats": []
+      },
+      {
+        "name": "MAOKLANE",
+        "name_ar": "ماوكلان",
+        "name_en": "MAOKLANE",
         "baladyiats": []
       }
     ]
@@ -3801,39 +3801,39 @@
     ],
     "dairats": [
       {
+        "name": "SAIDA",
+        "name_ar": "سعيدة",
+        "name_en": "SAIDA",
+        "baladyiats": []
+      },
+      {
         "name": "AIN EL HADJAR",
-        "name_ar": "AIN EL HADJAR",
+        "name_ar": "عين الحجر",
         "name_en": "AIN EL HADJAR",
         "baladyiats": []
       },
       {
+        "name": "YOUB",
+        "name_ar": "يوب",
+        "name_en": "YOUB",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI BOUBEKEUR",
+        "name_ar": "سيدي بوبكر",
+        "name_en": "SIDI BOUBEKEUR",
+        "baladyiats": []
+      },
+      {
         "name": "EL HASSASNA",
-        "name_ar": "EL HASSASNA",
+        "name_ar": "الحساسنة",
         "name_en": "EL HASSASNA",
         "baladyiats": []
       },
       {
         "name": "OULED BRAHIM",
-        "name_ar": "OULED BRAHIM",
+        "name_ar": "أولاد ابراهيم",
         "name_en": "OULED BRAHIM",
-        "baladyiats": []
-      },
-      {
-        "name": "SAIDA",
-        "name_ar": "SAIDA",
-        "name_en": "SAIDA",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI BOUBEKEUR",
-        "name_ar": "SIDI BOUBEKEUR",
-        "name_en": "SIDI BOUBEKEUR",
-        "baladyiats": []
-      },
-      {
-        "name": "YOUB",
-        "name_ar": "YOUB",
-        "name_en": "YOUB",
         "baladyiats": []
       }
     ]
@@ -3933,81 +3933,81 @@
     ],
     "dairats": [
       {
-        "name": "AIN KECHRA",
-        "name_ar": "AIN KECHRA",
-        "name_en": "AIN KECHRA",
+        "name": "SKIKDA",
+        "name_ar": "سكيكدة",
+        "name_en": "SKIKDA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL HADAIEK",
+        "name_ar": "الحدائق",
+        "name_en": "EL HADAIEK",
         "baladyiats": []
       },
       {
         "name": "AZZABA",
-        "name_ar": "AZZABA",
+        "name_ar": "عزابة",
         "name_en": "AZZABA",
         "baladyiats": []
       },
       {
         "name": "BEN AZZOUZ",
-        "name_ar": "BEN AZZOUZ",
+        "name_ar": "بن عزوز",
         "name_en": "BEN AZZOUZ",
         "baladyiats": []
       },
       {
         "name": "COLLO",
-        "name_ar": "COLLO",
+        "name_ar": "القل",
         "name_en": "COLLO",
         "baladyiats": []
       },
       {
-        "name": "EL HADAIEK",
-        "name_ar": "EL HADAIEK",
-        "name_en": "EL HADAIEK",
-        "baladyiats": []
-      },
-      {
-        "name": "EL HARROUCH",
-        "name_ar": "EL HARROUCH",
-        "name_en": "EL HARROUCH",
-        "baladyiats": []
-      },
-      {
         "name": "OULED ATTIA",
-        "name_ar": "OULED ATTIA",
+        "name_ar": "أولاد عطية",
         "name_en": "OULED ATTIA",
         "baladyiats": []
       },
       {
-        "name": "OUM TOUB",
-        "name_ar": "OUM TOUB",
-        "name_en": "OUM TOUB",
+        "name": "ZITOUNA",
+        "name_ar": "الزيتونة",
+        "name_en": "ZITOUNA",
         "baladyiats": []
       },
       {
-        "name": "RAMDANE DJAMEL",
-        "name_ar": "RAMDANE DJAMEL",
-        "name_en": "RAMDANE DJAMEL",
+        "name": "EL HARROUCH",
+        "name_ar": "الحروش",
+        "name_en": "EL HARROUCH",
         "baladyiats": []
       },
       {
         "name": "SIDI MEZGHICHE",
-        "name_ar": "SIDI MEZGHICHE",
+        "name_ar": "سيدي مزغيش",
         "name_en": "SIDI MEZGHICHE",
         "baladyiats": []
       },
       {
-        "name": "SKIKDA",
-        "name_ar": "SKIKDA",
-        "name_en": "SKIKDA",
+        "name": "RAMDANE DJAMEL",
+        "name_ar": "رمضان جمال",
+        "name_en": "RAMDANE DJAMEL",
         "baladyiats": []
       },
       {
         "name": "TAMALOUS",
-        "name_ar": "TAMALOUS",
+        "name_ar": "تمالوس",
         "name_en": "TAMALOUS",
         "baladyiats": []
       },
       {
-        "name": "ZITOUNA",
-        "name_ar": "ZITOUNA",
-        "name_en": "ZITOUNA",
+        "name": "AIN KECHRA",
+        "name_ar": "عين قشرة",
+        "name_en": "AIN KECHRA",
+        "baladyiats": []
+      },
+      {
+        "name": "OUM TOUB",
+        "name_ar": "أم الطوب",
+        "name_en": "OUM TOUB",
         "baladyiats": []
       }
     ]
@@ -4113,93 +4113,93 @@
     ],
     "dairats": [
       {
-        "name": "AIN EL BERD",
-        "name_ar": "AIN EL BERD",
-        "name_en": "AIN EL BERD",
-        "baladyiats": []
-      },
-      {
-        "name": "BEN BADIS",
-        "name_ar": "BEN BADIS",
-        "name_en": "BEN BADIS",
-        "baladyiats": []
-      },
-      {
-        "name": "MARHOUM",
-        "name_ar": "MARHOUM",
-        "name_en": "MARHOUM",
-        "baladyiats": []
-      },
-      {
-        "name": "MERINE",
-        "name_ar": "MERINE",
-        "name_en": "MERINE",
-        "baladyiats": []
-      },
-      {
-        "name": "MOSTEFA  BEN BRAHIM",
-        "name_ar": "MOSTEFA  BEN BRAHIM",
-        "name_en": "MOSTEFA  BEN BRAHIM",
-        "baladyiats": []
-      },
-      {
-        "name": "MOULAY SLISSEN",
-        "name_ar": "MOULAY SLISSEN",
-        "name_en": "MOULAY SLISSEN",
-        "baladyiats": []
-      },
-      {
-        "name": "RAS EL MA",
-        "name_ar": "RAS EL MA",
-        "name_en": "RAS EL MA",
-        "baladyiats": []
-      },
-      {
-        "name": "SFISEF",
-        "name_ar": "SFISEF",
-        "name_en": "SFISEF",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI ALI BEN YOUB",
-        "name_ar": "SIDI ALI BEN YOUB",
-        "name_en": "SIDI ALI BEN YOUB",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI ALI BOUSSIDI",
-        "name_ar": "SIDI ALI BOUSSIDI",
-        "name_en": "SIDI ALI BOUSSIDI",
-        "baladyiats": []
-      },
-      {
         "name": "SIDI BEL ABBES",
-        "name_ar": "SIDI BEL ABBES",
+        "name_ar": "سيدي بلعباس",
         "name_en": "SIDI BEL ABBES",
         "baladyiats": []
       },
       {
-        "name": "SIDI LAHCENE",
-        "name_ar": "SIDI LAHCENE",
-        "name_en": "SIDI LAHCENE",
+        "name": "TESSALA",
+        "name_ar": "تسالة",
+        "name_en": "TESSALA",
+        "baladyiats": []
+      },
+      {
+        "name": "MOSTEFA  BEN BRAHIM",
+        "name_ar": "مصطفى بن ابراهيم",
+        "name_en": "MOSTEFA  BEN BRAHIM",
         "baladyiats": []
       },
       {
         "name": "TELAGH",
-        "name_ar": "TELAGH",
+        "name_ar": "تلاغ",
         "name_en": "TELAGH",
         "baladyiats": []
       },
       {
+        "name": "SIDI ALI BOUSSIDI",
+        "name_ar": "سيدي علي بوسيدي",
+        "name_en": "SIDI ALI BOUSSIDI",
+        "baladyiats": []
+      },
+      {
+        "name": "MARHOUM",
+        "name_ar": "مرحوم",
+        "name_en": "MARHOUM",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI LAHCENE",
+        "name_ar": "سيدي لحسن",
+        "name_en": "SIDI LAHCENE",
+        "baladyiats": []
+      },
+      {
         "name": "TENIRA",
-        "name_ar": "TENIRA",
+        "name_ar": "تنيرة",
         "name_en": "TENIRA",
         "baladyiats": []
       },
       {
-        "name": "TESSALA",
-        "name_ar": "TESSALA",
-        "name_en": "TESSALA",
+        "name": "MOULAY SLISSEN",
+        "name_ar": "مولاي سليسن",
+        "name_en": "MOULAY SLISSEN",
+        "baladyiats": []
+      },
+      {
+        "name": "MERINE",
+        "name_ar": "مرين",
+        "name_en": "MERINE",
+        "baladyiats": []
+      },
+      {
+        "name": "RAS EL MA",
+        "name_ar": "راس الماء",
+        "name_en": "RAS EL MA",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN EL BERD",
+        "name_ar": "عين البرد",
+        "name_en": "AIN EL BERD",
+        "baladyiats": []
+      },
+      {
+        "name": "SFISEF",
+        "name_ar": "سفيزف",
+        "name_en": "SFISEF",
+        "baladyiats": []
+      },
+      {
+        "name": "BEN BADIS",
+        "name_ar": "بن باديس",
+        "name_en": "BEN BADIS",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI ALI BEN YOUB",
+        "name_ar": "سيدي علي بن يوب",
+        "name_en": "SIDI ALI BEN YOUB",
         "baladyiats": []
       }
     ]
@@ -4270,39 +4270,39 @@
     ],
     "dairats": [
       {
-        "name": "AIN EL BERDA",
-        "name_ar": "AIN EL BERDA",
-        "name_en": "AIN EL BERDA",
-        "baladyiats": []
-      },
-      {
         "name": "ANNABA",
-        "name_ar": "ANNABA",
+        "name_ar": "عنابة",
         "name_en": "ANNABA",
         "baladyiats": []
       },
       {
         "name": "BERRAHAL",
-        "name_ar": "BERRAHAL",
+        "name_ar": "برحال",
         "name_en": "BERRAHAL",
         "baladyiats": []
       },
       {
-        "name": "CHETAIBI",
-        "name_ar": "CHETAIBI",
-        "name_en": "CHETAIBI",
+        "name": "EL HADJAR",
+        "name_ar": "الحجار",
+        "name_en": "EL HADJAR",
         "baladyiats": []
       },
       {
         "name": "EL BOUNI",
-        "name_ar": "EL BOUNI",
+        "name_ar": "البوني",
         "name_en": "EL BOUNI",
         "baladyiats": []
       },
       {
-        "name": "EL HADJAR",
-        "name_ar": "EL HADJAR",
-        "name_en": "EL HADJAR",
+        "name": "AIN EL BERDA",
+        "name_ar": "عين الباردة",
+        "name_en": "AIN EL BERDA",
+        "baladyiats": []
+      },
+      {
+        "name": "CHETAIBI",
+        "name_ar": "شطايبي",
+        "name_en": "CHETAIBI",
         "baladyiats": []
       }
     ]
@@ -4373,63 +4373,63 @@
     ],
     "dairats": [
       {
-        "name": "AIN HESSAINIA",
-        "name_ar": "AIN HESSAINIA",
-        "name_en": "AIN HESSAINIA",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN MAKHLOUF",
-        "name_ar": "AIN MAKHLOUF",
-        "name_en": "AIN MAKHLOUF",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUCHEGOUF",
-        "name_ar": "BOUCHEGOUF",
-        "name_en": "BOUCHEGOUF",
-        "baladyiats": []
-      },
-      {
-        "name": "GUELAAT BOUSBAA",
-        "name_ar": "GUELAAT BOUSBAA",
-        "name_en": "GUELAAT BOUSBAA",
-        "baladyiats": []
-      },
-      {
         "name": "GUELMA",
-        "name_ar": "GUELMA",
+        "name_ar": "قالمة",
         "name_en": "GUELMA",
         "baladyiats": []
       },
       {
+        "name": "OUED ZENATI",
+        "name_ar": "وادي الزناتي",
+        "name_en": "OUED ZENATI",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN MAKHLOUF",
+        "name_ar": "عين مخلوف",
+        "name_en": "AIN MAKHLOUF",
+        "baladyiats": []
+      },
+      {
+        "name": "KHEZARAS",
+        "name_ar": "خزارة",
+        "name_en": "KHEZARAS",
+        "baladyiats": []
+      },
+      {
+        "name": "GUELAAT BOUSBAA",
+        "name_ar": "قلعة بوصبع",
+        "name_en": "GUELAAT BOUSBAA",
+        "baladyiats": []
+      },
+      {
         "name": "HAMMAM DEBAGH",
-        "name_ar": "HAMMAM DEBAGH",
+        "name_ar": "حمام دباغ",
         "name_en": "HAMMAM DEBAGH",
         "baladyiats": []
       },
       {
         "name": "HAMMAM N'BAILS",
-        "name_ar": "HAMMAM N'BAILS",
+        "name_ar": "حمام النبايل",
         "name_en": "HAMMAM N'BAILS",
         "baladyiats": []
       },
       {
+        "name": "BOUCHEGOUF",
+        "name_ar": "بوشقوف",
+        "name_en": "BOUCHEGOUF",
+        "baladyiats": []
+      },
+      {
         "name": "HELIOPOLIS",
-        "name_ar": "HELIOPOLIS",
+        "name_ar": "هيليوبوليس",
         "name_en": "HELIOPOLIS",
         "baladyiats": []
       },
       {
-        "name": "KHEZARAS",
-        "name_ar": "KHEZARAS",
-        "name_en": "KHEZARAS",
-        "baladyiats": []
-      },
-      {
-        "name": "OUED ZENATI",
-        "name_ar": "OUED ZENATI",
-        "name_en": "OUED ZENATI",
+        "name": "AIN HESSAINIA",
+        "name_ar": "عين حساينية",
+        "name_en": "AIN HESSAINIA",
         "baladyiats": []
       }
     ]
@@ -4509,39 +4509,39 @@
     ],
     "dairats": [
       {
-        "name": "AIN ABID",
-        "name_ar": "AIN ABID",
-        "name_en": "AIN ABID",
-        "baladyiats": []
-      },
-      {
         "name": "CONSTANTINE",
-        "name_ar": "CONSTANTINE",
+        "name_ar": "قسنطينة",
         "name_en": "CONSTANTINE",
         "baladyiats": []
       },
       {
-        "name": "EL KHROUB",
-        "name_ar": "EL KHROUB",
-        "name_en": "EL KHROUB",
-        "baladyiats": []
-      },
-      {
         "name": "HAMMA BOUZIANE",
-        "name_ar": "HAMMA BOUZIANE",
+        "name_ar": "حامة بوزيان",
         "name_en": "HAMMA BOUZIANE",
         "baladyiats": []
       },
       {
-        "name": "IBN ZIAD",
-        "name_ar": "IBN ZIAD",
-        "name_en": "IBN ZIAD",
+        "name": "ZIGHOUD YOUCEF",
+        "name_ar": "زيغود يوسف",
+        "name_en": "ZIGHOUD YOUCEF",
         "baladyiats": []
       },
       {
-        "name": "ZIGHOUD YOUCEF",
-        "name_ar": "ZIGHOUD YOUCEF",
-        "name_en": "ZIGHOUD YOUCEF",
+        "name": "EL KHROUB",
+        "name_ar": "الخروب",
+        "name_en": "EL KHROUB",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN ABID",
+        "name_ar": "عين عبيد",
+        "name_en": "AIN ABID",
+        "baladyiats": []
+      },
+      {
+        "name": "IBN ZIAD",
+        "name_ar": "ابن زياد",
+        "name_en": "IBN ZIAD",
         "baladyiats": []
       }
     ]
@@ -4646,117 +4646,117 @@
     ],
     "dairats": [
       {
+        "name": "MEDEA",
+        "name_ar": "المدية",
+        "name_en": "MEDEA",
+        "baladyiats": []
+      },
+      {
+        "name": "OUZERA",
+        "name_ar": "وزرة",
+        "name_en": "OUZERA",
+        "baladyiats": []
+      },
+      {
         "name": "AIN BOUCIF",
-        "name_ar": "AIN BOUCIF",
+        "name_ar": "عين بوسيف",
         "name_en": "AIN BOUCIF",
         "baladyiats": []
       },
       {
-        "name": "AZIZ",
-        "name_ar": "AZIZ",
-        "name_en": "AZIZ",
-        "baladyiats": []
-      },
-      {
-        "name": "BENI SLIMANE",
-        "name_ar": "BENI SLIMANE",
-        "name_en": "BENI SLIMANE",
-        "baladyiats": []
-      },
-      {
-        "name": "BERROUAGHIA",
-        "name_ar": "BERROUAGHIA",
-        "name_en": "BERROUAGHIA",
-        "baladyiats": []
-      },
-      {
-        "name": "CHAHBOUNIA",
-        "name_ar": "CHAHBOUNIA",
-        "name_en": "CHAHBOUNIA",
-        "baladyiats": []
-      },
-      {
-        "name": "CHELLALAT EL ADHAOURA",
-        "name_ar": "CHELLALAT EL ADHAOURA",
-        "name_en": "CHELLALAT EL ADHAOURA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL AZIZIA",
-        "name_ar": "EL AZIZIA",
-        "name_en": "EL AZIZIA",
-        "baladyiats": []
-      },
-      {
         "name": "EL OMARIA",
-        "name_ar": "EL OMARIA",
+        "name_ar": "العمارية",
         "name_en": "EL OMARIA",
         "baladyiats": []
       },
       {
         "name": "GUELB EL KEBIR",
-        "name_ar": "GUELB EL KEBIR",
+        "name_ar": "القلب الكبير",
         "name_en": "GUELB EL KEBIR",
         "baladyiats": []
       },
       {
-        "name": "KSAR EL BOUKHARI",
-        "name_ar": "KSAR EL BOUKHARI",
-        "name_en": "KSAR EL BOUKHARI",
-        "baladyiats": []
-      },
-      {
-        "name": "MEDEA",
-        "name_ar": "MEDEA",
-        "name_en": "MEDEA",
-        "baladyiats": []
-      },
-      {
-        "name": "OUAMRI",
-        "name_ar": "OUAMRI",
-        "name_en": "OUAMRI",
-        "baladyiats": []
-      },
-      {
-        "name": "OULED ANTAR",
-        "name_ar": "OULED ANTAR",
-        "name_en": "OULED ANTAR",
-        "baladyiats": []
-      },
-      {
-        "name": "OUZERA",
-        "name_ar": "OUZERA",
-        "name_en": "OUZERA",
-        "baladyiats": []
-      },
-      {
-        "name": "SEGHOUANE",
-        "name_ar": "SEGHOUANE",
-        "name_en": "SEGHOUANE",
-        "baladyiats": []
-      },
-      {
-        "name": "SI MAHDJOUB",
-        "name_ar": "SI MAHDJOUB",
-        "name_en": "SI MAHDJOUB",
+        "name": "CHELLALAT EL ADHAOURA",
+        "name_ar": "شلالة العذاورة",
+        "name_en": "CHELLALAT EL ADHAOURA",
         "baladyiats": []
       },
       {
         "name": "SIDI NAAMANE",
-        "name_ar": "SIDI NAAMANE",
+        "name_ar": "سيدي نعمان",
         "name_en": "SIDI NAAMANE",
         "baladyiats": []
       },
       {
+        "name": "AZIZ",
+        "name_ar": "عزيز",
+        "name_en": "AZIZ",
+        "baladyiats": []
+      },
+      {
         "name": "SOUAGHI",
-        "name_ar": "SOUAGHI",
+        "name_ar": "السواقي",
         "name_en": "SOUAGHI",
         "baladyiats": []
       },
       {
+        "name": "KSAR EL BOUKHARI",
+        "name_ar": "قصر البخاري",
+        "name_en": "KSAR EL BOUKHARI",
+        "baladyiats": []
+      },
+      {
+        "name": "EL AZIZIA",
+        "name_ar": "العزيزية",
+        "name_en": "EL AZIZIA",
+        "baladyiats": []
+      },
+      {
+        "name": "CHAHBOUNIA",
+        "name_ar": "الشهبونية",
+        "name_en": "CHAHBOUNIA",
+        "baladyiats": []
+      },
+      {
+        "name": "OUAMRI",
+        "name_ar": "عوامري",
+        "name_en": "OUAMRI",
+        "baladyiats": []
+      },
+      {
+        "name": "SI MAHDJOUB",
+        "name_ar": "سي المحجوب",
+        "name_en": "SI MAHDJOUB",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI SLIMANE",
+        "name_ar": "بني سليمان",
+        "name_en": "BENI SLIMANE",
+        "baladyiats": []
+      },
+      {
+        "name": "BERROUAGHIA",
+        "name_ar": "البرواقية",
+        "name_en": "BERROUAGHIA",
+        "baladyiats": []
+      },
+      {
+        "name": "SEGHOUANE",
+        "name_ar": "سغوان",
+        "name_en": "SEGHOUANE",
+        "baladyiats": []
+      },
+      {
         "name": "TABLAT",
-        "name_ar": "TABLAT",
+        "name_ar": "تابلاط",
         "name_en": "TABLAT",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED ANTAR",
+        "name_ar": "أولاد عنتر",
+        "name_en": "OULED ANTAR",
         "baladyiats": []
       }
     ]
@@ -4837,63 +4837,63 @@
     ],
     "dairats": [
       {
-        "name": "ACHAACHA",
-        "name_ar": "ACHAACHA",
-        "name_en": "ACHAACHA",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN NOUICY",
-        "name_ar": "AIN NOUICY",
-        "name_en": "AIN NOUICY",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN TEDELES",
-        "name_ar": "AIN TEDELES",
-        "name_en": "AIN TEDELES",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUGUIRAT",
-        "name_ar": "BOUGUIRAT",
-        "name_en": "BOUGUIRAT",
-        "baladyiats": []
-      },
-      {
-        "name": "HASSI MAMECHE",
-        "name_ar": "HASSI MAMECHE",
-        "name_en": "HASSI MAMECHE",
-        "baladyiats": []
-      },
-      {
-        "name": "KHEIR EDDINE",
-        "name_ar": "KHEIR EDDINE",
-        "name_en": "KHEIR EDDINE",
-        "baladyiats": []
-      },
-      {
-        "name": "MESRA",
-        "name_ar": "MESRA",
-        "name_en": "MESRA",
-        "baladyiats": []
-      },
-      {
         "name": "MOSTAGANEM",
-        "name_ar": "MOSTAGANEM",
+        "name_ar": "مستغانم",
         "name_en": "MOSTAGANEM",
         "baladyiats": []
       },
       {
+        "name": "AIN NOUICY",
+        "name_ar": "عين نويسي",
+        "name_en": "AIN NOUICY",
+        "baladyiats": []
+      },
+      {
+        "name": "HASSI MAMECHE",
+        "name_ar": "حاسي ماماش",
+        "name_en": "HASSI MAMECHE",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN TEDELES",
+        "name_ar": "عين تادلس",
+        "name_en": "AIN TEDELES",
+        "baladyiats": []
+      },
+      {
+        "name": "KHEIR EDDINE",
+        "name_ar": "خير الدين",
+        "name_en": "KHEIR EDDINE",
+        "baladyiats": []
+      },
+      {
         "name": "SIDI ALI",
-        "name_ar": "SIDI ALI",
+        "name_ar": "سيدي علي",
         "name_en": "SIDI ALI",
         "baladyiats": []
       },
       {
         "name": "SIDI LAKHDAR",
-        "name_ar": "SIDI LAKHDAR",
+        "name_ar": "سيدي لخضر",
         "name_en": "SIDI LAKHDAR",
+        "baladyiats": []
+      },
+      {
+        "name": "ACHAACHA",
+        "name_ar": "عشعاشة",
+        "name_en": "ACHAACHA",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUGUIRAT",
+        "name_ar": "بوقيراط",
+        "name_en": "BOUGUIRAT",
+        "baladyiats": []
+      },
+      {
+        "name": "MESRA",
+        "name_ar": "ماسرة",
+        "name_en": "MESRA",
         "baladyiats": []
       }
     ]
@@ -4906,93 +4906,93 @@
     "postalCodes": [],
     "dairats": [
       {
-        "name": "AIN EL HADJEL",
-        "name_ar": "AIN EL HADJEL",
-        "name_en": "AIN EL HADJEL",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN EL MELH",
-        "name_ar": "AIN EL MELH",
-        "name_en": "AIN EL MELH",
-        "baladyiats": []
-      },
-      {
-        "name": "BEN SROUR",
-        "name_ar": "BEN SROUR",
-        "name_en": "BEN SROUR",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUSAADA",
-        "name_ar": "BOUSAADA",
-        "name_en": "BOUSAADA",
-        "baladyiats": []
-      },
-      {
-        "name": "CHELLAL",
-        "name_ar": "CHELLAL",
-        "name_en": "CHELLAL",
-        "baladyiats": []
-      },
-      {
-        "name": "DJEBEL MESSAAD",
-        "name_ar": "DJEBEL MESSAAD",
-        "name_en": "DJEBEL MESSAAD",
-        "baladyiats": []
-      },
-      {
-        "name": "HAMMAM DALAA",
-        "name_ar": "HAMMAM DALAA",
-        "name_en": "HAMMAM DALAA",
-        "baladyiats": []
-      },
-      {
-        "name": "KHOUBANA",
-        "name_ar": "KHOUBANA",
-        "name_en": "KHOUBANA",
-        "baladyiats": []
-      },
-      {
         "name": "M'SILA",
-        "name_ar": "M'SILA",
+        "name_ar": "المسيلة",
         "name_en": "M'SILA",
         "baladyiats": []
       },
       {
-        "name": "MAGRA",
-        "name_ar": "MAGRA",
-        "name_en": "MAGRA",
-        "baladyiats": []
-      },
-      {
-        "name": "MEDJEDEL",
-        "name_ar": "MEDJEDEL",
-        "name_en": "MEDJEDEL",
+        "name": "HAMMAM DALAA",
+        "name_ar": "حمام الضلعة",
+        "name_en": "HAMMAM DALAA",
         "baladyiats": []
       },
       {
         "name": "OULED DERRADJ",
-        "name_ar": "OULED DERRADJ",
+        "name_ar": "أولاد دراج",
         "name_en": "OULED DERRADJ",
         "baladyiats": []
       },
       {
-        "name": "OULED SIDI BRAHIM",
-        "name_ar": "OULED SIDI BRAHIM",
-        "name_en": "OULED SIDI BRAHIM",
+        "name": "KHOUBANA",
+        "name_ar": "خبانة",
+        "name_en": "KHOUBANA",
+        "baladyiats": []
+      },
+      {
+        "name": "CHELLAL",
+        "name_ar": "شلال",
+        "name_en": "CHELLAL",
+        "baladyiats": []
+      },
+      {
+        "name": "MAGRA",
+        "name_ar": "مقرة",
+        "name_en": "MAGRA",
         "baladyiats": []
       },
       {
         "name": "SIDI AISSA",
-        "name_ar": "SIDI AISSA",
+        "name_ar": "سيدي عيسى",
         "name_en": "SIDI AISSA",
         "baladyiats": []
       },
       {
+        "name": "AIN EL HADJEL",
+        "name_ar": "عين الحجل",
+        "name_en": "AIN EL HADJEL",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUSAADA",
+        "name_ar": "بوسعادة",
+        "name_en": "BOUSAADA",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED SIDI BRAHIM",
+        "name_ar": "أولاد سيدي ابراهيم",
+        "name_en": "OULED SIDI BRAHIM",
+        "baladyiats": []
+      },
+      {
         "name": "SIDI AMEUR",
-        "name_ar": "SIDI AMEUR",
+        "name_ar": "سيدي عامر",
         "name_en": "SIDI AMEUR",
+        "baladyiats": []
+      },
+      {
+        "name": "BEN SROUR",
+        "name_ar": "بن سرور",
+        "name_en": "BEN SROUR",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN EL MELH",
+        "name_ar": "عين الملح",
+        "name_en": "AIN EL MELH",
+        "baladyiats": []
+      },
+      {
+        "name": "MEDJEDEL",
+        "name_ar": "امجدل",
+        "name_en": "MEDJEDEL",
+        "baladyiats": []
+      },
+      {
+        "name": "DJEBEL MESSAAD",
+        "name_ar": "جبل مساعد",
+        "name_en": "DJEBEL MESSAAD",
         "baladyiats": []
       }
     ]
@@ -5102,99 +5102,99 @@
     ],
     "dairats": [
       {
-        "name": "AIN FARES",
-        "name_ar": "AIN FARES",
-        "name_en": "AIN FARES",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN FEKAN",
-        "name_ar": "AIN FEKAN",
-        "name_en": "AIN FEKAN",
-        "baladyiats": []
-      },
-      {
-        "name": "AOUF",
-        "name_ar": "AOUF",
-        "name_en": "AOUF",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUHANIFIA",
-        "name_ar": "BOUHANIFIA",
-        "name_en": "BOUHANIFIA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL BORDJ",
-        "name_ar": "EL BORDJ",
-        "name_en": "EL BORDJ",
-        "baladyiats": []
-      },
-      {
-        "name": "GHRISS",
-        "name_ar": "GHRISS",
-        "name_en": "GHRISS",
-        "baladyiats": []
-      },
-      {
-        "name": "HACHEM",
-        "name_ar": "HACHEM",
-        "name_en": "HACHEM",
-        "baladyiats": []
-      },
-      {
         "name": "MASCARA",
-        "name_ar": "MASCARA",
+        "name_ar": "معسكر",
         "name_en": "MASCARA",
         "baladyiats": []
       },
       {
-        "name": "MOHAMMADIA",
-        "name_ar": "MOHAMMADIA",
-        "name_en": "MOHAMMADIA",
-        "baladyiats": []
-      },
-      {
-        "name": "OGGAZ",
-        "name_ar": "OGGAZ",
-        "name_en": "OGGAZ",
-        "baladyiats": []
-      },
-      {
-        "name": "OUED EL ABTAL",
-        "name_ar": "OUED EL ABTAL",
-        "name_en": "OUED EL ABTAL",
-        "baladyiats": []
-      },
-      {
-        "name": "OUED TARIA",
-        "name_ar": "OUED TARIA",
-        "name_en": "OUED TARIA",
-        "baladyiats": []
-      },
-      {
-        "name": "SIG",
-        "name_ar": "SIG",
-        "name_en": "SIG",
-        "baladyiats": []
-      },
-      {
-        "name": "TIGHENNIF",
-        "name_ar": "TIGHENNIF",
-        "name_en": "TIGHENNIF",
+        "name": "BOUHANIFIA",
+        "name_ar": "بوحنيفية",
+        "name_en": "BOUHANIFIA",
         "baladyiats": []
       },
       {
         "name": "TIZI",
-        "name_ar": "TIZI",
+        "name_ar": "تيزي",
         "name_en": "TIZI",
         "baladyiats": []
       },
       {
+        "name": "TIGHENNIF",
+        "name_ar": "تيغنيف",
+        "name_en": "TIGHENNIF",
+        "baladyiats": []
+      },
+      {
+        "name": "HACHEM",
+        "name_ar": "الحشم",
+        "name_en": "HACHEM",
+        "baladyiats": []
+      },
+      {
+        "name": "OUED EL ABTAL",
+        "name_ar": "وادي الأبطال",
+        "name_en": "OUED EL ABTAL",
+        "baladyiats": []
+      },
+      {
+        "name": "GHRISS",
+        "name_ar": "غريس",
+        "name_en": "GHRISS",
+        "baladyiats": []
+      },
+      {
+        "name": "EL BORDJ",
+        "name_ar": "البرج",
+        "name_en": "EL BORDJ",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN FEKAN",
+        "name_ar": "عين فكان",
+        "name_en": "AIN FEKAN",
+        "baladyiats": []
+      },
+      {
+        "name": "OUED TARIA",
+        "name_ar": "وادي التاغية",
+        "name_en": "OUED TARIA",
+        "baladyiats": []
+      },
+      {
+        "name": "AOUF",
+        "name_ar": "عوف",
+        "name_en": "AOUF",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN FARES",
+        "name_ar": "عين فارس",
+        "name_en": "AIN FARES",
+        "baladyiats": []
+      },
+      {
+        "name": "SIG",
+        "name_ar": "سيق",
+        "name_en": "SIG",
+        "baladyiats": []
+      },
+      {
+        "name": "OGGAZ",
+        "name_ar": "عقاز",
+        "name_en": "OGGAZ",
+        "baladyiats": []
+      },
+      {
         "name": "ZAHANA",
-        "name_ar": "ZAHANA",
+        "name_ar": "زهانة",
         "name_en": "ZAHANA",
+        "baladyiats": []
+      },
+      {
+        "name": "MOHAMMADIA",
+        "name_ar": "المحمدية",
+        "name_en": "MOHAMMADIA",
         "baladyiats": []
       }
     ]
@@ -5272,69 +5272,69 @@
     ],
     "dairats": [
       {
-        "name": "EL BORMA",
-        "name_ar": "EL BORMA",
-        "name_en": "EL BORMA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL-HADJIRA",
-        "name_ar": "EL-HADJIRA",
-        "name_en": "EL-HADJIRA",
-        "baladyiats": []
-      },
-      {
-        "name": "HASSI MESSAOUD",
-        "name_ar": "HASSI MESSAOUD",
-        "name_en": "HASSI MESSAOUD",
-        "baladyiats": []
-      },
-      {
-        "name": "MEGARINE",
-        "name_ar": "MEGARINE",
-        "name_en": "MEGARINE",
-        "baladyiats": []
-      },
-      {
-        "name": "N'GOUSSA",
-        "name_ar": "N'GOUSSA",
-        "name_en": "N'GOUSSA",
-        "baladyiats": []
-      },
-      {
         "name": "OUARGLA",
-        "name_ar": "OUARGLA",
+        "name_ar": "ورقلة",
         "name_en": "OUARGLA",
         "baladyiats": []
       },
       {
+        "name": "N'GOUSSA",
+        "name_ar": "انقوسة",
+        "name_en": "N'GOUSSA",
+        "baladyiats": []
+      },
+      {
+        "name": "HASSI MESSAOUD",
+        "name_ar": "حاسي مسعود",
+        "name_en": "HASSI MESSAOUD",
+        "baladyiats": []
+      },
+      {
         "name": "SIDI KHOUILED",
-        "name_ar": "SIDI KHOUILED",
+        "name_ar": "سيدي خويلد",
         "name_en": "SIDI KHOUILED",
         "baladyiats": []
       },
       {
+        "name": "TOUGGOURT (wilaya déléguée)",
+        "name_ar": "تقرت",
+        "name_en": "TOUGGOURT (wilaya déléguée)",
+        "baladyiats": []
+      },
+      {
+        "name": "TOUGGOURT",
+        "name_ar": "تقرت (ولاية منتدبة)",
+        "name_en": "TOUGGOURT",
+        "baladyiats": []
+      },
+      {
+        "name": "EL-HADJIRA",
+        "name_ar": "الحجيرة",
+        "name_en": "EL-HADJIRA",
+        "baladyiats": []
+      },
+      {
         "name": "TAIBET",
-        "name_ar": "TAIBET",
+        "name_ar": "الطيبات",
         "name_en": "TAIBET",
         "baladyiats": []
       },
       {
         "name": "TEMACINE",
-        "name_ar": "TEMACINE",
+        "name_ar": "تماسين",
         "name_en": "TEMACINE",
         "baladyiats": []
       },
       {
-        "name": "TOUGGOURT",
-        "name_ar": "TOUGGOURT",
-        "name_en": "TOUGGOURT",
+        "name": "MEGARINE",
+        "name_ar": "المقارين",
+        "name_en": "MEGARINE",
         "baladyiats": []
       },
       {
-        "name": "TOUGGOURT (wilaya déléguée)",
-        "name_ar": "TOUGGOURT (wilaya déléguée)",
-        "name_en": "TOUGGOURT (wilaya déléguée)",
+        "name": "EL BORMA",
+        "name_ar": "البرمة",
+        "name_en": "EL BORMA",
         "baladyiats": []
       }
     ]
@@ -5468,57 +5468,57 @@
     ],
     "dairats": [
       {
-        "name": "AIN TURK",
-        "name_ar": "AIN TURK",
-        "name_en": "AIN TURK",
+        "name": "ORAN",
+        "name_ar": "وهران",
+        "name_en": "ORAN",
+        "baladyiats": []
+      },
+      {
+        "name": "GDYEL",
+        "name_ar": "قديل",
+        "name_en": "GDYEL",
+        "baladyiats": []
+      },
+      {
+        "name": "BIR EL DJIR",
+        "name_ar": "بئر الجير",
+        "name_en": "BIR EL DJIR",
+        "baladyiats": []
+      },
+      {
+        "name": "ES SENIA",
+        "name_ar": "السانية",
+        "name_en": "ES SENIA",
         "baladyiats": []
       },
       {
         "name": "ARZEW",
-        "name_ar": "ARZEW",
+        "name_ar": "أرزيو",
         "name_en": "ARZEW",
         "baladyiats": []
       },
       {
         "name": "BETHIOUA",
-        "name_ar": "BETHIOUA",
+        "name_ar": "بطيوة",
         "name_en": "BETHIOUA",
         "baladyiats": []
       },
       {
-        "name": "BIR EL DJIR",
-        "name_ar": "BIR EL DJIR",
-        "name_en": "BIR EL DJIR",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUTLELIS",
-        "name_ar": "BOUTLELIS",
-        "name_en": "BOUTLELIS",
-        "baladyiats": []
-      },
-      {
-        "name": "ES SENIA",
-        "name_ar": "ES SENIA",
-        "name_en": "ES SENIA",
-        "baladyiats": []
-      },
-      {
-        "name": "GDYEL",
-        "name_ar": "GDYEL",
-        "name_en": "GDYEL",
-        "baladyiats": []
-      },
-      {
-        "name": "ORAN",
-        "name_ar": "ORAN",
-        "name_en": "ORAN",
+        "name": "AIN TURK",
+        "name_ar": "عين الترك",
+        "name_en": "AIN TURK",
         "baladyiats": []
       },
       {
         "name": "OUED TLELAT",
-        "name_ar": "OUED TLELAT",
+        "name_ar": "وادي تليلات",
         "name_en": "OUED TLELAT",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUTLELIS",
+        "name_ar": "بوتليليس",
+        "name_en": "BOUTLELIS",
         "baladyiats": []
       }
     ]
@@ -5575,51 +5575,51 @@
     ],
     "dairats": [
       {
+        "name": "EL BAYADH",
+        "name_ar": "البيض",
+        "name_en": "EL BAYADH",
+        "baladyiats": []
+      },
+      {
+        "name": "ROGASSA",
+        "name_ar": "رقاصة",
+        "name_en": "ROGASSA",
+        "baladyiats": []
+      },
+      {
+        "name": "BREZINA",
+        "name_ar": "بريزينة",
+        "name_en": "BREZINA",
+        "baladyiats": []
+      },
+      {
         "name": "BOUALEM",
-        "name_ar": "BOUALEM",
+        "name_ar": "بوعلام",
         "name_en": "BOUALEM",
         "baladyiats": []
       },
       {
+        "name": "LABIODH SIDI CHEIKH",
+        "name_ar": "الأبيض سيدي الشيخ",
+        "name_en": "LABIODH SIDI CHEIKH",
+        "baladyiats": []
+      },
+      {
         "name": "BOUGTOB",
-        "name_ar": "BOUGTOB",
+        "name_ar": "بوقطب",
         "name_en": "BOUGTOB",
         "baladyiats": []
       },
       {
         "name": "BOUSSEMGHOUN",
-        "name_ar": "BOUSSEMGHOUN",
+        "name_ar": "بوسمغون",
         "name_en": "BOUSSEMGHOUN",
         "baladyiats": []
       },
       {
-        "name": "BREZINA",
-        "name_ar": "BREZINA",
-        "name_en": "BREZINA",
-        "baladyiats": []
-      },
-      {
         "name": "CHELLALA",
-        "name_ar": "CHELLALA",
+        "name_ar": "شلالة",
         "name_en": "CHELLALA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL BAYADH",
-        "name_ar": "EL BAYADH",
-        "name_en": "EL BAYADH",
-        "baladyiats": []
-      },
-      {
-        "name": "LABIODH SIDI CHEIKH",
-        "name_ar": "LABIODH SIDI CHEIKH",
-        "name_en": "LABIODH SIDI CHEIKH",
-        "baladyiats": []
-      },
-      {
-        "name": "ROGASSA",
-        "name_ar": "ROGASSA",
-        "name_en": "ROGASSA",
         "baladyiats": []
       }
     ]
@@ -5656,27 +5656,27 @@
     ],
     "dairats": [
       {
+        "name": "ILLIZI",
+        "name_ar": "إيليزي",
+        "name_en": "ILLIZI",
+        "baladyiats": []
+      },
+      {
         "name": "DJANET",
-        "name_ar": "DJANET",
+        "name_ar": "جانت",
         "name_en": "DJANET",
         "baladyiats": []
       },
       {
         "name": "DJANET (wilaya déléguée)",
-        "name_ar": "DJANET (wilaya déléguée)",
+        "name_ar": "جانت (ولاية منتدبة)",
         "name_en": "DJANET (wilaya déléguée)",
         "baladyiats": []
       },
       {
-        "name": "ILLIZI",
-        "name_ar": "ILLIZI",
-        "name_en": "ILLIZI",
-        "baladyiats": []
-      },
-      {
-        "name": "IN AMENAS",
-        "name_ar": "IN AMENAS",
-        "name_en": "IN AMENAS",
+        "name": "AIN AMENAS",
+        "name_ar": "إن أمناس",
+        "name_en": "AIN AMENAS",
         "baladyiats": []
       }
     ]
@@ -5767,63 +5767,63 @@
     ],
     "dairats": [
       {
-        "name": "AIN TAGHROUT",
-        "name_ar": "AIN TAGHROUT",
-        "name_en": "AIN TAGHROUT",
-        "baladyiats": []
-      },
-      {
-        "name": "BIR KASDALI",
-        "name_ar": "BIR KASDALI",
-        "name_en": "BIR KASDALI",
-        "baladyiats": []
-      },
-      {
         "name": "BORDJ BOU ARRERIDJ",
-        "name_ar": "BORDJ BOU ARRERIDJ",
+        "name_ar": "برج بوعريريج",
         "name_en": "BORDJ BOU ARRERIDJ",
         "baladyiats": []
       },
       {
-        "name": "BORDJ GHEDIR",
-        "name_ar": "BORDJ GHEDIR",
-        "name_en": "BORDJ GHEDIR",
+        "name": "RAS EL OUED",
+        "name_ar": "رأس الوادي",
+        "name_en": "RAS EL OUED",
         "baladyiats": []
       },
       {
         "name": "BORDJ ZEMMOURA",
-        "name_ar": "BORDJ ZEMMOURA",
+        "name_ar": "برج زمورة",
         "name_en": "BORDJ ZEMMOURA",
         "baladyiats": []
       },
       {
-        "name": "DJAAFRA",
-        "name_ar": "DJAAFRA",
-        "name_en": "DJAAFRA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL HAMADIA",
-        "name_ar": "EL HAMADIA",
-        "name_en": "EL HAMADIA",
-        "baladyiats": []
-      },
-      {
         "name": "MANSOURAH",
-        "name_ar": "MANSOURAH",
+        "name_ar": "المنصورة",
         "name_en": "MANSOURAH",
         "baladyiats": []
       },
       {
+        "name": "AIN TAGHROUT",
+        "name_ar": "عين تاغروت",
+        "name_en": "AIN TAGHROUT",
+        "baladyiats": []
+      },
+      {
+        "name": "BORDJ GHEDIR",
+        "name_ar": "برج الغدير",
+        "name_en": "BORDJ GHEDIR",
+        "baladyiats": []
+      },
+      {
+        "name": "EL HAMADIA",
+        "name_ar": "الحمادية",
+        "name_en": "EL HAMADIA",
+        "baladyiats": []
+      },
+      {
         "name": "MEDJANA",
-        "name_ar": "MEDJANA",
+        "name_ar": "مجانة",
         "name_en": "MEDJANA",
         "baladyiats": []
       },
       {
-        "name": "RAS EL OUED",
-        "name_ar": "RAS EL OUED",
-        "name_en": "RAS EL OUED",
+        "name": "DJAAFRA",
+        "name_ar": "جعافرة",
+        "name_en": "DJAAFRA",
+        "baladyiats": []
+      },
+      {
+        "name": "BIR KASDALI",
+        "name_ar": "بئر قاصد علي",
+        "name_en": "BIR KASDALI",
         "baladyiats": []
       }
     ]
@@ -5905,57 +5905,57 @@
     ],
     "dairats": [
       {
-        "name": "BAGHLIA",
-        "name_ar": "BAGHLIA",
-        "name_en": "BAGHLIA",
-        "baladyiats": []
-      },
-      {
-        "name": "BORDJ MENAIEL",
-        "name_ar": "BORDJ MENAIEL",
-        "name_en": "BORDJ MENAIEL",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUDOUAOU",
-        "name_ar": "BOUDOUAOU",
-        "name_en": "BOUDOUAOU",
-        "baladyiats": []
-      },
-      {
         "name": "BOUMERDES",
-        "name_ar": "BOUMERDES",
+        "name_ar": "بومرداس",
         "name_en": "BOUMERDES",
         "baladyiats": []
       },
       {
-        "name": "DELLYS",
-        "name_ar": "DELLYS",
-        "name_en": "DELLYS",
+        "name": "BOUDOUAOU",
+        "name_ar": "بودواو",
+        "name_en": "BOUDOUAOU",
         "baladyiats": []
       },
       {
-        "name": "ISSER",
-        "name_ar": "ISSER",
-        "name_en": "ISSER",
+        "name": "BORDJ MENAIEL",
+        "name_ar": "برج منايل",
+        "name_en": "BORDJ MENAIEL",
         "baladyiats": []
       },
       {
-        "name": "KHEMIS EL KHECHNA",
-        "name_ar": "KHEMIS EL KHECHNA",
-        "name_en": "KHEMIS EL KHECHNA",
+        "name": "BAGHLIA",
+        "name_ar": "بغلية",
+        "name_en": "BAGHLIA",
         "baladyiats": []
       },
       {
         "name": "NACIRIA",
-        "name_ar": "NACIRIA",
+        "name_ar": "الناصرية",
         "name_en": "NACIRIA",
         "baladyiats": []
       },
       {
+        "name": "ISSER",
+        "name_ar": "يسر",
+        "name_en": "ISSER",
+        "baladyiats": []
+      },
+      {
         "name": "THENIA",
-        "name_ar": "THENIA",
+        "name_ar": "الثنية",
         "name_en": "THENIA",
+        "baladyiats": []
+      },
+      {
+        "name": "DELLYS",
+        "name_ar": "دلس",
+        "name_en": "DELLYS",
+        "baladyiats": []
+      },
+      {
+        "name": "KHEMIS EL KHECHNA",
+        "name_ar": "خميس الخشنة",
+        "name_en": "KHEMIS EL KHECHNA",
         "baladyiats": []
       }
     ]
@@ -6026,45 +6026,45 @@
     ],
     "dairats": [
       {
-        "name": "BEN M'HIDI",
-        "name_ar": "BEN M'HIDI",
-        "name_en": "BEN M'HIDI",
-        "baladyiats": []
-      },
-      {
-        "name": "BESBES",
-        "name_ar": "BESBES",
-        "name_en": "BESBES",
+        "name": "EL TARF",
+        "name_ar": "الطارف",
+        "name_en": "EL TARF",
         "baladyiats": []
       },
       {
         "name": "BOUHADJAR",
-        "name_ar": "BOUHADJAR",
+        "name_ar": "بوحجار",
         "name_en": "BOUHADJAR",
         "baladyiats": []
       },
       {
+        "name": "BEN M'HIDI",
+        "name_ar": "بن مهيدي",
+        "name_en": "BEN M'HIDI",
+        "baladyiats": []
+      },
+      {
+        "name": "EL KALA",
+        "name_ar": "القالة",
+        "name_en": "EL KALA",
+        "baladyiats": []
+      },
+      {
         "name": "BOUTELDJA",
-        "name_ar": "BOUTELDJA",
+        "name_ar": "بوثلجة",
         "name_en": "BOUTELDJA",
         "baladyiats": []
       },
       {
         "name": "DREAN",
-        "name_ar": "DREAN",
+        "name_ar": "الذرعان",
         "name_en": "DREAN",
         "baladyiats": []
       },
       {
-        "name": "EL KALA",
-        "name_ar": "EL KALA",
-        "name_en": "EL KALA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL TARF",
-        "name_ar": "EL TARF",
-        "name_en": "EL TARF",
+        "name": "BESBES",
+        "name_ar": "البسباس",
+        "name_en": "BESBES",
         "baladyiats": []
       }
     ]
@@ -6097,7 +6097,7 @@
     "dairats": [
       {
         "name": "TINDOUF",
-        "name_ar": "TINDOUF",
+        "name_ar": "تندوف",
         "name_en": "TINDOUF",
         "baladyiats": []
       }
@@ -6156,51 +6156,51 @@
     ],
     "dairats": [
       {
-        "name": "AMMARI",
-        "name_ar": "AMMARI",
-        "name_en": "AMMARI",
+        "name": "TISSEMSILT",
+        "name_ar": "تيسمسيلت",
+        "name_en": "TISSEMSILT",
         "baladyiats": []
       },
       {
         "name": "BORDJ BOUNAAMA",
-        "name_ar": "BORDJ BOUNAAMA",
+        "name_ar": "برج بونعامة",
         "name_en": "BORDJ BOUNAAMA",
         "baladyiats": []
       },
       {
+        "name": "THENIET EL HAD",
+        "name_ar": "ثنية الاحد",
+        "name_en": "THENIET EL HAD",
+        "baladyiats": []
+      },
+      {
+        "name": "LAZHARIA",
+        "name_ar": "الأزهرية",
+        "name_en": "LAZHARIA",
+        "baladyiats": []
+      },
+      {
+        "name": "LARDJEM",
+        "name_ar": "لرجام",
+        "name_en": "LARDJEM",
+        "baladyiats": []
+      },
+      {
         "name": "BORDJ EMIR ABDELKADER",
-        "name_ar": "BORDJ EMIR ABDELKADER",
+        "name_ar": "برج الأمير عبد القادر",
         "name_en": "BORDJ EMIR ABDELKADER",
         "baladyiats": []
       },
       {
         "name": "KHEMISTI",
-        "name_ar": "KHEMISTI",
+        "name_ar": "خميستي",
         "name_en": "KHEMISTI",
         "baladyiats": []
       },
       {
-        "name": "LARDJEM",
-        "name_ar": "LARDJEM",
-        "name_en": "LARDJEM",
-        "baladyiats": []
-      },
-      {
-        "name": "LAZHARIA",
-        "name_ar": "LAZHARIA",
-        "name_en": "LAZHARIA",
-        "baladyiats": []
-      },
-      {
-        "name": "THENIET EL HAD",
-        "name_ar": "THENIET EL HAD",
-        "name_en": "THENIET EL HAD",
-        "baladyiats": []
-      },
-      {
-        "name": "TISSEMSILT",
-        "name_ar": "TISSEMSILT",
-        "name_en": "TISSEMSILT",
+        "name": "AMMARI",
+        "name_ar": "عماري",
+        "name_en": "AMMARI",
         "baladyiats": []
       }
     ]
@@ -6312,81 +6312,81 @@
     ],
     "dairats": [
       {
-        "name": "BAYADHA",
-        "name_ar": "BAYADHA",
-        "name_en": "BAYADHA",
-        "baladyiats": []
-      },
-      {
-        "name": "DEBILA",
-        "name_ar": "DEBILA",
-        "name_en": "DEBILA",
-        "baladyiats": []
-      },
-      {
-        "name": "DJAMAA",
-        "name_ar": "DJAMAA",
-        "name_en": "DJAMAA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL MEGHAIER",
-        "name_ar": "EL MEGHAIER",
-        "name_en": "EL MEGHAIER",
-        "baladyiats": []
-      },
-      {
-        "name": "EL MEGHAIER (wilaya déléguée)",
-        "name_ar": "EL MEGHAIER (wilaya déléguée)",
-        "name_en": "EL MEGHAIER (wilaya déléguée)",
-        "baladyiats": []
-      },
-      {
         "name": "EL OUED",
-        "name_ar": "EL OUED",
+        "name_ar": "الوادي",
         "name_en": "EL OUED",
         "baladyiats": []
       },
       {
+        "name": "ROBBAH",
+        "name_ar": "الرباح",
+        "name_en": "ROBBAH",
+        "baladyiats": []
+      },
+      {
+        "name": "BAYADHA",
+        "name_ar": "البياضة",
+        "name_en": "BAYADHA",
+        "baladyiats": []
+      },
+      {
         "name": "GUEMAR",
-        "name_ar": "GUEMAR",
+        "name_ar": "قمار",
         "name_en": "GUEMAR",
         "baladyiats": []
       },
       {
+        "name": "REGUIBA",
+        "name_ar": "الرقيبة",
+        "name_en": "REGUIBA",
+        "baladyiats": []
+      },
+      {
+        "name": "DEBILA",
+        "name_ar": "الدبيلة",
+        "name_en": "DEBILA",
+        "baladyiats": []
+      },
+      {
         "name": "HASSI KHALIFA",
-        "name_ar": "HASSI KHALIFA",
+        "name_ar": "حاسي خليفة",
         "name_en": "HASSI KHALIFA",
         "baladyiats": []
       },
       {
+        "name": "TALEB LARBI",
+        "name_ar": "الطالب العربي",
+        "name_en": "TALEB LARBI",
+        "baladyiats": []
+      },
+      {
         "name": "MAGRANE",
-        "name_ar": "MAGRANE",
+        "name_ar": "المقرن",
         "name_en": "MAGRANE",
         "baladyiats": []
       },
       {
         "name": "MIH OUENSA",
-        "name_ar": "MIH OUENSA",
+        "name_ar": "اميه وانسة",
         "name_en": "MIH OUENSA",
         "baladyiats": []
       },
       {
-        "name": "REGUIBA",
-        "name_ar": "REGUIBA",
-        "name_en": "REGUIBA",
+        "name": "EL MEGHAIER (wilaya déléguée)",
+        "name_ar": "المغير",
+        "name_en": "EL MEGHAIER (wilaya déléguée)",
         "baladyiats": []
       },
       {
-        "name": "ROBBAH",
-        "name_ar": "ROBBAH",
-        "name_en": "ROBBAH",
+        "name": "EL MEGHAIER",
+        "name_ar": "المغير (ولاية منتدبة)",
+        "name_en": "EL MEGHAIER",
         "baladyiats": []
       },
       {
-        "name": "TALEB LARBI",
-        "name_ar": "TALEB LARBI",
-        "name_en": "TALEB LARBI",
+        "name": "DJAMAA",
+        "name_ar": "جامعة",
+        "name_en": "DJAMAA",
         "baladyiats": []
       }
     ]
@@ -6456,50 +6456,50 @@
     ],
     "dairats": [
       {
+        "name": "KHENCHELA",
+        "name_ar": "خنشلة",
+        "name_en": "KHENCHELA",
+        "baladyiats": []
+      },
+      {
+        "name": "KAIS",
+        "name_ar": "قايس",
+        "name_en": "KAIS",
+        "baladyiats": []
+      },
+      {
+        "name": "EL HAMMA",
+        "name_ar": "الحامة",
+        "name_en": "EL HAMMA",
+        "baladyiats": []
+      },
+      {
         "name": "AIN TOUILA",
-        "name_ar": "AIN TOUILA",
+        "name_ar": "عين الطويلة",
         "name_en": "AIN TOUILA",
         "baladyiats": []
       },
       {
-        "name": "BABAR",
-        "name_ar": "BABAR",
-        "name_en": "BABAR",
-        "baladyiats": []
-      },
-      {
         "name": "BOUHMAMA",
-        "name_ar": "BOUHMAMA",
+        "name_ar": "بوحمامة",
         "name_en": "BOUHMAMA",
         "baladyiats": []
       },
       {
         "name": "CHECHAR",
-        "name_ar": "CHECHAR",
+        "name_ar": "ششار",
         "name_en": "CHECHAR",
         "baladyiats": []
       },
       {
-        "name": "EL HAMMA",
-        "name_ar": "EL HAMMA",
-        "name_en": "EL HAMMA",
-        "baladyiats": []
-      },
-      {
-        "name": "KAIS",
-        "name_ar": "KAIS",
-        "name_en": "KAIS",
-        "baladyiats": []
-      },
-      {
-        "name": "KHENCHELA",
-        "name_ar": "KHENCHELA",
-        "name_en": "KHENCHELA",
+        "name": "BABAR",
+        "name_ar": "بابار",
+        "name_en": "BABAR",
         "baladyiats": []
       },
       {
         "name": "OULED RECHACHE",
-        "name_ar": "OULED RECHACHE",
+        "name_ar": "أولاد رشاش",
         "name_en": "OULED RECHACHE",
         "baladyiats": []
       }
@@ -6568,63 +6568,63 @@
     ],
     "dairats": [
       {
-        "name": "BIR BOUHOUCHE",
-        "name_ar": "BIR BOUHOUCHE",
-        "name_en": "BIR BOUHOUCHE",
-        "baladyiats": []
-      },
-      {
-        "name": "HADDADA",
-        "name_ar": "HADDADA",
-        "name_en": "HADDADA",
-        "baladyiats": []
-      },
-      {
-        "name": "M'DAOUROUCHE",
-        "name_ar": "M'DAOUROUCHE",
-        "name_en": "M'DAOUROUCHE",
-        "baladyiats": []
-      },
-      {
-        "name": "MECHROHA",
-        "name_ar": "MECHROHA",
-        "name_en": "MECHROHA",
-        "baladyiats": []
-      },
-      {
-        "name": "MERAHNA",
-        "name_ar": "MERAHNA",
-        "name_en": "MERAHNA",
-        "baladyiats": []
-      },
-      {
-        "name": "OULED DRISS",
-        "name_ar": "OULED DRISS",
-        "name_en": "OULED DRISS",
-        "baladyiats": []
-      },
-      {
-        "name": "OUM EL ADHAIM",
-        "name_ar": "OUM EL ADHAIM",
-        "name_en": "OUM EL ADHAIM",
-        "baladyiats": []
-      },
-      {
-        "name": "SEDRATA",
-        "name_ar": "SEDRATA",
-        "name_en": "SEDRATA",
-        "baladyiats": []
-      },
-      {
         "name": "SOUK AHRAS",
-        "name_ar": "SOUK AHRAS",
+        "name_ar": "سوق أهراس",
         "name_en": "SOUK AHRAS",
         "baladyiats": []
       },
       {
+        "name": "SEDRATA",
+        "name_ar": "سدراتة",
+        "name_en": "SEDRATA",
+        "baladyiats": []
+      },
+      {
+        "name": "MECHROHA",
+        "name_ar": "المشروحة",
+        "name_en": "MECHROHA",
+        "baladyiats": []
+      },
+      {
+        "name": "OULED DRISS",
+        "name_ar": "أولاد إدريس",
+        "name_en": "OULED DRISS",
+        "baladyiats": []
+      },
+      {
         "name": "TAOURA",
-        "name_ar": "TAOURA",
+        "name_ar": "تاورة",
         "name_en": "TAOURA",
+        "baladyiats": []
+      },
+      {
+        "name": "HADDADA",
+        "name_ar": "الحدادة",
+        "name_en": "HADDADA",
+        "baladyiats": []
+      },
+      {
+        "name": "MERAHNA",
+        "name_ar": "المراهنة",
+        "name_en": "MERAHNA",
+        "baladyiats": []
+      },
+      {
+        "name": "BIR BOUHOUCHE",
+        "name_ar": "بئر بوحوش",
+        "name_en": "BIR BOUHOUCHE",
+        "baladyiats": []
+      },
+      {
+        "name": "M'DAOUROUCHE",
+        "name_ar": "مداوروش",
+        "name_en": "M'DAOUROUCHE",
+        "baladyiats": []
+      },
+      {
+        "name": "OUM EL ADHAIM",
+        "name_ar": "أم العظايم",
+        "name_en": "OUM EL ADHAIM",
         "baladyiats": []
       }
     ]
@@ -6710,63 +6710,63 @@
     ],
     "dairats": [
       {
-        "name": "AHMAR EL AIN",
-        "name_ar": "AHMAR EL AIN",
-        "name_en": "AHMAR EL AIN",
+        "name": "TIPAZA",
+        "name_ar": "تيبازة",
+        "name_en": "TIPAZA",
         "baladyiats": []
       },
       {
-        "name": "BOU ISMAIL",
-        "name_ar": "BOU ISMAIL",
-        "name_en": "BOU ISMAIL",
+        "name": "HADJOUT",
+        "name_ar": "حجوط",
+        "name_en": "HADJOUT",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI AMAR",
+        "name_ar": "سيدي أعمر",
+        "name_en": "SIDI AMAR",
+        "baladyiats": []
+      },
+      {
+        "name": "GOURAYA",
+        "name_ar": "قوراية",
+        "name_en": "GOURAYA",
         "baladyiats": []
       },
       {
         "name": "CHERCHELL",
-        "name_ar": "CHERCHELL",
+        "name_ar": "شرشال",
         "name_en": "CHERCHELL",
         "baladyiats": []
       },
       {
         "name": "DAMOUS",
-        "name_ar": "DAMOUS",
+        "name_ar": "الداموس",
         "name_en": "DAMOUS",
         "baladyiats": []
       },
       {
         "name": "FOUKA",
-        "name_ar": "FOUKA",
+        "name_ar": "فوكة",
         "name_en": "FOUKA",
         "baladyiats": []
       },
       {
-        "name": "GOURAYA",
-        "name_ar": "GOURAYA",
-        "name_en": "GOURAYA",
+        "name": "BOU ISMAIL",
+        "name_ar": "بواسماعيل",
+        "name_en": "BOU ISMAIL",
         "baladyiats": []
       },
       {
-        "name": "HADJOUT",
-        "name_ar": "HADJOUT",
-        "name_en": "HADJOUT",
+        "name": "AHMAR EL AIN",
+        "name_ar": "أحمر العين",
+        "name_en": "AHMAR EL AIN",
         "baladyiats": []
       },
       {
         "name": "KOLEA",
-        "name_ar": "KOLEA",
+        "name_ar": "القليعة",
         "name_en": "KOLEA",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI AMAR",
-        "name_ar": "SIDI AMAR",
-        "name_en": "SIDI AMAR",
-        "baladyiats": []
-      },
-      {
-        "name": "TIPAZA",
-        "name_ar": "TIPAZA",
-        "name_en": "TIPAZA",
         "baladyiats": []
       }
     ]
@@ -6856,81 +6856,81 @@
     ],
     "dairats": [
       {
-        "name": "AIN BEIDA HARRICHE",
-        "name_ar": "AIN BEIDA HARRICHE",
-        "name_en": "AIN BEIDA HARRICHE",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUHATEM",
-        "name_ar": "BOUHATEM",
-        "name_en": "BOUHATEM",
-        "baladyiats": []
-      },
-      {
-        "name": "CHELGHOUM LAID",
-        "name_ar": "CHELGHOUM LAID",
-        "name_en": "CHELGHOUM LAID",
-        "baladyiats": []
-      },
-      {
-        "name": "FERDJIOUA",
-        "name_ar": "FERDJIOUA",
-        "name_en": "FERDJIOUA",
-        "baladyiats": []
-      },
-      {
-        "name": "GRAREM GOUGA",
-        "name_ar": "GRAREM GOUGA",
-        "name_en": "GRAREM GOUGA",
-        "baladyiats": []
-      },
-      {
         "name": "MILA",
-        "name_ar": "MILA",
+        "name_ar": "ميلة",
         "name_en": "MILA",
         "baladyiats": []
       },
       {
-        "name": "OUED ENDJA",
-        "name_ar": "OUED ENDJA",
-        "name_en": "OUED ENDJA",
+        "name": "FERDJIOUA",
+        "name_ar": "فرجيوة",
+        "name_en": "FERDJIOUA",
         "baladyiats": []
       },
       {
-        "name": "ROUACHED",
-        "name_ar": "ROUACHED",
-        "name_en": "ROUACHED",
-        "baladyiats": []
-      },
-      {
-        "name": "SIDI MEROUANE",
-        "name_ar": "SIDI MEROUANE",
-        "name_en": "SIDI MEROUANE",
-        "baladyiats": []
-      },
-      {
-        "name": "TADJENANET",
-        "name_ar": "TADJENANET",
-        "name_en": "TADJENANET",
-        "baladyiats": []
-      },
-      {
-        "name": "TASSADANE HADDADA",
-        "name_ar": "TASSADANE HADDADA",
-        "name_en": "TASSADANE HADDADA",
+        "name": "CHELGHOUM LAID",
+        "name_ar": "شلغوم العيد",
+        "name_en": "CHELGHOUM LAID",
         "baladyiats": []
       },
       {
         "name": "TELEGHMA",
-        "name_ar": "TELEGHMA",
+        "name_ar": "التلاغمة",
         "name_en": "TELEGHMA",
         "baladyiats": []
       },
       {
+        "name": "TADJENANET",
+        "name_ar": "تاجنانت",
+        "name_en": "TADJENANET",
+        "baladyiats": []
+      },
+      {
+        "name": "OUED ENDJA",
+        "name_ar": "وادي النجاء",
+        "name_en": "OUED ENDJA",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUHATEM",
+        "name_ar": "بوحاتم",
+        "name_en": "BOUHATEM",
+        "baladyiats": []
+      },
+      {
+        "name": "ROUACHED",
+        "name_ar": "الرواشد",
+        "name_en": "ROUACHED",
+        "baladyiats": []
+      },
+      {
+        "name": "GRAREM GOUGA",
+        "name_ar": "القرارم قوقة",
+        "name_en": "GRAREM GOUGA",
+        "baladyiats": []
+      },
+      {
+        "name": "SIDI MEROUANE",
+        "name_ar": "سيدي مروان",
+        "name_en": "SIDI MEROUANE",
+        "baladyiats": []
+      },
+      {
+        "name": "TASSADANE HADDADA",
+        "name_ar": "تسدان حدادة",
+        "name_en": "TASSADANE HADDADA",
+        "baladyiats": []
+      },
+      {
         "name": "TERRAI BAINEN",
-        "name_ar": "TERRAI BAINEN",
+        "name_ar": "ترعي باينان",
         "name_en": "TERRAI BAINEN",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN BEIDA HARRICHE",
+        "name_ar": "عين البيضاء أحريش",
+        "name_en": "AIN BEIDA HARRICHE",
         "baladyiats": []
       }
     ]
@@ -7013,86 +7013,86 @@
     "dairats": [
       {
         "name": "AIN DEFLA",
-        "name_ar": "AIN DEFLA",
+        "name_ar": "عين الدفلى",
         "name_en": "AIN DEFLA",
         "baladyiats": []
       },
       {
-        "name": "AIN LECHIAKH",
-        "name_ar": "AIN LECHIAKH",
-        "name_en": "AIN LECHIAKH",
-        "baladyiats": []
-      },
-      {
-        "name": "BATHIA",
-        "name_ar": "BATHIA",
-        "name_en": "BATHIA",
-        "baladyiats": []
-      },
-      {
-        "name": "BORDJ EL EMIR KHALED",
-        "name_ar": "BORDJ EL EMIR KHALED",
-        "name_en": "BORDJ EL EMIR KHALED",
+        "name": "MILIANA",
+        "name_ar": "مليانة",
+        "name_en": "MILIANA",
         "baladyiats": []
       },
       {
         "name": "BOUMEDFAA",
-        "name_ar": "BOUMEDFAA",
+        "name_ar": "بومدفع",
         "name_en": "BOUMEDFAA",
         "baladyiats": []
       },
       {
+        "name": "KHEMIS",
+        "name_ar": "خميس",
+        "name_en": "KHEMIS",
+        "baladyiats": []
+      },
+      {
+        "name": "HAMMAM RIGHA",
+        "name_ar": "حمام ريغة",
+        "name_en": "HAMMAM RIGHA",
+        "baladyiats": []
+      },
+      {
         "name": "DJELIDA",
-        "name_ar": "DJELIDA",
+        "name_ar": "جليدة",
         "name_en": "DJELIDA",
         "baladyiats": []
       },
       {
-        "name": "DJENDEL",
-        "name_ar": "DJENDEL",
-        "name_en": "DJENDEL",
-        "baladyiats": []
-      },
-      {
-        "name": "EL ABADIA",
-        "name_ar": "EL ABADIA",
-        "name_en": "EL ABADIA",
-        "baladyiats": []
-      },
-      {
         "name": "EL AMRA",
-        "name_ar": "EL AMRA",
+        "name_ar": "العامرة",
         "name_en": "EL AMRA",
         "baladyiats": []
       },
       {
         "name": "EL ATTAF",
-        "name_ar": "EL ATTAF",
+        "name_ar": "العطاف",
         "name_en": "EL ATTAF",
         "baladyiats": []
       },
       {
-        "name": "HAMMAM RIGHA",
-        "name_ar": "HAMMAM RIGHA",
-        "name_en": "HAMMAM RIGHA",
+        "name": "EL ABADIA",
+        "name_ar": "العبادية",
+        "name_en": "EL ABADIA",
         "baladyiats": []
       },
       {
-        "name": "KHEMIS",
-        "name_ar": "KHEMIS",
-        "name_en": "KHEMIS",
+        "name": "DJENDEL",
+        "name_ar": "جندل",
+        "name_en": "DJENDEL",
         "baladyiats": []
       },
       {
-        "name": "MILIANA",
-        "name_ar": "MILIANA",
-        "name_en": "MILIANA",
+        "name": "AIN LECHIAKH",
+        "name_ar": "عين الاشياخ",
+        "name_en": "AIN LECHIAKH",
         "baladyiats": []
       },
       {
         "name": "ROUINA",
-        "name_ar": "ROUINA",
+        "name_ar": "الروينة",
         "name_en": "ROUINA",
+        "baladyiats": []
+      },
+      {
+        "name": "BORDJ EL EMIR KHALED",
+        "name_ar": "برج الأمير خالد",
+        "name_en": "BORDJ EL EMIR KHALED",
+        "baladyiats": []
+      },
+      {
+        "name": "BATHIA",
+        "name_ar": "بطحية",
+        "name_en": "BATHIA",
         "baladyiats": []
       }
     ]
@@ -7157,45 +7157,45 @@
     ],
     "dairats": [
       {
-        "name": "AIN SEFRA",
-        "name_ar": "AIN SEFRA",
-        "name_en": "AIN SEFRA",
-        "baladyiats": []
-      },
-      {
-        "name": "ASLA",
-        "name_ar": "ASLA",
-        "name_en": "ASLA",
-        "baladyiats": []
-      },
-      {
-        "name": "MECHERIA",
-        "name_ar": "MECHERIA",
-        "name_en": "MECHERIA",
-        "baladyiats": []
-      },
-      {
-        "name": "MEKMEN BEN AMAR",
-        "name_ar": "MEKMEN BEN AMAR",
-        "name_en": "MEKMEN BEN AMAR",
-        "baladyiats": []
-      },
-      {
-        "name": "MOGHRAR",
-        "name_ar": "MOGHRAR",
-        "name_en": "MOGHRAR",
-        "baladyiats": []
-      },
-      {
         "name": "NAAMA",
-        "name_ar": "NAAMA",
+        "name_ar": "النعامة",
         "name_en": "NAAMA",
         "baladyiats": []
       },
       {
+        "name": "MECHERIA",
+        "name_ar": "المشرية",
+        "name_en": "MECHERIA",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN SEFRA",
+        "name_ar": "عين الصفراء",
+        "name_en": "AIN SEFRA",
+        "baladyiats": []
+      },
+      {
         "name": "SFISSIFA",
-        "name_ar": "SFISSIFA",
+        "name_ar": "سفيسيفة",
         "name_en": "SFISSIFA",
+        "baladyiats": []
+      },
+      {
+        "name": "MOGHRAR",
+        "name_ar": "مغرار",
+        "name_en": "MOGHRAR",
+        "baladyiats": []
+      },
+      {
+        "name": "ASLA",
+        "name_ar": "عسلة",
+        "name_en": "ASLA",
+        "baladyiats": []
+      },
+      {
+        "name": "MEKMEN BEN AMAR",
+        "name_ar": "مكمن بن عمار",
+        "name_en": "MEKMEN BEN AMAR",
         "baladyiats": []
       }
     ]
@@ -7275,50 +7275,50 @@
     ],
     "dairats": [
       {
-        "name": "AIN KIHEL",
-        "name_ar": "AIN KIHEL",
-        "name_en": "AIN KIHEL",
-        "baladyiats": []
-      },
-      {
-        "name": "AIN LARBAA",
-        "name_ar": "AIN LARBAA",
-        "name_en": "AIN LARBAA",
-        "baladyiats": []
-      },
-      {
         "name": "AIN TEMOUCHENT",
-        "name_ar": "AIN TEMOUCHENT",
+        "name_ar": "عين تموشنت",
         "name_en": "AIN TEMOUCHENT",
         "baladyiats": []
       },
       {
-        "name": "BENI SAF",
-        "name_ar": "BENI SAF",
-        "name_en": "BENI SAF",
-        "baladyiats": []
-      },
-      {
-        "name": "EL AMRIA",
-        "name_ar": "EL AMRIA",
-        "name_en": "EL AMRIA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL MALEH",
-        "name_ar": "EL MALEH",
-        "name_en": "EL MALEH",
-        "baladyiats": []
-      },
-      {
         "name": "HAMMAM BOU HADJAR",
-        "name_ar": "HAMMAM BOU HADJAR",
+        "name_ar": "حمام بوحجر",
         "name_en": "HAMMAM BOU HADJAR",
         "baladyiats": []
       },
       {
+        "name": "AIN LARBAA",
+        "name_ar": "عين الأربعاء",
+        "name_en": "AIN LARBAA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL MALEH",
+        "name_ar": "المالح",
+        "name_en": "EL MALEH",
+        "baladyiats": []
+      },
+      {
+        "name": "EL AMRIA",
+        "name_ar": "العامرية",
+        "name_en": "EL AMRIA",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN KIHEL",
+        "name_ar": "عين الكيحل",
+        "name_en": "AIN KIHEL",
+        "baladyiats": []
+      },
+      {
+        "name": "BENI SAF",
+        "name_ar": "بني صاف",
+        "name_en": "BENI SAF",
+        "baladyiats": []
+      },
+      {
         "name": "OULHASSA GHERABA",
-        "name_ar": "OULHASSA GHERABA",
+        "name_ar": "ولهاصة الغرابة",
         "name_en": "OULHASSA GHERABA",
         "baladyiats": []
       }
@@ -7378,63 +7378,63 @@
     ],
     "dairats": [
       {
-        "name": "BERRIANE",
-        "name_ar": "BERRIANE",
-        "name_en": "BERRIANE",
-        "baladyiats": []
-      },
-      {
-        "name": "BOUNOURA",
-        "name_ar": "BOUNOURA",
-        "name_en": "BOUNOURA",
-        "baladyiats": []
-      },
-      {
-        "name": "DHAYET BEN DHAHOUA",
-        "name_ar": "DHAYET BEN DHAHOUA",
-        "name_en": "DHAYET BEN DHAHOUA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL GUERRARA",
-        "name_ar": "EL GUERRARA",
-        "name_en": "EL GUERRARA",
+        "name": "GHARDAIA",
+        "name_ar": "غرداية",
+        "name_en": "GHARDAIA",
         "baladyiats": []
       },
       {
         "name": "EL MENIA",
-        "name_ar": "EL MENIA",
+        "name_ar": "المنيعة",
         "name_en": "EL MENIA",
         "baladyiats": []
       },
       {
         "name": "EL MENIA (wilaya déléguée)",
-        "name_ar": "EL MENIA (wilaya déléguée)",
+        "name_ar": "المنيعة (ولاية منتدبة)",
         "name_en": "EL MENIA (wilaya déléguée)",
         "baladyiats": []
       },
       {
-        "name": "GHARDAIA",
-        "name_ar": "GHARDAIA",
-        "name_en": "GHARDAIA",
+        "name": "DHAYET BEN DHAHOUA",
+        "name_ar": "ضاية بن ضحوة",
+        "name_en": "DHAYET BEN DHAHOUA",
         "baladyiats": []
       },
       {
-        "name": "MANSOURAH",
-        "name_ar": "MANSOURAH",
-        "name_en": "MANSOURAH",
+        "name": "BERRIANE",
+        "name_ar": "بريان",
+        "name_en": "BERRIANE",
         "baladyiats": []
       },
       {
         "name": "METLILI",
-        "name_ar": "METLILI",
+        "name_ar": "متليلي",
         "name_en": "METLILI",
         "baladyiats": []
       },
       {
+        "name": "EL GUERRARA",
+        "name_ar": "القرارة",
+        "name_en": "EL GUERRARA",
+        "baladyiats": []
+      },
+      {
         "name": "ZELFANA",
-        "name_ar": "ZELFANA",
+        "name_ar": "زلفانة",
         "name_en": "ZELFANA",
+        "baladyiats": []
+      },
+      {
+        "name": "BOUNOURA",
+        "name_ar": "بونورة",
+        "name_en": "BOUNOURA",
+        "baladyiats": []
+      },
+      {
+        "name": "MANSOURAH",
+        "name_ar": "المنصورة",
+        "name_en": "MANSOURAH",
         "baladyiats": []
       }
     ]
@@ -7531,81 +7531,81 @@
     ],
     "dairats": [
       {
-        "name": "AIN TAREK",
-        "name_ar": "AIN TAREK",
-        "name_en": "AIN TAREK",
-        "baladyiats": []
-      },
-      {
-        "name": "AMMI MOUSSA",
-        "name_ar": "AMMI MOUSSA",
-        "name_en": "AMMI MOUSSA",
-        "baladyiats": []
-      },
-      {
-        "name": "DJIDIOUIA",
-        "name_ar": "DJIDIOUIA",
-        "name_en": "DJIDIOUIA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL H'MADNA",
-        "name_ar": "EL H'MADNA",
-        "name_en": "EL H'MADNA",
-        "baladyiats": []
-      },
-      {
-        "name": "EL MATMAR",
-        "name_ar": "EL MATMAR",
-        "name_en": "EL MATMAR",
-        "baladyiats": []
-      },
-      {
-        "name": "MAZOUNA",
-        "name_ar": "MAZOUNA",
-        "name_en": "MAZOUNA",
-        "baladyiats": []
-      },
-      {
-        "name": "MENDES",
-        "name_ar": "MENDES",
-        "name_en": "MENDES",
-        "baladyiats": []
-      },
-      {
-        "name": "OUED RHIOU",
-        "name_ar": "OUED RHIOU",
-        "name_en": "OUED RHIOU",
-        "baladyiats": []
-      },
-      {
-        "name": "RAMKA",
-        "name_ar": "RAMKA",
-        "name_en": "RAMKA",
-        "baladyiats": []
-      },
-      {
         "name": "RELIZANE",
-        "name_ar": "RELIZANE",
+        "name_ar": "غليزان",
         "name_en": "RELIZANE",
         "baladyiats": []
       },
       {
+        "name": "OUED RHIOU",
+        "name_ar": "وادي رهيو",
+        "name_en": "OUED RHIOU",
+        "baladyiats": []
+      },
+      {
+        "name": "EL H'MADNA",
+        "name_ar": "الحمادنة",
+        "name_en": "EL H'MADNA",
+        "baladyiats": []
+      },
+      {
         "name": "SIDI M'HAMED BEN ALI",
-        "name_ar": "SIDI M'HAMED BEN ALI",
+        "name_ar": "سيدي أمحمد بن علي",
         "name_en": "SIDI M'HAMED BEN ALI",
         "baladyiats": []
       },
       {
-        "name": "YELLEL",
-        "name_ar": "YELLEL",
-        "name_en": "YELLEL",
+        "name": "AMMI MOUSSA",
+        "name_ar": "عمي موسى",
+        "name_en": "AMMI MOUSSA",
         "baladyiats": []
       },
       {
         "name": "ZEMMOURA",
-        "name_ar": "ZEMMOURA",
+        "name_ar": "زمورة",
         "name_en": "ZEMMOURA",
+        "baladyiats": []
+      },
+      {
+        "name": "DJIDIOUIA",
+        "name_ar": "جديوية",
+        "name_en": "DJIDIOUIA",
+        "baladyiats": []
+      },
+      {
+        "name": "EL MATMAR",
+        "name_ar": "المطمر",
+        "name_en": "EL MATMAR",
+        "baladyiats": []
+      },
+      {
+        "name": "AIN TAREK",
+        "name_ar": "عين طارق",
+        "name_en": "AIN TAREK",
+        "baladyiats": []
+      },
+      {
+        "name": "MAZOUNA",
+        "name_ar": "مازونة",
+        "name_en": "MAZOUNA",
+        "baladyiats": []
+      },
+      {
+        "name": "YELLEL",
+        "name_ar": "يلل",
+        "name_en": "YELLEL",
+        "baladyiats": []
+      },
+      {
+        "name": "RAMKA",
+        "name_ar": "الرمكة",
+        "name_en": "RAMKA",
+        "baladyiats": []
+      },
+      {
+        "name": "MENDES",
+        "name_ar": "منداس",
+        "name_en": "MENDES",
         "baladyiats": []
       }
     ]
