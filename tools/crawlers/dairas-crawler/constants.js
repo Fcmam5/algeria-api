@@ -46,9 +46,9 @@ const WILAYAS = [
   'NAAMA',
   'AIN TEMOUCHENT',
   'GHARDAIA',
-  'RELIZANE'
+  'RELIZANE',
 ];
 
 module.exports = {
   WILAYAS,
-}
+};

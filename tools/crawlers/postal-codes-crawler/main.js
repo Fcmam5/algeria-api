@@ -15,7 +15,7 @@ async function getWilayas(url) {
 
   return wilayas;
 }
-
+// TODO Prettify output
 async function getPostalCodes(wilaya) {
   const wilayaConcatenated = wilaya.split(' ').join('+');
   const html = await rp(`${rootUrl}${wilayaConcatenated}`);
@@ -27,7 +27,7 @@ async function getPostalCodes(wilaya) {
   const rsObject = {};
   rsObject[wilayaConcatenated] = rs;
 
-  return JSON.stringify(rsObject);
+  return rsObject;
 }
 
 // getPostalCodes('ORAN');
@@ -40,6 +40,7 @@ async function getPostalCodes(wilaya) {
   wilayas.forEach((w) => {
     resPromises.push(getPostalCodes(w));
   });
+
   Promise.all(resPromises)
-    .then(rs => fs.writeFileSync(`${__dirname}/response.json`, rs));
+    .then(rs => fs.writeFileSync(`${__dirname}/response.json`, JSON.stringify(rs)));
 }());

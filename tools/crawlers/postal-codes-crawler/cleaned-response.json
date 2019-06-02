@@ -300,9 +300,7 @@
       "ets": "AOULEF-TIDIKLETE",
       "code": 1074
     }
-  ]
-},
-{
+  ],
   "CHLEF": [
     {
       "ets": "CHLEF-RP",
@@ -712,9 +710,7 @@
       "ets": "CHLEF-ETABLISSEMENT-POSTAL-ITINERANT 1",
       "code": 2100
     }
-  ]
-},
-{
+  ],
   "LAGHOUAT": [
     {
       "ets": "LAGHOUAT-RP",
@@ -932,9 +928,7 @@
       "ets": "EL-HADJEUB",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "OUM+EL+BOUAGHI": [
     {
       "ets": "OUM-EL-BOUAGHI-RP",
@@ -1204,9 +1198,7 @@
       "ets": "AIN-FAKROUN-AFAK 2",
       "code": 4068
     }
-  ]
-},
-{
+  ],
   "BATNA": [
     {
       "ets": "BATNA-RP",
@@ -1792,9 +1784,7 @@
       "ets": "BATNA-BOUAKAL",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "BEJAIA": [
     {
       "ets": "BEJAIA-RP",
@@ -2376,9 +2366,7 @@
       "ets": "BEJAIA-TERRE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "BISKRA": [
     {
       "ets": "BISKRA-RP",
@@ -2768,9 +2756,7 @@
       "ets": "SIDI-OKBA-CHEIKH-TAYEB-EL-OKBI",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "BECHAR": [
     {
       "ets": "BECHAR-RP",
@@ -3024,9 +3010,7 @@
       "ets": "BECHAR-AADL",
       "code": 8062
     }
-  ]
-},
-{
+  ],
   "BLIDA": [
     {
       "ets": "BLIDA-RP",
@@ -3344,9 +3328,7 @@
       "ets": "BLIDA-ETABLISSEMENT-POSTAL-ITINERANT-1",
       "code": 9079
     }
-  ]
-},
-{
+  ],
   "BOUIRA": [
     {
       "ets": "BOUIRA-RP",
@@ -3784,9 +3766,7 @@
       "ets": "RESIDENCE-UNIVERSITAIRE-AINOUCHE-CHAMA",
       "code": 10109
     }
-  ]
-},
-{
+  ],
   "TAMANRASSET": [
     {
       "ets": "TAMANRASSET-RP",
@@ -3940,9 +3920,7 @@
       "ets": "IN-KOUF-GROUPEMENT-REGIONAL-GENDARMERIE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "TEBESSA": [
     {
       "ets": "TEBESSA-RP",
@@ -4224,9 +4202,7 @@
       "ets": "DOUKKANE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "TLEMCEN": [
     {
       "ets": "TLEMCEN-RP",
@@ -4708,9 +4684,7 @@
       "ets": "SIDI-BOUDJENANE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "TIARET": [
     {
       "ets": "TIARET-RP",
@@ -5040,9 +5014,7 @@
       "ets": "TIARET-CHERIF-DJAGHRI",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "TIZI+OUZOU": [
     {
       "ets": "TIZI-OUZOU-RP",
@@ -5716,10 +5688,8 @@
       "ets": "DRAA-EL-MIZAN-ALI-BENOUR",
       "code": 15167
     }
-  ]
-},
-{
-  "ALGER+CENTRE": [
+  ],
+  "ALGER": [
     {
       "ets": "ALGER-RP",
       "code": 16000
@@ -6003,11 +5973,7 @@
     {
       "ets": "EL-BIAR-MINISTERE-DES-RELATIONS-AVEC-LE-PARLEMENT",
       "code": 0
-    }
-  ]
-},
-{
-  "ALGER+OUEST": [
+    },
     {
       "ets": "CHERAGA-RP",
       "code": 16014
@@ -6327,11 +6293,7 @@
     {
       "ets": "OULED-BELHADJ",
       "code": 16234
-    }
-  ]
-},
-{
-  "ALGER+EST": [
+    },
     {
       "ets": "EL-HARRACH",
       "code": 16004
@@ -6736,9 +6698,7 @@
       "ets": "KOUBA-C.I.R(police)",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "DJELFA": [
     {
       "ets": "DJELFA-RP",
@@ -7100,9 +7060,7 @@
       "ets": "DJELFA-TERRE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "JIJEL": [
     {
       "ets": "JIJEL-RP",
@@ -7324,9 +7282,7 @@
       "ets": "JIJEL-ETABLISSEMENT -POSTAL-ITINERANT 1",
       "code": 18056
     }
-  ]
-},
-{
+  ],
   "SETIF": [
     {
       "ets": "SETIF-RP",
@@ -7912,9 +7868,7 @@
       "ets": "SETIF-KRACHE-MOHAMED",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "SAIDA": [
     {
       "ets": "SAIDA-RP",
@@ -8124,9 +8078,7 @@
       "ets": "BALLOUL-GARE-ROUTIERE",
       "code": 20051
     }
-  ]
-},
-{
+  ],
   "SKIKDA": [
     {
       "ets": "SKIKDA-RP",
@@ -8476,9 +8428,7 @@
       "ets": "BEN-M'HIDI-E-S-O-M",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "SIDI+BEL+ABBES": [
     {
       "ets": "SIDI-BEL-ABBES-RP",
@@ -8860,9 +8810,7 @@
       "ets": "SIDI-BEL-ABBES-TERRE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "ANNABA": [
     {
       "ets": "ANNABA-RP",
@@ -9096,9 +9044,7 @@
       "ets": "CHABBIA",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "GUELMA": [
     {
       "ets": "GUELMA-RP",
@@ -9328,9 +9274,7 @@
       "ets": "OUED-EL-MELLAH",
       "code": 24056
     }
-  ]
-},
-{
+  ],
   "CONSTANTINE": [
     {
       "ets": "CONSTANTINE-RP-01-NOVEMBRE-1954",
@@ -9628,9 +9572,7 @@
       "ets": "CONSTANTINE-UNIVERSITE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "MEDEA": [
     {
       "ets": "MEDEA-RP",
@@ -10000,9 +9942,7 @@
       "ets": "BERROUAGHIA-TERRE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "MOSTAGANEM": [
     {
       "ets": "MOSTAGANEM-RP",
@@ -10292,12 +10232,8 @@
       "ets": "MOSTAGANEM-ECOLE-NAVALE",
       "code": 0
     }
-  ]
-},
-{
-  "M'SILA": []
-},
-{
+  ],
+  "M'SILA": [],
   "MASCARA": [
     {
       "ets": "MASCARA-RP",
@@ -10683,9 +10619,7 @@
       "ets": "MOHAMMADIA-SIDHA-ABDELKADER",
       "code": 29095
     }
-  ]
-},
-{
+  ],
   "OUARGLA": [
     {
       "ets": "OUARGLA-RP",
@@ -10951,9 +10885,7 @@
       "ets": "OUARGLA-DRAS 4",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "ORAN": [
     {
       "ets": "ORAN-RP",
@@ -11499,9 +11431,7 @@
       "ets": "BENDAOUD 2-BEN-YAMINA-MOHAMED",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "EL+BAYADH": [
     {
       "ets": "EL-BAYADH-RP",
@@ -11675,9 +11605,7 @@
       "ets": "EL-ABIODH-SIDI-CHEIKH-BEN-AISSA-TALIA",
       "code": 32042
     }
-  ]
-},
-{
+  ],
   "ILLIZI": [
     {
       "ets": "ILLIZI-RP",
@@ -11775,9 +11703,7 @@
       "ets": "ILLIZI-COUR",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "BORDJ+BOU+ARRERIDJ": [
     {
       "ets": "BORDJ-BOU-ARRERIDJ-RP",
@@ -12091,9 +12017,7 @@
       "ets": "OUCHENEN-SEGHIRA",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "BOUMERDES": [
     {
       "ets": "BOUMERDES-RP",
@@ -12367,9 +12291,7 @@
       "ets": "ZEMMOURI-AADL",
       "code": 35067
     }
-  ]
-},
-{
+  ],
   "ELTARF": [
     {
       "ets": "EL-TARF-RP",
@@ -12599,9 +12521,7 @@
       "ets": "DREAN-05-JUILLET-1962",
       "code": 36058
     }
-  ]
-},
-{
+  ],
   "TINDOUF": [
     {
       "ets": "TINDOUF-RP",
@@ -12675,9 +12595,7 @@
       "ets": "TINDOUF-ETABLISSEMENT -POSTAL-ITINERANT 1",
       "code": 37017
     }
-  ]
-},
-{
+  ],
   "TISSEMSILT": [
     {
       "ets": "TISSEMSILT-RP",
@@ -12859,9 +12777,7 @@
       "ets": "THENIET-EL-HAD-HOPITAL",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "EL+OUED": [
     {
       "ets": "EL-OUED-RP",
@@ -13255,9 +13171,7 @@
       "ets": "KHOBNET-TRIFAOUI",
       "code": 39097
     }
-  ]
-},
-{
+  ],
   "KHENCHLA": [
     {
       "ets": "KHENCHELA-RP",
@@ -13491,9 +13405,7 @@
       "ets": "ROUTE-DE-BATNA",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "SOUK+AHRAS": [
     {
       "ets": "SOUK-AHRAS-RP",
@@ -13711,9 +13623,7 @@
       "ets": "M'DAOUROUCH-DAREK-WATANI",
       "code": 41053
     }
-  ]
-},
-{
+  ],
   "TIPAZA": [
     {
       "ets": "TIPAZA-RP",
@@ -14003,9 +13913,7 @@
       "ets": "TIPAZA-ETABLISSEMENT-POSTAL-ITINERANT1",
       "code": 42071
     }
-  ]
-},
-{
+  ],
   "MILA": [
     {
       "ets": "MILA-RP",
@@ -14315,9 +14223,7 @@
       "ets": "TELERGHMA-TERRE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "AIN+DEFLA": [
     {
       "ets": "AIN-DEFLA-BOUSOUF-ABDELHAFIDH-RP",
@@ -14591,9 +14497,7 @@
       "ets": "DERABLA",
       "code": 44067
     }
-  ]
-},
-{
+  ],
   "NAAMA": [
     {
       "ets": "NAAMA-RP",
@@ -14799,9 +14703,7 @@
       "ets": "MECHERIA-GARE-ROUTIERE",
       "code": 45050
     }
-  ]
-},
-{
+  ],
   "AIN+TEMOUCHENT": [
     {
       "ets": "AIN-TEMOUCHENT-RP",
@@ -15079,9 +14981,7 @@
       "ets": "TERGA-PLAGE",
       "code": 0
     }
-  ]
-},
-{
+  ],
   "GHARDAIA": [
     {
       "ets": "GHARDAIA-RP",
@@ -15251,9 +15151,7 @@
       "ets": "BERRIANE-CHIKH-AMEUR",
       "code": 47041
     }
-  ]
-},
-{
+  ],
   "RELIZANE": [
     {
       "ets": "RELIZANE-RP",

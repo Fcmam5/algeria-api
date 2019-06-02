@@ -18,25 +18,21 @@ async function getDairas(wilaya) {
 async function getBaladyiahts(dairaCode) {
   const html = await rp(baladyiahUrl(dairaCode));
   const rs = $('#content table.table tbody tr:not(:first-child)', html)
-    .map((i, elm) => {
-      return $(elm).find('td:nth-of-type(2)').text().trim();
-    }).get();
+    .map((i, elm) => $(elm).find('td:nth-of-type(2)').text().trim()).get();
   return rs;
-};
+}
 
 (async function main() {
-  let result = {};
-  const dayrasPromises = WILAYAS.map((wilaya, index) => {
-    return getDairas(index + 1);
-  });
+  const result = {};
+  const dayrasPromises = WILAYAS.map((wilaya, index) => getDairas(index + 1));
 
 
-  Promise.all(dayrasPromises).then(wilayats => {
+  Promise.all(dayrasPromises).then((wilayats) => {
     wilayats.forEach((wilaya, index) => {
       result[WILAYAS[index]] = wilaya;
     });
 
-    fs.writeFileSync(`${__dirname}/dairasPerWilaya.json`, JSON.stringify(result))
+    fs.writeFileSync(`${__dirname}/dairasPerWilaya.json`, JSON.stringify(result));
   });
 
   // TODO: Get Baladyiats
