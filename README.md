@@ -7,8 +7,8 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 * Exposes a RESTful API
 * GraphQL Endpoint
 * JSON Files
-  * Postal codes by wilaya [LINK](LINK)
-  * Wilayas list (with Dairas and Baladiyahs lists) [LINK](LINK)
+  * Postal codes by wilaya [results/postal-codes-results.json](./results/postal-codes-results.json)
+  * Wilayas list (with Dairas and Baladiyahs lists) [results/WilayaList.json](./results/WilayaList.json)
 
 ## API Documentation
 
