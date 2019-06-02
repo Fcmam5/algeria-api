@@ -12,7 +12,48 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 
 ## API Documentation
 
-* Get Wilaya's details: `GET https://localhost:3000/api/v1/:matricule` example `GET https://localhost:3000/api/v1/31`
+* Get a list of all Wilayas `GET https://localhost:3000/api/v1/wilaya`
+* Get Wilaya's details: `GET https://localhost:3000/api/v1/wilaya/matricule/:matricule`, example:
+
+  ```bash
+  ~: curl -X GET -i http://localhost:3000/api/v1/wilaya/matricule/31
+
+  # Response
+  {
+    "data": {
+      "mattricule": 31,
+      "name": "Oran",
+      "name_ar": "وهران",
+      "name_en": "Oran",
+      "phoneCodes": [
+        41
+      ],
+      "postalCodes": [
+        31000,
+        31001,
+        ...
+        31117,
+        31118
+      ],
+      "dairats": [
+        {
+          "name": "AIN TURK",
+          "name_ar": "AIN TURK",
+          "name_en": "AIN TURK",
+          "baladyiats": []
+        },
+        {
+          "name": "ARZEW",
+          "name_ar": "ARZEW",
+          "name_en": "ARZEW",
+          "baladyiats": []
+        },
+        ...
+      ]
+    }
+  }
+  ```
+
 * Get postal codes by Wilaya
 * Get wilaya by postal codes
 * Get Wilaya by phone code
