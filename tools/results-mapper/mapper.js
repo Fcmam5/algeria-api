@@ -23,7 +23,7 @@ const result = WilayasList.reduce((acc, w, index) => {
   const dairatsForWilayaArabic = dairasPerWilayaArabic[index].sort((a, b) => a.code - b.code);
   const postalCodeArray = postalCodes[index].map(pc => pc.code).filter(pc => pc > 0);
   const baladyiats = []; // TODO Read Baladyiats
-  const dairats = dairatsForWilaya.map((d, i) => new Daira(d.daira, dairatsForWilayaArabic[i].daira, null, baladyiats));
+  const dairats = dairatsForWilaya.map((d, i) => new Daira(Number(d.code), d.daira, dairatsForWilayaArabic[i].daira, null, baladyiats));
   const phoneCodes = !Array.isArray(w.phoneCode) ? [Number(w.phoneCode)] : w.phoneCode.map(pc => Number(pc));
   const wilaya = new Wilaya(index + 1, w.french, w.arabic, null, phoneCodes, postalCodeArray, dairats);
   acc.push(wilaya);

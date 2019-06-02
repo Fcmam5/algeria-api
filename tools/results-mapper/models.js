@@ -20,12 +20,14 @@ function WilayaModel(mattricule, name, nameAr, nameEn, phoneCodes, postalCodes, 
 
 /**
  *  Daira model is defined by name (Arabic, french and English) and a list of Baladyiats
+ * @param {Number} code
  * @param {String} name
  * @param {String} nameAr
  * @param {String} nameEn
  * @param {Array} baladyiats (instance of Baladyia model)
  */
-function DairaModel(name, nameAr, nameEn, baladyiats) {
+function DairaModel(code, name, nameAr, nameEn, baladyiats) {
+  this.code = code;
   this.name = name;
   this.name_ar = nameAr;
   this.name_en = nameEn || name;
