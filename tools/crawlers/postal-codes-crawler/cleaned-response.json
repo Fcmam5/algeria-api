@@ -165,7 +165,7 @@
       "code": 1040
     },
     {
-      "ets": "IN-BELBEL",
+      "ets": "AIN-BELBEL",
       "code": 1041
     },
     {
@@ -181,7 +181,7 @@
       "code": 1044
     },
     {
-      "ets": "IN-ZEGLOUF",
+      "ets": "AIN-ZEGLOUF",
       "code": 1045
     },
     {
@@ -1533,7 +1533,7 @@
       "code": 5082
     },
     {
-      "ets": "INOUGHISSENE",
+      "ets": "AINOUGHISSENE",
       "code": 5083
     },
     {
@@ -3773,23 +3773,23 @@
       "code": 11000
     },
     {
-      "ets": "IN-SALAH",
+      "ets": "AIN-SALAH",
       "code": 11001
     },
     {
-      "ets": "IN-KOUF",
+      "ets": "AIN-KOUF",
       "code": 11002
     },
     {
-      "ets": "IN-AMGUEL",
+      "ets": "AIN-AMGUEL",
       "code": 11003
     },
     {
-      "ets": "IN-GHAR",
+      "ets": "AIN-GHAR",
       "code": 11004
     },
     {
-      "ets": "IN-GUEZZAM",
+      "ets": "AIN-GUEZZAM",
       "code": 11005
     },
     {
@@ -3865,7 +3865,7 @@
       "code": 11023
     },
     {
-      "ets": "IN-SALAH-5 JUILLET",
+      "ets": "AIN-SALAH-5 JUILLET",
       "code": 11024
     },
     {
@@ -3885,7 +3885,7 @@
       "code": 11028
     },
     {
-      "ets": "IN-SALAH-TIDIKELT-RP",
+      "ets": "AIN-SALAH-TIDIKELT-RP",
       "code": 11029
     },
     {
@@ -3901,7 +3901,7 @@
       "code": 11032
     },
     {
-      "ets": "INDALAG",
+      "ets": "AINDALAG",
       "code": 11033
     },
     {
@@ -3917,7 +3917,7 @@
       "code": 0
     },
     {
-      "ets": "IN-KOUF-GROUPEMENT-REGIONAL-GENDARMERIE",
+      "ets": "AIN-KOUF-GROUPEMENT-REGIONAL-GENDARMERIE",
       "code": 0
     }
   ],
@@ -11612,7 +11612,7 @@
       "code": 33000
     },
     {
-      "ets": "IN-AMENAS",
+      "ets": "AIN-AMENAS",
       "code": 33001
     },
     {
@@ -11664,7 +11664,7 @@
       "code": 33016
     },
     {
-      "ets": "IN-AMENAS-SONATRACH-DIVISION-PRODUCTION",
+      "ets": "AIN-AMENAS-SONATRACH-DIVISION-PRODUCTION",
       "code": 33017
     },
     {
@@ -11672,7 +11672,7 @@
       "code": 33018
     },
     {
-      "ets": "IN-AMENAS-SECTEUR-MILITAIRE",
+      "ets": "AIN-AMENAS-SECTEUR-MILITAIRE",
       "code": 33019
     },
     {
