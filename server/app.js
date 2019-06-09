@@ -2,6 +2,7 @@ require('dotenv').config();
 const express = require('express');
 const logger = require('morgan');
 const bodyParser = require('body-parser');
+const helmet = require('helmet');
 
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
@@ -11,6 +12,7 @@ const app = express();
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
+app.use(helmet());
 
 app.use('/', index);
 app.use('/api/v1', apiV1);
