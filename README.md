@@ -93,5 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Acknowledgments
 
-* Based on the super initiative: [mohsenuss91/AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
+* [mohsenuss91/AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
+* [AbderrahmeneDZ/Wilaya-Of-Algeria/Wilaya_Of_Algeria.json](https://github.com/AbderrahmeneDZ/Wilaya-Of-Algeria/blob/master/Wilaya_Of_Algeria.json)
 * Postal codes and Dairas list are collected by crawling the [Algérie Poste](https://www.poste.dz/) and [Interior ministry](http://www.interieur.gov.dz/) websites, the scripts I used are in [tools/](./tools/README.md)
