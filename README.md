@@ -1,6 +1,6 @@
 # Algeria API
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/{username}/{repo}) 
+[![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/Fcmam5/algeria-api) 
 
 A list of Algerian Wilayas, Dairas and Baladyahs.
 
