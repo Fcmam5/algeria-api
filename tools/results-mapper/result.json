@@ -2,7 +2,7 @@
   {
     "mattricule": 1,
     "name": "Adrar",
-    "name_ar": "ادرار",
+    "name_ar": "أدرار",
     "name_en": "Adrar",
     "phoneCodes": [
       49
@@ -176,6 +176,14 @@
         "name_en": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      37,
+      8,
+      32,
+      3,
+      47,
+      11
     ]
   },
   {
@@ -381,6 +389,14 @@
         "name_en": "AIN MERANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      27,
+      48,
+      7,
+      38,
+      44,
+      42
     ]
   },
   {
@@ -516,6 +532,12 @@
         "name_en": "OUED MORRA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      32,
+      47,
+      17,
+      14
     ]
   },
   {
@@ -680,6 +702,15 @@
         "name_en": "AIN FEKROUN",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      5,
+      40,
+      12,
+      41,
+      24,
+      25,
+      43
     ]
   },
   {
@@ -985,11 +1016,21 @@
         "name_en": "OULED SI SLIMANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      28,
+      7,
+      40,
+      4,
+      43,
+      19
     ]
   },
   {
     "mattricule": 6,
+    "name": "Béjaïa",
     "name_ar": "بجاية",
+    "name_en": "Béjaïa",
     "phoneCodes": [
       34
     ],
@@ -1273,13 +1314,20 @@
         "name_en": "BENI MAOUCHE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      15,
+      10,
+      34,
+      19,
+      18
     ]
   },
   {
     "mattricule": 7,
-    "name": " Biskra",
+    "name": "Biskra",
     "name_ar": "بسكرة",
-    "name_en": " Biskra",
+    "name_en": "Biskra",
     "phoneCodes": [
       33
     ],
@@ -1473,10 +1521,21 @@
         "name_en": "OULED DJELLAL (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      17,
+      28,
+      5,
+      40,
+      39,
+      30
     ]
   },
   {
     "mattricule": 8,
+    "name": "Bechar",
+    "name_ar": "بشار",
+    "name_en": "Bechar",
     "phoneCodes": [
       49
     ],
@@ -1637,10 +1696,19 @@
         "name_en": "BENI ABBES (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      45,
+      32,
+      1,
+      37
     ]
   },
   {
     "mattricule": 9,
+    "name": "Blida",
+    "name_ar": "البليدة",
+    "name_en": "Blida",
     "phoneCodes": [
       25
     ],
@@ -1796,10 +1864,20 @@
         "name_en": "BOUGARA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      42,
+      16,
+      10,
+      26,
+      44
     ]
   },
   {
     "mattricule": 10,
+    "name": "Bouira",
+    "name_ar": "البويرة",
+    "name_en": "Bouira",
     "phoneCodes": [
       26
     ],
@@ -1999,10 +2077,21 @@
         "name_en": "SOUR EL GHOZLANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      26,
+      9,
+      35,
+      15,
+      34,
+      28
     ]
   },
   {
     "mattricule": 11,
+    "name": "Tamanrasset",
+    "name_ar": "تمنراست",
+    "name_en": "Tamanrasset",
     "phoneCodes": [
       29
     ],
@@ -2107,10 +2196,19 @@
         "name_en": "AIN SALAH (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      1,
+      47,
+      30,
+      33
     ]
   },
   {
     "mattricule": 12,
+    "name": "Tbessa",
+    "name_ar": "تبسة",
+    "name_en": "Tbessa",
     "phoneCodes": [
       37
     ],
@@ -2270,10 +2368,19 @@
         "name_en": "OUM ALI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      39,
+      40,
+      4,
+      41
     ]
   },
   {
     "mattricule": 13,
+    "name": "Tlemcen",
+    "name_ar": "تلمسان",
+    "name_en": "Tlemcen",
     "phoneCodes": [
       43
     ],
@@ -2535,10 +2642,18 @@
         "name_en": "MANSOURAH",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      46,
+      22,
+      45
     ]
   },
   {
     "mattricule": 14,
+    "name": "Tiaret",
+    "name_ar": "تيارت",
+    "name_en": "Tiaret",
     "phoneCodes": [
       46
     ],
@@ -2724,10 +2839,22 @@
         "name_en": "HAMADIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      32,
+      20,
+      29,
+      48,
+      38,
+      17,
+      3
     ]
   },
   {
     "mattricule": 15,
+    "name": "Tizi Ouzou",
+    "name_ar": "تيزي وزو",
+    "name_en": "Tizi Ouzou",
     "phoneCodes": [
       26
     ],
@@ -3049,6 +3176,11 @@
         "name_en": "BENNI YENNI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      10,
+      35,
+      6
     ]
   },
   {
@@ -3388,10 +3520,18 @@
         "name_en": "CHERAGA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      9,
+      42,
+      35
     ]
   },
   {
     "mattricule": 17,
+    "name": "Djelfa",
+    "name_ar": "الجلفة",
+    "name_en": "Djelfa",
     "phoneCodes": [
       27
     ],
@@ -3571,10 +3711,23 @@
         "name_en": "AIN OUSSERA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      3,
+      14,
+      38,
+      26,
+      28,
+      7,
+      30,
+      47
     ]
   },
   {
     "mattricule": 18,
+    "name": "Jijel",
+    "name_ar": "جيجل",
+    "name_en": "Jijel",
     "phoneCodes": [
       34
     ],
@@ -3713,10 +3866,19 @@
         "name_en": "TEXENNA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      43,
+      19,
+      6,
+      21
     ]
   },
   {
     "mattricule": 19,
+    "name": "Se9tif",
+    "name_ar": "سطيف",
+    "name_en": "Se9tif",
     "phoneCodes": [
       36
     ],
@@ -4006,10 +4168,21 @@
         "name_en": "MAOKLANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      5,
+      28,
+      34,
+      6,
+      18,
+      43
     ]
   },
   {
     "mattricule": 20,
+    "name": "Saefda",
+    "name_ar": "سعيدة",
+    "name_en": "Saefda",
     "phoneCodes": [
       48
     ],
@@ -4110,10 +4283,19 @@
         "name_en": "OULED BRAHIM",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      32,
+      22,
+      29,
+      15
     ]
   },
   {
     "mattricule": 21,
+    "name": "Skikda",
+    "name_ar": "سكيكدة",
+    "name_en": "Skikda",
     "phoneCodes": [
       38
     ],
@@ -4297,10 +4479,19 @@
         "name_en": "OUM TOUB",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      25,
+      18,
+      23,
+      24
     ]
   },
   {
     "mattricule": 22,
+    "name": "Sidi Bel Abbes",
+    "name_ar": "سيدي بلعباس",
+    "name_en": "Sidi Bel Abbes",
     "phoneCodes": [
       48
     ],
@@ -4504,10 +4695,22 @@
         "name_en": "SIDI ALI BEN YOUB",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      45,
+      13,
+      46,
+      31,
+      29,
+      20,
+      32
     ]
   },
   {
     "mattricule": 23,
+    "name": "Annaba",
+    "name_ar": "عنابة",
+    "name_en": "Annaba",
     "phoneCodes": [
       38
     ],
@@ -4613,10 +4816,18 @@
         "name_en": "CHETAIBI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      24,
+      21,
+      36
     ]
   },
   {
     "mattricule": 24,
+    "name": "Guelma",
+    "name_ar": "قالمة",
+    "name_en": "Guelma",
     "phoneCodes": [
       37
     ],
@@ -4750,10 +4961,21 @@
         "name_en": "AIN HESSAINIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      4,
+      25,
+      21,
+      23,
+      36,
+      41
     ]
   },
   {
     "mattricule": 25,
+    "name": "Constantine",
+    "name_ar": "قسنطينة",
+    "name_en": "Constantine",
     "phoneCodes": [
       31
     ],
@@ -4868,10 +5090,20 @@
         "name_en": "IBN ZIAD",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      4,
+      43,
+      18,
+      21,
+      24
     ]
   },
   {
     "mattricule": 26,
+    "name": "Medea",
+    "name_ar": "المدية",
+    "name_en": "Medea",
     "phoneCodes": [
       25
     ],
@@ -5102,10 +5334,21 @@
         "name_en": "OULED ANTAR",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      17,
+      38,
+      44,
+      9,
+      10,
+      28
     ]
   },
   {
     "mattricule": 27,
+    "name": "Mostaganem",
+    "name_ar": "مستغانم",
+    "name_en": "Mostaganem",
     "phoneCodes": [
       45
     ],
@@ -5249,10 +5492,19 @@
         "name_en": "MESRA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      31,
+      29,
+      48,
+      2
     ]
   },
   {
     "mattricule": 28,
+    "name": "M'Sila",
+    "name_ar": "المسيلة",
+    "name_en": "M'Sila",
     "phoneCodes": [
       35
     ],
@@ -5363,10 +5615,22 @@
         "name_en": "DJEBEL MESSAAD",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      17,
+      26,
+      10,
+      34,
+      19,
+      5,
+      7
     ]
   },
   {
     "mattricule": 29,
+    "name": "Mascara",
+    "name_ar": "معسكر",
+    "name_en": "Mascara",
     "phoneCodes": [
       45
     ],
@@ -5581,10 +5845,21 @@
         "name_en": "MOHAMMADIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      20,
+      22,
+      31,
+      27,
+      48,
+      14
     ]
   },
   {
     "mattricule": 30,
+    "name": "Ouargla",
+    "name_ar": "ورقلة",
+    "name_en": "Ouargla",
     "phoneCodes": [
       29
     ],
@@ -5732,6 +6007,12 @@
         "name_en": "EL BORMA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      47,
+      39,
+      33,
+      11
     ]
   },
   {
@@ -5925,10 +6206,19 @@
         "name_en": "BOUTLELIS",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      46,
+      22,
+      29,
+      27
     ]
   },
   {
     "mattricule": 32,
+    "name": "El Bayadh",
+    "name_ar": "البيض",
+    "name_en": "El Bayadh",
     "phoneCodes": [
       49
     ],
@@ -6034,10 +6324,23 @@
         "name_en": "CHELLALA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      1,
+      8,
+      45,
+      22,
+      20,
+      14,
+      3,
+      47
     ]
   },
   {
     "mattricule": 33,
+    "name": "Illizi",
+    "name_ar": "إليزي",
+    "name_en": "Illizi",
     "phoneCodes": [
       29
     ],
@@ -6095,6 +6398,10 @@
         "name_en": "AIN AMENAS",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      11,
+      30
     ]
   },
   {
@@ -6252,10 +6559,19 @@
         "name_en": "BIR KASDALI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      28,
+      10,
+      6,
+      19
     ]
   },
   {
     "mattricule": 35,
+    "name": "Boumerdes",
+    "name_ar": "بومرداس",
+    "name_en": "Boumerdes",
     "phoneCodes": [
       24
     ],
@@ -6393,10 +6709,19 @@
         "name_en": "KHEMIS EL KHECHNA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      9,
+      16,
+      15,
+      10
     ]
   },
   {
     "mattricule": 36,
+    "name": "El Tarf",
+    "name_ar": "الطارف",
+    "name_en": "El Tarf",
     "phoneCodes": [
       38
     ],
@@ -6509,10 +6834,18 @@
         "name_en": "BESBES",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      41,
+      24,
+      23
     ]
   },
   {
     "mattricule": 37,
+    "name": "Tindouf",
+    "name_ar": "تندوف",
+    "name_en": "Tindouf",
     "phoneCodes": [
       49
     ],
@@ -6544,10 +6877,17 @@
         "name_en": "TINDOUF",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      8,
+      1
     ]
   },
   {
     "mattricule": 38,
+    "name": "Tissemsilt",
+    "name_ar": "تيسمسيلت",
+    "name_en": "Tissemsilt",
     "phoneCodes": [
       46
     ],
@@ -6654,10 +6994,21 @@
         "name_en": "AMMARI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      48,
+      2,
+      44,
+      26,
+      17,
+      14
     ]
   },
   {
     "mattricule": 39,
+    "name": "El Oued",
+    "name_ar": "الوادي",
+    "name_en": "El Oued",
     "phoneCodes": [
       32
     ],
@@ -6853,10 +7204,19 @@
         "name_en": "DJAMAA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      30,
+      7,
+      40,
+      12
     ]
   },
   {
     "mattricule": 40,
+    "name": "Khenchela",
+    "name_ar": "خنشلة",
+    "name_en": "Khenchela",
     "phoneCodes": [
       32
     ],
@@ -6975,10 +7335,20 @@
         "name_en": "OULED RECHACHE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      39,
+      7,
+      5,
+      4,
+      12
     ]
   },
   {
     "mattricule": 41,
+    "name": "Souk Ahras",
+    "name_ar": "سوق أهراس",
+    "name_en": "Souk Ahras",
     "phoneCodes": [
       37
     ],
@@ -7109,10 +7479,19 @@
         "name_en": "OUM EL ADHAIM",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      12,
+      4,
+      24,
+      36
     ]
   },
   {
     "mattricule": 42,
+    "name": "Tipaza",
+    "name_ar": "تيبازة",
+    "name_en": "Tipaza",
     "phoneCodes": [
       24
     ],
@@ -7261,10 +7640,19 @@
         "name_en": "KOLEA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      44,
+      2,
+      16,
+      9
     ]
   },
   {
     "mattricule": 43,
+    "name": "Mila",
+    "name_ar": "ميلة",
+    "name_en": "Mila",
     "phoneCodes": [
       31
     ],
@@ -7438,10 +7826,20 @@
         "name_en": "AIN BEIDA HARRICHE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      5,
+      19,
+      18,
+      25,
+      4
     ]
   },
   {
     "mattricule": 44,
+    "name": "Ain Defla",
+    "name_ar": "عين الدفلى",
+    "name_en": "Ain Defla",
     "phoneCodes": [
       27
     ],
@@ -7614,10 +8012,20 @@
         "name_en": "BATHIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      38,
+      2,
+      42,
+      9,
+      26
     ]
   },
   {
     "mattricule": 45,
+    "name": "Naama",
+    "name_ar": "النعامة",
+    "name_en": "Naama",
     "phoneCodes": [
       49
     ],
@@ -7724,10 +8132,19 @@
         "name_en": "MEKMEN BEN AMAR",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      13,
+      22,
+      32,
+      8
     ]
   },
   {
     "mattricule": 46,
+    "name": "Ain Temouchent",
+    "name_ar": "عين تموشنت",
+    "name_en": "Ain Temouchent",
     "phoneCodes": [
       43
     ],
@@ -7856,13 +8273,18 @@
         "name_en": "OULHASSA GHERABA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      13,
+      22,
+      31
     ]
   },
   {
     "mattricule": 47,
-    "name": "Ghardaïa",
+    "name": "Ghardaefa",
     "name_ar": "غرداية",
-    "name_en": "Ghardaïa",
+    "name_en": "Ghardaefa",
     "phoneCodes": [
       29
     ],
@@ -7981,6 +8403,14 @@
         "name_en": "MANSOURAH",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      1,
+      32,
+      3,
+      17,
+      30,
+      11
     ]
   },
   {
@@ -8165,6 +8595,13 @@
         "name_en": "MENDES",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      29,
+      27,
+      2,
+      38,
+      14
     ]
   }
 ]

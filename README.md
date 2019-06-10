@@ -55,6 +55,68 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
     }
   }
   ```
+* Get the adjacent (nearby wilayas)
+  * Only wilaya codes `/wilaya/adjacence/:matricule`
+  * Wilaya names `/wilaya/adjacence/:matricule/names` example response:
+
+  ````json
+      {
+      "data": {
+        "names": [
+          {
+            "mattricule": 46,
+            "name": "Ain Temouchent",
+            "name_ar": "عين تموشنت",
+            "name_en": "Ain Temouchent"
+          },
+          {
+            "mattricule": 22,
+            "name": "Sidi Bel Abbes",
+            "name_ar": "سيدي بلعباس",
+            "name_en": "Sidi Bel Abbes"
+          },
+          {
+            "mattricule": 29,
+            "name": "Mascara",
+            "name_ar": "معسكر",
+            "name_en": "Mascara"
+          },
+          {
+            "mattricule": 27,
+            "name": "Mostaganem",
+            "name_ar": "مستغانم",
+            "name_en": "Mostaganem"
+          }
+        ],
+        "mattricules": [
+          46,
+          22,
+          29,
+          27
+        ]
+      }
+    }
+  ````
+  * Short format (only wilaya names in a language and their codes)
+
+    ```json
+      {
+        "data": {
+          "names": [
+            "عين تموشنت",
+            "سيدي بلعباس",
+            "معسكر",
+            "مستغانم"
+          ],
+          "mattricules": [
+            46,
+            22,
+            29,
+            27
+          ]
+        }
+      }
+    ```
 
 * Get postal codes by Wilaya
 * Get wilaya by postal codes
@@ -93,5 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Acknowledgments
 
-* Based on the super initiative: [mohsenuss91/AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
+* [mohsenuss91/AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
+* [AbderrahmeneDZ/Wilaya-Of-Algeria/Wilaya_Of_Algeria.json](https://github.com/AbderrahmeneDZ/Wilaya-Of-Algeria/blob/master/Wilaya_Of_Algeria.json)
 * Postal codes and Dairas list are collected by crawling the [Algérie Poste](https://www.poste.dz/) and [Interior ministry](http://www.interieur.gov.dz/) websites, the scripts I used are in [tools/](./tools/README.md)
