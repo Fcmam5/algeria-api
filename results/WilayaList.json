@@ -176,6 +176,14 @@
         "name_en": "BORDJ BADJI MOKHTAR (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      37,
+      8,
+      32,
+      3,
+      47,
+      11
     ]
   },
   {
@@ -381,6 +389,14 @@
         "name_en": "AIN MERANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      27,
+      48,
+      7,
+      38,
+      44,
+      42
     ]
   },
   {
@@ -516,6 +532,12 @@
         "name_en": "OUED MORRA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      32,
+      47,
+      17,
+      14
     ]
   },
   {
@@ -680,6 +702,15 @@
         "name_en": "AIN FEKROUN",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      5,
+      40,
+      12,
+      41,
+      24,
+      25,
+      43
     ]
   },
   {
@@ -985,6 +1016,14 @@
         "name_en": "OULED SI SLIMANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      28,
+      7,
+      40,
+      4,
+      43,
+      19
     ]
   },
   {
@@ -1273,6 +1312,13 @@
         "name_en": "BENI MAOUCHE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      15,
+      10,
+      34,
+      19,
+      18
     ]
   },
   {
@@ -1473,6 +1519,14 @@
         "name_en": "OULED DJELLAL (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      17,
+      28,
+      5,
+      40,
+      39,
+      30
     ]
   },
   {
@@ -1637,6 +1691,12 @@
         "name_en": "BENI ABBES (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      45,
+      32,
+      1,
+      37
     ]
   },
   {
@@ -1796,6 +1856,13 @@
         "name_en": "BOUGARA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      42,
+      16,
+      10,
+      26,
+      44
     ]
   },
   {
@@ -1999,6 +2066,14 @@
         "name_en": "SOUR EL GHOZLANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      26,
+      9,
+      35,
+      15,
+      34,
+      28
     ]
   },
   {
@@ -2107,6 +2182,12 @@
         "name_en": "AIN SALAH (wilaya déléguée)",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      1,
+      47,
+      30,
+      33
     ]
   },
   {
@@ -2270,6 +2351,12 @@
         "name_en": "OUM ALI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      39,
+      40,
+      4,
+      41
     ]
   },
   {
@@ -2535,6 +2622,11 @@
         "name_en": "MANSOURAH",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      46,
+      22,
+      45
     ]
   },
   {
@@ -2724,6 +2816,15 @@
         "name_en": "HAMADIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      32,
+      20,
+      29,
+      48,
+      38,
+      17,
+      3
     ]
   },
   {
@@ -3049,6 +3150,11 @@
         "name_en": "BENNI YENNI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      10,
+      35,
+      6
     ]
   },
   {
@@ -3388,6 +3494,11 @@
         "name_en": "CHERAGA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      9,
+      42,
+      35
     ]
   },
   {
@@ -3571,6 +3682,16 @@
         "name_en": "AIN OUSSERA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      3,
+      14,
+      38,
+      26,
+      28,
+      7,
+      30,
+      47
     ]
   },
   {
@@ -3713,6 +3834,12 @@
         "name_en": "TEXENNA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      43,
+      19,
+      6,
+      21
     ]
   },
   {
@@ -4006,6 +4133,14 @@
         "name_en": "MAOKLANE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      5,
+      28,
+      34,
+      6,
+      18,
+      43
     ]
   },
   {
@@ -4110,6 +4245,12 @@
         "name_en": "OULED BRAHIM",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      32,
+      22,
+      29,
+      15
     ]
   },
   {
@@ -4297,6 +4438,12 @@
         "name_en": "OUM TOUB",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      25,
+      18,
+      23,
+      24
     ]
   },
   {
@@ -4504,6 +4651,15 @@
         "name_en": "SIDI ALI BEN YOUB",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      45,
+      13,
+      46,
+      31,
+      29,
+      20,
+      32
     ]
   },
   {
@@ -4613,6 +4769,11 @@
         "name_en": "CHETAIBI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      24,
+      21,
+      36
     ]
   },
   {
@@ -4750,6 +4911,14 @@
         "name_en": "AIN HESSAINIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      4,
+      25,
+      21,
+      23,
+      36,
+      41
     ]
   },
   {
@@ -4868,6 +5037,13 @@
         "name_en": "IBN ZIAD",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      4,
+      43,
+      18,
+      21,
+      24
     ]
   },
   {
@@ -5102,6 +5278,14 @@
         "name_en": "OULED ANTAR",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      17,
+      38,
+      44,
+      9,
+      10,
+      28
     ]
   },
   {
@@ -5249,6 +5433,12 @@
         "name_en": "MESRA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      31,
+      29,
+      48,
+      2
     ]
   },
   {
@@ -5363,6 +5553,15 @@
         "name_en": "DJEBEL MESSAAD",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      17,
+      26,
+      10,
+      34,
+      19,
+      5,
+      7
     ]
   },
   {
@@ -5581,6 +5780,14 @@
         "name_en": "MOHAMMADIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      20,
+      22,
+      31,
+      27,
+      48,
+      14
     ]
   },
   {
@@ -5732,6 +5939,12 @@
         "name_en": "EL BORMA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      47,
+      39,
+      33,
+      11
     ]
   },
   {
@@ -5925,6 +6138,12 @@
         "name_en": "BOUTLELIS",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      46,
+      22,
+      29,
+      27
     ]
   },
   {
@@ -6034,6 +6253,16 @@
         "name_en": "CHELLALA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      1,
+      8,
+      45,
+      22,
+      20,
+      14,
+      3,
+      47
     ]
   },
   {
@@ -6095,6 +6324,10 @@
         "name_en": "AIN AMENAS",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      11,
+      30
     ]
   },
   {
@@ -6252,6 +6485,12 @@
         "name_en": "BIR KASDALI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      28,
+      10,
+      6,
+      19
     ]
   },
   {
@@ -6393,6 +6632,12 @@
         "name_en": "KHEMIS EL KHECHNA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      9,
+      16,
+      15,
+      10
     ]
   },
   {
@@ -6509,6 +6754,11 @@
         "name_en": "BESBES",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      41,
+      24,
+      23
     ]
   },
   {
@@ -6544,6 +6794,10 @@
         "name_en": "TINDOUF",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      8,
+      1
     ]
   },
   {
@@ -6654,6 +6908,14 @@
         "name_en": "AMMARI",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      48,
+      2,
+      44,
+      26,
+      17,
+      14
     ]
   },
   {
@@ -6853,6 +7115,12 @@
         "name_en": "DJAMAA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      30,
+      7,
+      40,
+      12
     ]
   },
   {
@@ -6975,6 +7243,13 @@
         "name_en": "OULED RECHACHE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      39,
+      7,
+      5,
+      4,
+      12
     ]
   },
   {
@@ -7109,6 +7384,12 @@
         "name_en": "OUM EL ADHAIM",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      12,
+      4,
+      24,
+      36
     ]
   },
   {
@@ -7261,6 +7542,12 @@
         "name_en": "KOLEA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      44,
+      2,
+      16,
+      9
     ]
   },
   {
@@ -7438,6 +7725,13 @@
         "name_en": "AIN BEIDA HARRICHE",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      5,
+      19,
+      18,
+      25,
+      4
     ]
   },
   {
@@ -7614,6 +7908,13 @@
         "name_en": "BATHIA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      38,
+      2,
+      42,
+      9,
+      26
     ]
   },
   {
@@ -7724,6 +8025,12 @@
         "name_en": "MEKMEN BEN AMAR",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      13,
+      22,
+      32,
+      8
     ]
   },
   {
@@ -7856,6 +8163,11 @@
         "name_en": "OULHASSA GHERABA",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      13,
+      22,
+      31
     ]
   },
   {
@@ -7981,6 +8293,14 @@
         "name_en": "MANSOURAH",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      1,
+      32,
+      3,
+      17,
+      30,
+      11
     ]
   },
   {
@@ -8165,6 +8485,13 @@
         "name_en": "MENDES",
         "baladyiats": []
       }
+    ],
+    "adjacentWilayas": [
+      29,
+      27,
+      2,
+      38,
+      14
     ]
   }
 ]

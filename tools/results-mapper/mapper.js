@@ -12,6 +12,8 @@ const dairasPerWilayaArabicFile = require('../crawlers/dairas-crawler/results/da
 // Get Wilaya list from AlgerianAdministrativeDivision repository (https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
 const AlgerianAdministrativeDivision = require('./Algeria');
 const postalCodesFile = require('../crawlers/postal-codes-crawler/cleaned-response.json');
+// Get Adjacent wilayas result
+const adjacentWilayasFile = require('../construct-adjacent-wilayas/result.json');
 
 const WilayasList = AlgerianAdministrativeDivision.Algeria.Algeria.Wilayas.Wilaya;
 const dairasPerWilaya = Object.keys(dairasPerWilayaFile).map(d => dairasPerWilayaFile[d]);
@@ -25,7 +27,9 @@ const result = WilayasList.reduce((acc, w, index) => {
   const baladyiats = []; // TODO Read Baladyiats
   const dairats = dairatsForWilaya.map((d, i) => new Daira(Number(d.code), d.daira, dairatsForWilayaArabic[i].daira, null, baladyiats));
   const phoneCodes = !Array.isArray(w.phoneCode) ? [Number(w.phoneCode)] : w.phoneCode.map(pc => Number(pc));
-  const wilaya = new Wilaya(index + 1, w.french, w.arabic, null, phoneCodes, postalCodeArray, dairats);
+  const { adjacentWilayas } = adjacentWilayasFile[index];
+  // Result object
+  const wilaya = new Wilaya(index + 1, w.french, w.arabic, null, phoneCodes, postalCodeArray, dairats, adjacentWilayas);
   acc.push(wilaya);
   return acc;
 }, []);

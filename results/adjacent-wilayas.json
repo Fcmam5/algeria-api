@@ -1,0 +1,473 @@
+[
+  {
+    "wilaya": 1,
+    "adjacentWilayas": [
+      37,
+      8,
+      32,
+      3,
+      47,
+      11
+    ]
+  },
+  {
+    "wilaya": 2,
+    "adjacentWilayas": [
+      27,
+      48,
+      7,
+      38,
+      44,
+      42
+    ]
+  },
+  {
+    "wilaya": 3,
+    "adjacentWilayas": [
+      32,
+      47,
+      17,
+      14
+    ]
+  },
+  {
+    "wilaya": 4,
+    "adjacentWilayas": [
+      5,
+      40,
+      12,
+      41,
+      24,
+      25,
+      43
+    ]
+  },
+  {
+    "wilaya": 5,
+    "adjacentWilayas": [
+      28,
+      7,
+      40,
+      4,
+      43,
+      19
+    ]
+  },
+  {
+    "wilaya": 6,
+    "adjacentWilayas": [
+      15,
+      10,
+      34,
+      19,
+      18
+    ]
+  },
+  {
+    "wilaya": 7,
+    "adjacentWilayas": [
+      17,
+      28,
+      5,
+      40,
+      39,
+      30
+    ]
+  },
+  {
+    "wilaya": 8,
+    "adjacentWilayas": [
+      45,
+      32,
+      1,
+      37
+    ]
+  },
+  {
+    "wilaya": 9,
+    "adjacentWilayas": [
+      42,
+      16,
+      10,
+      26,
+      44
+    ]
+  },
+  {
+    "wilaya": 10,
+    "adjacentWilayas": [
+      26,
+      9,
+      35,
+      15,
+      34,
+      28
+    ]
+  },
+  {
+    "wilaya": 11,
+    "adjacentWilayas": [
+      1,
+      47,
+      30,
+      33
+    ]
+  },
+  {
+    "wilaya": 12,
+    "adjacentWilayas": [
+      39,
+      40,
+      4,
+      41
+    ]
+  },
+  {
+    "wilaya": 13,
+    "adjacentWilayas": [
+      46,
+      22,
+      45
+    ]
+  },
+  {
+    "wilaya": 14,
+    "adjacentWilayas": [
+      32,
+      20,
+      29,
+      48,
+      38,
+      17,
+      3
+    ]
+  },
+  {
+    "wilaya": 15,
+    "adjacentWilayas": [
+      10,
+      35,
+      6
+    ]
+  },
+  {
+    "wilaya": 16,
+    "adjacentWilayas": [
+      9,
+      42,
+      35
+    ]
+  },
+  {
+    "wilaya": 17,
+    "adjacentWilayas": [
+      3,
+      14,
+      38,
+      26,
+      28,
+      7,
+      30,
+      47
+    ]
+  },
+  {
+    "wilaya": 18,
+    "adjacentWilayas": [
+      43,
+      19,
+      6,
+      21
+    ]
+  },
+  {
+    "wilaya": 19,
+    "adjacentWilayas": [
+      5,
+      28,
+      34,
+      6,
+      18,
+      43
+    ]
+  },
+  {
+    "wilaya": 20,
+    "adjacentWilayas": [
+      32,
+      22,
+      29,
+      15
+    ]
+  },
+  {
+    "wilaya": 21,
+    "adjacentWilayas": [
+      25,
+      18,
+      23,
+      24
+    ]
+  },
+  {
+    "wilaya": 22,
+    "adjacentWilayas": [
+      45,
+      13,
+      46,
+      31,
+      29,
+      20,
+      32
+    ]
+  },
+  {
+    "wilaya": 23,
+    "adjacentWilayas": [
+      24,
+      21,
+      36
+    ]
+  },
+  {
+    "wilaya": 24,
+    "adjacentWilayas": [
+      4,
+      25,
+      21,
+      23,
+      36,
+      41
+    ]
+  },
+  {
+    "wilaya": 25,
+    "adjacentWilayas": [
+      4,
+      43,
+      18,
+      21,
+      24
+    ]
+  },
+  {
+    "wilaya": 26,
+    "adjacentWilayas": [
+      17,
+      38,
+      44,
+      9,
+      10,
+      28
+    ]
+  },
+  {
+    "wilaya": 27,
+    "adjacentWilayas": [
+      31,
+      29,
+      48,
+      2
+    ]
+  },
+  {
+    "wilaya": 28,
+    "adjacentWilayas": [
+      17,
+      26,
+      10,
+      34,
+      19,
+      5,
+      7
+    ]
+  },
+  {
+    "wilaya": 29,
+    "adjacentWilayas": [
+      20,
+      22,
+      31,
+      27,
+      48,
+      14
+    ]
+  },
+  {
+    "wilaya": 30,
+    "adjacentWilayas": [
+      47,
+      39,
+      33,
+      11
+    ]
+  },
+  {
+    "wilaya": 31,
+    "adjacentWilayas": [
+      46,
+      22,
+      29,
+      27
+    ]
+  },
+  {
+    "wilaya": 32,
+    "adjacentWilayas": [
+      1,
+      8,
+      45,
+      22,
+      20,
+      14,
+      3,
+      47
+    ]
+  },
+  {
+    "wilaya": 33,
+    "adjacentWilayas": [
+      11,
+      30
+    ]
+  },
+  {
+    "wilaya": 34,
+    "adjacentWilayas": [
+      28,
+      10,
+      6,
+      19
+    ]
+  },
+  {
+    "wilaya": 35,
+    "adjacentWilayas": [
+      9,
+      16,
+      15,
+      10
+    ]
+  },
+  {
+    "wilaya": 36,
+    "adjacentWilayas": [
+      41,
+      24,
+      23
+    ]
+  },
+  {
+    "wilaya": 37,
+    "adjacentWilayas": [
+      8,
+      1
+    ]
+  },
+  {
+    "wilaya": 38,
+    "adjacentWilayas": [
+      48,
+      2,
+      44,
+      26,
+      17,
+      14
+    ]
+  },
+  {
+    "wilaya": 39,
+    "adjacentWilayas": [
+      30,
+      7,
+      40,
+      12
+    ]
+  },
+  {
+    "wilaya": 40,
+    "adjacentWilayas": [
+      39,
+      7,
+      5,
+      4,
+      12
+    ]
+  },
+  {
+    "wilaya": 41,
+    "adjacentWilayas": [
+      12,
+      4,
+      24,
+      36
+    ]
+  },
+  {
+    "wilaya": 42,
+    "adjacentWilayas": [
+      44,
+      2,
+      16,
+      9
+    ]
+  },
+  {
+    "wilaya": 43,
+    "adjacentWilayas": [
+      5,
+      19,
+      18,
+      25,
+      4
+    ]
+  },
+  {
+    "wilaya": 44,
+    "adjacentWilayas": [
+      38,
+      2,
+      42,
+      9,
+      26
+    ]
+  },
+  {
+    "wilaya": 45,
+    "adjacentWilayas": [
+      13,
+      22,
+      32,
+      8
+    ]
+  },
+  {
+    "wilaya": 46,
+    "adjacentWilayas": [
+      13,
+      22,
+      31
+    ]
+  },
+  {
+    "wilaya": 47,
+    "adjacentWilayas": [
+      1,
+      32,
+      3,
+      17,
+      30,
+      11
+    ]
+  },
+  {
+    "wilaya": 48,
+    "adjacentWilayas": [
+      29,
+      27,
+      2,
+      38,
+      14
+    ]
+  }
+]

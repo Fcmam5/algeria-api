@@ -7,8 +7,9 @@
  * @param {Array} phoneCodes
  * @param {Array} postalCodes
  * @param {Array} dairats (instance of Daira model)
+ * @param {Array} adjacentWilayas (Array of wilaya codes "matricules")
  */
-function WilayaModel(mattricule, name, nameAr, nameEn, phoneCodes, postalCodes, dairats) {
+function WilayaModel(mattricule, name, nameAr, nameEn, phoneCodes, postalCodes, dairats, adjacentWilayas) {
   this.mattricule = mattricule;
   this.name = name;
   this.name_ar = nameAr;
@@ -16,6 +17,7 @@ function WilayaModel(mattricule, name, nameAr, nameEn, phoneCodes, postalCodes, 
   this.phoneCodes = phoneCodes;
   this.postalCodes = postalCodes;
   this.dairats = dairats;
+  this.adjacentWilayas = adjacentWilayas;
 }
 
 /**
