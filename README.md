@@ -141,6 +141,16 @@ To run the development server
 
 ```
 npm run server:dev
+# or
+yarn server:dev
+```
+
+To run in Docker
+
+```
+npm run docker:prod
+# Or
+yarn docker:prod
 ```
 
 ### Improving the Wilayas List (translations, corrections...)

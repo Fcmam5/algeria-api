@@ -1,0 +1,9 @@
+version: "3"
+services: 
+  server:
+    image: dz_api_server
+    build:
+      context: ..
+      dockerfile: ./deployment/Dockerfile.server
+    ports:
+      - "3000:3000"
