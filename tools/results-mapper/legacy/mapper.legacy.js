@@ -1,3 +1,6 @@
+/**
+ * This script is not more needed :)
+ */
 const fs = require('fs');
 
 /**
@@ -5,7 +8,7 @@ const fs = require('fs');
  */
 
 // Models
-const { Wilaya, Daira, Baladyia } = require('./models');
+const { Wilaya, Daira, Baladyia } = require('../models');
 // Inputs
 const dairasPerWilayaFile = require('../crawlers/dairas-crawler/results/dairasPerWilaya.json');
 const dairasPerWilayaArabicFile = require('../crawlers/dairas-crawler/results/dairasPerWilayaArabic.json');
@@ -15,7 +18,7 @@ const postalCodesFile = require('../crawlers/postal-codes-crawler/cleaned-respon
 // Get Adjacent wilayas result
 const adjacentWilayasFile = require('../construct-adjacent-wilayas/result.json');
 
-const WilayasList = require('./WilayaList');
+const WilayasList = require('../WilayaList');
 
 AlgerianAdministrativeDivision = AlgerianAdministrativeDivision.Algeria.Wilayas.Wilaya;
 

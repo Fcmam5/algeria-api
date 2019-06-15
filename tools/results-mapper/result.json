@@ -3187,7 +3187,7 @@
     "mattricule": 16,
     "name": "Alger",
     "name_ar": "الجزائر",
-    "name_en": "Alger",
+    "name_en": "Algiers",
     "phoneCodes": [
       21,
       23
@@ -3876,9 +3876,9 @@
   },
   {
     "mattricule": 19,
-    "name": "Se9tif",
+    "name": "Sétif",
     "name_ar": "سطيف",
-    "name_en": "Se9tif",
+    "name_en": "Setif",
     "phoneCodes": [
       36
     ],
@@ -8282,9 +8282,9 @@
   },
   {
     "mattricule": 47,
-    "name": "Ghardaefa",
+    "name": "Ghardaïa",
     "name_ar": "غرداية",
-    "name_en": "Ghardaefa",
+    "name_en": "Ghardaïa",
     "phoneCodes": [
       29
     ],
