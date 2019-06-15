@@ -124,6 +124,9 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 
 ## TODOs & Future Improvements/Features
 
+* Add Tamazight Translation
+* Use a DB instead of the JSON file
+* Build a dashboard to manage/correct data
 * Match each postal code withe its provinces
 * Add long/latt cordinates
 * Add XML File
