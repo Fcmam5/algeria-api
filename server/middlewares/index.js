@@ -5,7 +5,7 @@ const Middlewares = {
   isInWilayasRange: (req, res, next) => {
     const { matricule } = req.params;
     const matr = Number(matricule);
-    if (!matr || matr < 1 || matr > 48) {
+    if (Number.isNaN(matr) || matr < 1 || matr > 48) {
       return res.status(400).json({ err: 'Bad request! "matricule" parameter must be a number between 1 and 48' });
     }
 
