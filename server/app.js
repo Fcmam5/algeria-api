@@ -3,11 +3,15 @@ const express = require('express');
 const logger = require('morgan');
 const bodyParser = require('body-parser');
 const helmet = require('helmet');
-
+// config
+const MongoManager = require('./config/db');
+// routes
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
 
 const app = express();
+
+MongoManager.connect();
 
 app.use(logger('dev'));
 app.use(bodyParser.json());

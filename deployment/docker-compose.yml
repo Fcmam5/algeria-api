@@ -5,5 +5,14 @@ services:
     build:
       context: ..
       dockerfile: ./deployment/Dockerfile.server
+    environment:
+      - DB_URL="mongodb://dz_mongo_store:27017/algeria"
     ports:
       - "3000:3000"
+    links:
+      - dz_mongo_store
+    dz_mongo_store:
+      container_name: dz_mongo_store
+      image: mongo
+      ports:
+        - "27017:27017"
