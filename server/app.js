@@ -6,8 +6,7 @@ const helmet = require('helmet');
 // config
 const MongoManager = require('./config/db');
 // routes
-const index = require('./routes');
-const apiV1 = require('./routes/api/v1');
+const api = require('./api/');
 
 const app = express();
 
@@ -18,8 +17,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(helmet());
 
-app.use('/', index);
-app.use('/api/v1', apiV1);
+app.use('/api', api);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {

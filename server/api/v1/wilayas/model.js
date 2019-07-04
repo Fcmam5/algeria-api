@@ -17,6 +17,8 @@ const WilayaSchema = new Schema({
     type: Schema.Types.ObjectId,
     ref: 'Wilaya',
   }],
+}, {
+  timestamps: true,
 });
 
 const Wilaya = mongoose.model('Wilaya', WilayaSchema);

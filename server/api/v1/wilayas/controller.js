@@ -1,6 +1,6 @@
 // TODO: Replace file by DB when all fields are filled
-const WilayaList = require('../../results/WilayaList.json');
-const { getWilayasNames } = require('../utils');
+const WilayaList = require('../../../../results/WilayaList.json');
+const { getWilayasNames } = require('../../../utils');
 
 const wilayaController = {
   list: (req, res) => res.status(200).json({ data: WilayaList }),
