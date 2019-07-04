@@ -1,3 +1,18 @@
+const joi = require('@hapi/joi');
+const { wilayaSchema, wilayaUpdateSchema } = require('./validation');
+
+
+const createValidation = theSchema => async ({ body }, res, next) => {
+  try {
+    await joi.validate(body, theSchema);
+    next();
+  } catch (error) {
+    error.status = 400;
+    console.error(error);
+    next(error);
+  }
+};
+
 const Middlewares = {
   /**
    * Reject requests if :matricule parameter is not a number or when it's not in the range [1:48]
@@ -11,6 +26,8 @@ const Middlewares = {
 
     return next();
   },
+  validateBody: createValidation(wilayaSchema),
+  validateUpdateOp: createValidation(wilayaUpdateSchema),
 };
 
 module.exports = Middlewares;

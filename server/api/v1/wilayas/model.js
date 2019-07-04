@@ -3,7 +3,11 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const WilayaSchema = new Schema({
-  mattricule: Number,
+  _id: {
+    type: Number,
+    unique: true,
+    required: true,
+  },
   name: String,
   nameAr: String,
   nameEn: String,
@@ -20,6 +24,7 @@ const WilayaSchema = new Schema({
 }, {
   timestamps: true,
 });
+
 
 const Wilaya = mongoose.model('Wilaya', WilayaSchema);
 
