@@ -1,6 +1,4 @@
-// TODO: Replace file by DB when all fields are filled
-const WilayaList = require('../../../../results/WilayaList.json');
-const { getWilayasNames } = require('../../../utils');
+const querymen = require('querymen');
 const { hasAccess } = require('../../../services/acl/middlewares');
 const {
   WILAYAS, CREATE, DELETE, UPDATE,
@@ -9,29 +7,27 @@ const { validateBody, validateUpdateOp } = require('./middlewares');
 const Model = require('./model');
 
 const wilayaController = {
-  list: (req, res) => res.status(200).json({ data: WilayaList }),
-  wilayaByMatricule: (req, res) => {
-    const matricule = Number(req.params.matricule);
-    const theWilaya = WilayaList[matricule - 1];
-    return res.status(200).json({ data: theWilaya });
-  },
-  adjacentWilayas: (req, res) => {
-    const matricule = Number(req.params.matricule);
-    const { adjacentWilayas } = WilayaList[matricule - 1];
-    return res.status(200).json({ data: adjacentWilayas });
-  },
-  adjacentWilayasNames: (req, res) => {
-    const matricule = Number(req.params.matricule);
-    const { lang } = req.params;
-    const { adjacentWilayas } = WilayaList[matricule - 1];
-    const adjacentWilayasWithNames = getWilayasNames(adjacentWilayas, lang);
-    return res.status(200).json({
-      data: {
-        names: adjacentWilayasWithNames,
-        mattricules: adjacentWilayas,
-      },
-    });
-  },
+  list: [
+    querymen.middleware(), // docs at: https://www.npmjs.com/package/querymen
+    async ({ querymen: { select, cursor } }, res, next) => {
+      try {
+        const docs = await Model.find({}, select, cursor);
+        res.json(docs);
+      } catch (err) {
+        next(err);
+      }
+    },
+  ],
+  show: ({ params: { matricule } }, res, next) => Model.findById(matricule).then(
+    (wilaya) => {
+      if (wilaya) {
+        return res.json(wilaya);
+      }
+      const err = new Error(`wilaya ${matricule} not found`);
+      err.status = 404;
+      return next(err);
+    },
+  ),
   create: [
     hasAccess(WILAYAS, CREATE),
     validateBody,
@@ -57,7 +53,7 @@ const wilayaController = {
       } catch (error) {
         error.status = 404;
         error.message = `wilaya ${matricule} not found`;
-        next(error);
+        return next(error);
       }
     },
   ],
@@ -74,7 +70,7 @@ const wilayaController = {
       } catch (error) {
         error.status = 404;
         error.message = `wilaya ${matricule} not found`;
-        next(error);
+        return next(error);
       }
     },
   ],

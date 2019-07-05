@@ -25,6 +25,20 @@ const WilayaSchema = new Schema({
   timestamps: true,
 });
 
+WilayaSchema.methods = {
+  toJSON() {
+    return {
+      matricule: this.id,
+      name: this.name,
+      nameEn: this.nameEn,
+      nameAr: this.nameAr,
+      phoneCodes: this.phoneCodes,
+      postalCodes: this.postalCodes,
+      dairats: this.dairats,
+      adjacentWilayas: this.adjacentWilayas,
+    };
+  },
+};
 
 const Wilaya = mongoose.model('Wilaya', WilayaSchema);
 
