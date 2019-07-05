@@ -1,5 +1,5 @@
 const joi = require('@hapi/joi');
-const { wilayaSchema, wilayaUpdateSchema } = require('./validation');
+const { dairatSchema, dairatUpdateSchema } = require('./validation');
 
 
 const createValidation = theSchema => async ({ body }, res, next) => {
@@ -25,8 +25,18 @@ const Middlewares = {
 
     return next();
   },
-  validateBody: createValidation(wilayaSchema),
-  validateUpdateOp: createValidation(wilayaUpdateSchema),
+  validateBody: createValidation(dairatSchema),
+  validateUpdateOp: createValidation(dairatUpdateSchema),
+  findDairat: ({ wilaya, params: { daira } }, res, next) => {
+    const thedairat = wilaya.dairats.find(d => d == daira); // eslint-disable-line 
+    if (!thedairat) {
+      const err = new Error(`dairat ${daira} not found`);
+      err.status = 404;
+      throw err;
+    }
+    return next();
+  },
+
 };
 
 module.exports = Middlewares;

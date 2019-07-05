@@ -34,8 +34,6 @@ WilayaSchema.methods = {
       nameAr: this.nameAr,
       phoneCodes: this.phoneCodes,
       postalCodes: this.postalCodes,
-      dairats: this.dairats,
-      adjacentWilayas: this.adjacentWilayas,
     };
   },
 };

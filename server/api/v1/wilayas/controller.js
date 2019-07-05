@@ -8,11 +8,11 @@ const Model = require('./model');
 
 const wilayaController = {
   list: [
-    querymen.middleware(), // docs at: https://www.npmjs.com/package/querymen
+    querymen.middleware(), // support field selection and pagination
     async ({ querymen: { select, cursor } }, res, next) => {
       try {
-        const docs = await Model.find({}, select, cursor);
-        res.json(docs);
+        const data = await Model.find({}, select, cursor);
+        res.json({ data });
       } catch (err) {
         next(err);
       }
@@ -74,6 +74,21 @@ const wilayaController = {
       }
     },
   ],
+  findWilaya: async (req, res, next) => {
+    try {
+      const { params: { matricule } } = req;
+      const wilaya = await Model.findById(matricule);
+      if (wilaya) {
+        req.wilaya = wilaya;
+        return next();
+      }
+      const err = new Error(`wilaya ${matricule} not found`);
+      err.status = 404;
+      throw err;
+    } catch (err) {
+      return next(err);
+    }
+  },
 };
 
 module.exports = wilayaController;
