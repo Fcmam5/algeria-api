@@ -1,32 +1,12 @@
-const joi = require('@hapi/joi');
 const { dairatSchema, dairatUpdateSchema } = require('./validation');
+const Model = require('./model');
+const createValidationMiddleWares = require('../../Common/middlwares');
+
+const Middlewares = createValidationMiddleWares(dairatSchema, dairatUpdateSchema);
 
 
-const createValidation = theSchema => async ({ body }, res, next) => {
-  try {
-    await joi.validate(body, theSchema);
-    next();
-  } catch (error) {
-    error.status = 400;
-    next(error);
-  }
-};
-
-const Middlewares = {
-  /**
-   * Reject requests if :matricule parameter is not a number or when it's not in the range [1:48]
-   */
-  isInWilayasRange: (req, res, next) => {
-    const { matricule } = req.params;
-    const matr = Number(matricule);
-    if (Number.isNaN(matr) || matr < 1 || matr > 48) {
-      return res.status(400).json({ err: 'Bad request! "matricule" parameter must be a number between 1 and 48' });
-    }
-
-    return next();
-  },
-  validateBody: createValidation(dairatSchema),
-  validateUpdateOp: createValidation(dairatUpdateSchema),
+module.exports = {
+  ...Middlewares,
   findDairat: ({ wilaya, params: { daira } }, res, next) => {
     const thedairat = wilaya.dairats.find(d => d == daira); // eslint-disable-line 
     if (!thedairat) {
@@ -37,6 +17,15 @@ const Middlewares = {
     return next();
   },
 
-};
+  findDairatAndSave: async (req, res, next) => {
+    try {
+      const { params: { daira } } = req;
+      const thedaira = await Model.findById(daira);
+      req.daira = thedaira;
+      next();
+    } catch (error) {
+      next(error);
+    }
+  },
 
-module.exports = Middlewares;
+};

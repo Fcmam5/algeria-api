@@ -7,6 +7,7 @@ exports.wilayaSchema = joi.object().keys({
   nameEr: joi.string().alphanum().required(),
   nameAr: joi.string().alphanum().required(),
   phoneCodes: joi.array().items(joi.string()),
+  adjacentWilayas: joi.array().items(joi.number().min(1).max(48)),
   // TOFIND min max postal code of algeria
   postalCodes: joi.array().items(joi.number().min(0).max(99999)),
 });
@@ -17,6 +18,7 @@ exports.wilayaUpdateSchema = joi.object().keys({
   nameEr: joi.string().alphanum(),
   nameAr: joi.string().alphanum(),
   phoneCodes: joi.array().items(joi.string()),
+  adjacentWilayas: joi.array().items(joi.number().min(1).max(48)),
   // TOFIND min max postal code of algeria
   postalCodes: joi.array().items(joi.number().min(0).max(99999)),
 });
