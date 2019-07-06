@@ -1,6 +1,6 @@
 const { hasAccess } = require('../../../../../services/acl/middlewares');
 const {
-  WILAYAS, CREATE, DELETE, UPDATE,
+  BALADYIATS, CREATE, DELETE, UPDATE,
 } = require('../../../../../services/acl/constants');
 const { validateBody, validateUpdateOp, findBaladya } = require('./middlewares');
 const Model = require('./model');
@@ -29,7 +29,7 @@ exports.show = [
 ];
 
 exports.create = [
-  hasAccess(WILAYAS, CREATE),
+  hasAccess(BALADYIATS, CREATE),
   validateBody,
   async ({ body, daira }, res, next) => {
     try {
@@ -44,7 +44,7 @@ exports.create = [
 ];
 
 exports.update = [
-  hasAccess(WILAYAS, UPDATE),
+  hasAccess(BALADYIATS, UPDATE),
   findBaladya,
   validateUpdateOp,
   async ({ body, params: { baladya } }, res, next) => {
@@ -63,7 +63,7 @@ exports.update = [
 ];
 
 exports.destroy = [
-  hasAccess(WILAYAS, DELETE),
+  hasAccess(BALADYIATS, DELETE),
   findBaladya,
   async ({ params: { baladya }, daira }, res, next) => {
     try {

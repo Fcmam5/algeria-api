@@ -1,7 +1,8 @@
 // modules
 const ADMINS = 'admins';
 const WILAYAS = 'wilayas';
-
+const DAIRATS = 'DAIRATS';
+const BALADYIATS = 'BALADYIATS';
 // users roles
 const adminRole = 0;
 
@@ -30,6 +31,8 @@ module.exports = {
   adminRole,
   ADMINS,
   WILAYAS,
+  DAIRATS,
+  BALADYIATS,
   allMethods: [
     LOGIN,
     LIST,

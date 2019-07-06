@@ -1,5 +1,5 @@
 const {
- adminRole, allMethods, WILAYAS, ADMINS 
+  adminRole, allMethods, WILAYAS, ADMINS, DAIRATS, BALADYIATS,
 } = require('./constants');
 
 const rolesMap = new Map();
@@ -17,6 +17,14 @@ exports.can = (role, module, method) => {
 rolesMap.set(adminRole, [
   {
     module: WILAYAS,
+    methods: allMethods,
+  },
+  {
+    module: DAIRATS,
+    methods: allMethods,
+  },
+  {
+    module: BALADYIATS,
     methods: allMethods,
   },
   {
