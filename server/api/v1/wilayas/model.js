@@ -3,16 +3,22 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const WilayaSchema = new Schema({
-  _id: {
+  matricule: {
     type: Number,
     unique: true,
     required: true,
   },
-  name: String,
+  name: {
+    type: String,
+    required: true,
+  },
   nameAr: String,
-  nameEn: String,
+  nameFr: String,
   phoneCodes: [{ type: Number }],
-  postalCodes: Array,
+  postalCodes: [{
+    ets: String,
+    code: Number,
+  }],
   dairats: [{
     type: Schema.Types.ObjectId,
     ref: 'Daira',
@@ -28,10 +34,10 @@ const WilayaSchema = new Schema({
 WilayaSchema.methods = {
   toJSON() {
     return {
-      matricule: this.id,
+      matricule: this.matricule,
       name: this.name,
-      nameEn: this.nameEn,
       nameAr: this.nameAr,
+      nameEn: this.nameFr,
       phoneCodes: this.phoneCodes,
       postalCodes: this.postalCodes,
     };

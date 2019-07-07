@@ -8,9 +8,16 @@ const DairaSchema = new Schema({
     required: true,
     unique: true,
   },
-  name: String,
-  nameAr: String,
-  nameEn: String,
+  name: {
+    type: String,
+    required: true,
+  },
+  nameAr: {
+    type: String,
+  },
+  nameEn: {
+    type: String,
+  },
   baladyiats: [{
     type: Schema.Types.ObjectId,
     ref: 'Baladyia',
@@ -20,11 +27,11 @@ const DairaSchema = new Schema({
 DairaSchema.methods = {
   toJSON() {
     return {
+      id: this.id,
       code: this.code,
       name: this.name,
       nameAr: this.nameAr,
-      baladyiats: this.baladyiats,
-      id: this.id,
+      nameEn: this.nameEn,
     };
   },
 };

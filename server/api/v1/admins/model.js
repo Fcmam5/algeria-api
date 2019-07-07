@@ -24,7 +24,7 @@ const schema = new Schema({
 }, {
   timestamps: true,
 });
-schema.pre('save', function hash(next) {
+schema.pre('save', function hashPassword(next) {
   if (this.isModified('password')) {
     this.password = bcrypt.hash(this.password, ROUNDS, (err, hash) => {
       if (err) throw err;

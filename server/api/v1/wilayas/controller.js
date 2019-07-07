@@ -12,13 +12,14 @@ const wilayaController = {
     async ({ querymen: { select, cursor } }, res, next) => {
       try {
         const data = await Model.find({}, select, cursor);
-        res.json({ data });
+        const count = await Model.count({});
+        res.json({ data, count });
       } catch (err) {
         next(err);
       }
     },
   ],
-  show: ({ params: { matricule } }, res, next) => Model.findById(matricule).then(
+  show: ({ params: { matricule } }, res, next) => Model.findOne({ matricule }).then(
     (wilaya) => {
       if (wilaya) {
         return res.json(wilaya);
@@ -28,6 +29,20 @@ const wilayaController = {
       return next(err);
     },
   ),
+  adjacents: async ({ params: { matricule } }, res, next) => {
+    try {
+      const wilaya = await Model.findOne({ matricule });
+      if (wilaya) {
+        await wilaya.populate('adjacentWilayas').execPopulate();
+        return res.json({ data: wilaya.adjacentWilayas });
+      }
+      throw new Error();
+    } catch (error) {
+      const err = new Error(`wilaya ${matricule} not found`);
+      err.status = 404;
+      return next(err);
+    }
+  },
   create: [
     hasAccess(WILAYAS, CREATE),
     validateBody,
@@ -45,7 +60,7 @@ const wilayaController = {
     validateUpdateOp,
     async ({ body, params: { matricule } }, res, next) => {
       try {
-        const result = await Model.updateOne({ _id: matricule }, body);
+        const result = await Model.updateOne({ matricule }, body);
         if (result.ok && result.n) {
           return res.json({ msg: 'update successful', success: true });
         }
@@ -59,10 +74,9 @@ const wilayaController = {
   ],
   destroy: [
     hasAccess(WILAYAS, DELETE),
-    validateUpdateOp,
     async ({ params: { matricule } }, res, next) => {
       try {
-        const result = await Model.deleteOne({ _id: matricule });
+        const result = await Model.deleteOne({ matricule });
         if (result.ok && result.n) {
           return res.json({ msg: 'delete successful', success: true });
         }
@@ -77,7 +91,7 @@ const wilayaController = {
   findWilaya: async (req, res, next) => {
     try {
       const { params: { matricule } } = req;
-      const wilaya = await Model.findById(matricule);
+      const wilaya = await Model.findOne({ matricule });
       if (wilaya) {
         req.wilaya = wilaya;
         return next();

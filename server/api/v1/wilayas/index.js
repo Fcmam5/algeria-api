@@ -6,8 +6,8 @@ const dairas = require('./dairas');
 const router = express.Router();
 
 router.get('/', wilayaController.list);
+router.get('/:matricule/adjacents', isInWilayasRange, wilayaController.adjacents);
 router.get('/:matricule', isInWilayasRange, wilayaController.show);
-
 router.post('/', wilayaController.create);
 router.put('/:matricule', isInWilayasRange, wilayaController.update);
 router.delete('/:matricule', isInWilayasRange, wilayaController.destroy);
