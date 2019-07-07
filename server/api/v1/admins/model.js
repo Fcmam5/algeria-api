@@ -1,9 +1,10 @@
+const bcrypt = require('bcrypt');
 const mongoose = require('mongoose');
 const { isEmail } = require('validator');
 const { adminRole } = require('../../../services/acl/constants');
 
 const { Schema, model } = mongoose;
-
+const ROUNDS = 12;
 const schema = new Schema({
   email: {
     type: String,
@@ -14,8 +15,6 @@ const schema = new Schema({
   password: {
     type: String,
     required: true,
-    min: 6,
-    max: 256,
   },
   role: {
     type: Number,
@@ -25,7 +24,27 @@ const schema = new Schema({
 }, {
   timestamps: true,
 });
-
+schema.pre('save', function hash(next) {
+  if (this.isModified('password')) {
+    this.password = bcrypt.hash(this.password, ROUNDS, (err, hash) => {
+      if (err) throw err;
+      this.password = hash;
+      next();
+    });
+  }
+});
+schema.methods = {
+  toJSON() {
+    return {
+      id: this.id,
+      email: this.email,
+    };
+  },
+};
 const Admin = model('admin', schema);
-
+// new Admin({
+//   email: 'akram@esi.dz',
+//   password: 'root',
+//   role: 0,
+// }).save().then(console.log).catch(console.error);
 module.exports = Admin;
