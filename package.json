@@ -10,7 +10,9 @@
     "docker:prod": "docker-compose -f deployment/docker-compose.yml up --build",
     "server:docker": "node bin/www",
     "server:dev": "nodemon --config nodemon-server.json ./server/bin/www",
-    "test": "jest --watch"
+    "test": "jest --watch",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -30,7 +32,9 @@
     "dotenv": "8.0.0",
     "express": "4.17.0",
     "helmet": "3.18.0",
-    "lodash": "4.17.11",
-    "morgan": "1.9.1"
-  }
+    "lodash": "4.17.13",
+    "morgan": "1.9.1",
+    "snyk": "^1.192.3"
+  },
+  "snyk": true
 }

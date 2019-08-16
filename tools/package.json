@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "Fortas Abdeldjalil (Fcmam5)",
   "license": "MIT",
   "dependencies": {
     "cheerio": "1.0.0-rc.3",
-    "request-promise": "4.2.4"
-  }
+    "request-promise": "4.2.4",
+    "snyk": "^1.192.3"
+  },
+  "snyk": true
 }
