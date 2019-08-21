@@ -10,12 +10,24 @@ const WilayaSchema = new Schema({
   phoneCodes: [{ type: Number }],
   postalCodes: Array,
   dairats: [{
-    type: Schema.Types.ObjectId,
-    ref: 'Daira',
+    code: Number,
+    name: String,
+    nameAr: String,
+    nameEn: String,
+    baladyiats: [{
+      code: Number,
+      name: String,
+      nameAr: String,
+      nameEn: String,
+    }],
   }],
+  // TODO: Edit flush-db scripts and controllers
+  // adjacentWilayas: [{
+  //   type: Schema.Types.ObjectId,
+  //   ref: 'Wilaya',
+  // }],
   adjacentWilayas: [{
-    type: Schema.Types.ObjectId,
-    ref: 'Wilaya',
+    type: Number,
   }],
 });
 

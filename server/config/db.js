@@ -23,9 +23,7 @@ const MongoManager = {
         console.error(err);
       });
   },
-  flushDB: () => {
-    // mongoose.Collection.
-  },
+  getConnection: () => mongoose.connection,
 };
 
 module.exports = MongoManager;
