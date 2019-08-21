@@ -12,7 +12,8 @@
     "server:dev": "nodemon --config nodemon-server.json ./server/bin/www",
     "test": "jest --watch",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "flush-db": "node server/flush-db/index.js"
   },
   "keywords": [],
   "author": "",
@@ -34,7 +35,9 @@
     "helmet": "3.18.0",
     "lodash": "4.17.13",
     "morgan": "1.9.1",
+    "mongoose": "5.6.0",
     "snyk": "^1.192.3"
+
   },
   "snyk": true
 }
