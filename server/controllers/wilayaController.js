@@ -4,7 +4,9 @@ const { getWilayasNames } = require('../utils');
 const wilayaController = {
   list: async (req, res) => {
     try {
-      const wilayas = await Wilaya.find({}, { _id: 0, __v: 0 }).exec();
+      const wilayas = await Wilaya.find({}, {
+        _id: 0, __v: 0, 'dairats._id': 0, 'dairats.baladyiats._id': 0,
+      }).exec();
       return res.status(200).json({ data: wilayas });
     } catch (error) {
       return res.status(500).json({ msg: 'Error!' });
@@ -13,8 +15,10 @@ const wilayaController = {
   wilayaByMatricule: async (req, res) => {
     const mattricule = Number(req.params.matricule);
     try {
-      const theWilaya = await Wilaya.findOne({ mattricule }, { _id: 0, __v: 0 }).exec();
-      return res.status(200).json({ data: theWilaya });
+      const theWilaya = await Wilaya.findOne({ mattricule }, {
+        _id: 0, 'dairats._id': 0, 'dairats.baladyiats._id': 0, __v: 0,
+      }).exec();
+      return res.status(200).jsonp({ data: theWilaya });
     } catch (error) {
       return res.status(500).json({ msg: 'Error!' });
     }
@@ -22,7 +26,7 @@ const wilayaController = {
   adjacentWilayas: async (req, res) => {
     const mattricule = Number(req.params.matricule);
     try {
-      const theWilaya = await Wilaya.findOne({ mattricule }, { _id: 0, __v: 0 }).exec();
+      const theWilaya = await Wilaya.findOne({ mattricule }).exec();
 
       const { adjacentWilayas } = theWilaya;
       return res.status(200).json({ data: adjacentWilayas });
@@ -35,7 +39,7 @@ const wilayaController = {
     const { lang } = req.params;
 
     try {
-      const theWilaya = await Wilaya.findOne({ mattricule }, { _id: 0, __v: 0 }).exec();
+      const theWilaya = await Wilaya.findOne({ mattricule }).exec();
       const { adjacentWilayas } = theWilaya;
       const adjacentWilayasWithNames = getWilayasNames(adjacentWilayas, lang);
       return res.status(200).json({
