@@ -118,6 +118,40 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
       }
     ```
 
+* You can get an XML result by adding a `format=xml` query parameter, example:
+  * GET: `http://localhost:3000/api/v1/wilaya/matricule/31?format=xml` will return:
+
+  ```xml
+  <?xml version="1.0" encoding="UTF-8"?>
+  <wilaya>
+    <phoneCodes>
+      <phoneCode>41</phoneCode>
+    </phoneCodes>
+    <postalCodes>
+      <postalCode>31000</postalCode>
+      <postalCode>31001</postalCode>
+      ...
+      <postalCode>31118</postalCode>
+    </postalCodes>
+    <adjacentWilayas>
+      <adjacentWilaya>46</adjacentWilaya>
+      <adjacentWilaya>22</adjacentWilaya>
+      <adjacentWilaya>29</adjacentWilaya>
+      <adjacentWilaya>27</adjacentWilaya>
+    </adjacentWilayas>
+    <mattricule>31</mattricule>
+    <name>Oran</name>
+    <nameAr>وهران</nameAr>
+    <nameEn>Oran</nameEn>
+    <dairats>
+      <dairat>
+        <baladyiats>
+          <baladyiat>
+            <code>3101</code>
+            <name>ORAN</name>
+            <nameAr>وهران</nameAr>
+  ```
+
 * Get postal codes by Wilaya
 * Get wilaya by postal codes
 * Get Wilaya by phone code
