@@ -8,3 +8,8 @@ patch:
         patched: '2019-07-07T08:16:05.265Z'
     - request-promise > request-promise-core > lodash:
         patched: '2019-07-07T08:16:05.265Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T08:16:06.864Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T08:16:06.864Z'

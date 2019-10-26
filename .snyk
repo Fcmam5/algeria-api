@@ -6,3 +6,8 @@ patch:
   SNYK-JS-LODASH-450202:
     - lodash:
         patched: '2019-07-07T07:47:03.869Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T07:47:06.687Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T07:47:06.687Z'
