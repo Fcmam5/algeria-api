@@ -42,17 +42,28 @@ const wilayaController = {
     }
   },
   adjacentWilayas: async (req, res) => {
+    const resFormat = req.query.format || 'json';
     const mattricule = Number(req.params.matricule);
     try {
       const theWilaya = await Wilaya.findOne({ mattricule }).exec();
 
       const { adjacentWilayas } = theWilaya;
-      return res.status(200).json({ data: adjacentWilayas });
+
+      switch (resFormat) {
+        case 'xml':
+          // eslint-disable-next-line no-case-declarations
+          const xmlResponse = xmlify(Array.from(adjacentWilayas), { root: 'wilayas' });
+          res.type('application/xml');
+          return res.send(xmlResponse);
+        default:
+          return res.status(200).json({ data: adjacentWilayas });
+      }
     } catch (error) {
       return res.status(500).json({ msg: 'Error!' });
     }
   },
   adjacentWilayasNames: async (req, res) => {
+    const resFormat = req.query.format || 'json';
     const mattricule = Number(req.params.matricule);
     const { lang } = req.params;
 
@@ -60,12 +71,20 @@ const wilayaController = {
       const theWilaya = await Wilaya.findOne({ mattricule }).exec();
       const { adjacentWilayas } = theWilaya;
       const adjacentWilayasWithNames = getWilayasNames(adjacentWilayas, lang);
-      return res.status(200).json({
-        data: {
-          names: adjacentWilayasWithNames,
-          mattricules: adjacentWilayas,
-        },
-      });
+      switch (resFormat) {
+        case 'xml':
+          // eslint-disable-next-line no-case-declarations
+          const xmlResponse = xmlify({ wilayas: Array.from(adjacentWilayasWithNames) }, { root: 'wilayas' });
+          res.type('application/xml');
+          return res.send(xmlResponse);
+        default:
+          return res.status(200).json({
+            data: {
+              names: adjacentWilayasWithNames,
+              mattricules: adjacentWilayas,
+            },
+          });
+      }
     } catch (error) {
       return res.status(500).json({ msg: 'Error!' });
     }
