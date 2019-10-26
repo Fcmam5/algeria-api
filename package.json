@@ -34,9 +34,10 @@
     "express": "4.17.0",
     "helmet": "3.21.1",
     "lodash": "4.17.13",
-    "morgan": "1.9.1",
     "mongoose": "5.7.5",
-    "snyk": "^1.231.0"
+    "morgan": "1.9.1",
+    "snyk": "^1.231.0",
+    "xmlify": "1.1.0"
   },
   "snyk": true
 }
