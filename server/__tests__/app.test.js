@@ -1,5 +1,11 @@
-describe('Test case', () => {
-  it('should be truthy', () => {
-    expect(5 === 5).toBe(true);
+const { getServer } = require('../../test-utils');
+
+const server = getServer();
+
+describe('Catch 404 and forward to error handler', () => {
+  it('should return 404', () => {
+    server
+      .get('/completely-random-url')
+      .expect(404);
   });
 });

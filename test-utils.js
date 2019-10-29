@@ -1,3 +1,5 @@
+const supertest = require('supertest');
+const app = require('./server/app');
 /**
  * Mock request object
  * @param {Object} params
@@ -15,8 +17,12 @@ function mockResponse() {
   return res;
 }
 
+function getServer() {
+  return supertest(app);
+}
 
 module.exports = {
   mockRequest,
   mockResponse,
+  getServer,
 };

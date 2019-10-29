@@ -14,14 +14,13 @@ process.on('SIGINT', () => {
 });
 
 const MongoManager = {
-  connect: () => {
-    mongoose.connect(DB_URL, { useNewUrlParser: true })
-      .then((db) => {
-        console.log('\x1b[32m', ` Database connected: ${DB_URL}`);
-      })
-      .catch((err) => {
-        console.error(err);
-      });
+  connect: async (dbUri) => {
+    try {
+      await mongoose.connect(dbUri || DB_URL, { useNewUrlParser: true });
+      console.log('\x1b[32m', ` Database connected: ${DB_URL}`);
+    } catch (error) {
+      console.error(error);
+    }
   },
   getConnection: () => mongoose.connection,
 };
