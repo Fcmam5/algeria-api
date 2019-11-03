@@ -3,6 +3,7 @@ const express = require('express');
 const logger = require('morgan');
 const bodyParser = require('body-parser');
 const helmet = require('helmet');
+const cors = require('cors');
 // config
 const MongoManager = require('./config/db');
 // routes
@@ -18,8 +19,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(helmet());
 
-app.use('/', index);
-app.use('/api/v1', apiV1);
+app.use('/', cors(), index);
+app.use('/api/v1', cors(), apiV1);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {

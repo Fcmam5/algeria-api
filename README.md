@@ -156,13 +156,15 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 * Get wilaya by postal codes
 * Get Wilaya by phone code
 
+
+Find the full documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest).
+
 ## TODOs & Future Improvements/Features
 
 * Add Tamazight Translation
 * Build a dashboard to manage/correct data
 * Match each postal code withe its provinces
 * Add long/latt cordinates
-* Add XML File
 * sqlite ?
 
 ## Contributing
