@@ -1,14 +1,15 @@
 const { Wilaya } = require('../models');
 const WilayaList = require('../../results/WilayaList');
+const logger = require('../config/logger');
 
 async function showCollections(connection) {
-  console.log('|-- Show collections');
+  logger.info('|-- Show collections');
   const names = await connection.db.listCollections().toArray();
-  console.log(`|-- ${names.length} collections found (${names.map(n => n.name)})`);
+  logger.info(`|-- ${names.length} collections found (${names.map(n => n.name)})`);
 }
 
 function eraseData(connection, name) {
-  console.log(`|-- Dropping "${name}" collection`);
+  logger.info(`|-- Dropping "${name}" collection`);
   return connection.db.dropCollection(name);
 }
 
