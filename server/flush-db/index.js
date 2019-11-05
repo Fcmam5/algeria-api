@@ -27,7 +27,7 @@ connection.on('open', async () => {
   try {
     await insertData();
   } catch (error) {
-    console.error(error);
+    logger.error(error);
     logger.info('[X] Data insertion failed');
   }
 
