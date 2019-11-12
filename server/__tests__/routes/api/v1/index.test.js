@@ -70,4 +70,23 @@ describe('WilayaRouter', () => {
       expect(response.statusCode).toBe(200);
     });
   });
+
+  describe('Get wilayas by phone codes "/wilaya/phone-codes"', () => {
+    it('should return a JSON response if phone codes are provided', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?code=41&code=21');
+      expect(response.type).toBe('application/json');
+      expect(response.statusCode).toBe(200);
+    });
+
+    it('should return a XML response when providing "format=xml" parameter', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?format=xml&code=41&code=21');
+      expect(response.type).toBe('application/xml');
+      expect(response.statusCode).toBe(200);
+    });
+
+    it('should return a 404 if no wilaya is found', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?code=41&code=21');
+      expect(response.statusCode).toBe(404);
+    });
+  });
 });
