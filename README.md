@@ -156,6 +156,8 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 * Get wilaya by postal codes
 * Get Wilaya by phone code
 
+* Healthcheck
+  * GET: `http://localhost/healthcheck`
 
 Find the full documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest).
 

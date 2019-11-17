@@ -29,6 +29,7 @@
     "supertest": "4.0.2"
   },
   "dependencies": {
+    "@godaddy/terminus": "4.2.1",
     "body-parser": "1.19.0",
     "bunyan": "1.8.12",
     "cors": "2.8.5",
@@ -39,7 +40,6 @@
     "joi": "14.3.1",
     "lodash": "4.17.13",
     "mongoose": "5.7.5",
-    "morgan": "1.9.1",
     "snyk": "^1.231.0",
     "xmlify": "1.1.0"
   },

@@ -1,6 +1,5 @@
 require('dotenv').config();
 const express = require('express');
-const logger = require('morgan');
 const bodyParser = require('body-parser');
 const helmet = require('helmet');
 const cors = require('cors');
@@ -14,7 +13,6 @@ const app = express();
 
 MongoManager.connect();
 
-app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(helmet());
