@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "@godaddy/terminus": "4.2.1",
+    "@hapi/boom": "8.0.1",
     "body-parser": "1.19.0",
     "bunyan": "1.8.12",
     "cors": "2.8.5",

@@ -5,9 +5,12 @@ const helmet = require('helmet');
 const cors = require('cors');
 // config
 const MongoManager = require('./config/db');
+const logger = require('./config/logger');
+
 // routes
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
+const { handle404 } = require('./controllers/handlers');
 
 const app = express();
 
@@ -21,21 +24,15 @@ app.use('/', cors(), index);
 app.use('/api/v1', cors(), apiV1);
 
 // catch 404 and forward to error handler
-app.use((req, res, next) => {
-  const err = new Error('Not Found');
-  err.status = 404;
-  next(err);
-});
+app.use(handle404);
 
 // error handler
-app.use((err, req, res, next) => {
-  // set locals, only providing error in development
-  const { message } = err;
-  const error = req.app.get('env') === 'development' ? err : {};
+app.use((err, req, res) => {
+  if (err.isServer) { logger.error(err); }
 
-  // render the error page
-  res.status(err.status || 500);
-  res.json({ message, error });
+  return res
+    .status(err.output.statusCode)
+    .json(err.output.payload);
 });
 
 module.exports = app;
