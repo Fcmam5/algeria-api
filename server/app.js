@@ -5,12 +5,11 @@ const helmet = require('helmet');
 const cors = require('cors');
 // config
 const MongoManager = require('./config/db');
-const logger = require('./config/logger');
 
 // routes
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
-const { handle404 } = require('./controllers/handlers');
+const { handle404, handelServerErrors } = require('./controllers/handlers');
 
 const app = express();
 
@@ -27,12 +26,6 @@ app.use('/api/v1', cors(), apiV1);
 app.use(handle404);
 
 // error handler
-app.use((err, req, res) => {
-  if (err.isServer) { logger.error(err); }
-
-  return res
-    .status(err.output.statusCode)
-    .json(err.output.payload);
-});
+app.use(handelServerErrors);
 
 module.exports = app;
