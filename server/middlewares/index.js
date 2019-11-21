@@ -1,3 +1,4 @@
+const boom = require('@hapi/boom');
 const { WilayaValidator } = require('../validations');
 
 const Middlewares = {
@@ -8,7 +9,16 @@ const Middlewares = {
     const { matricule } = req.params;
     const { error } = WilayaValidator.isInWilayasRange(matricule);
     if (error) {
-      return res.status(400).json({ err: 'Bad request! "matricule" parameter must be a number between 1 and 48' });
+      return next(boom.badRequest('Bad request! "matricule" parameter must be a number between 1 and 48'));
+    }
+
+    return next();
+  },
+  isValidPhoneCode: (req, res, next) => {
+    const { code } = req.query;
+    const { error } = WilayaValidator.isValidPhoneCode(code);
+    if (error) {
+      return next(boom.badRequest('Bad request! incorrect phone code'));
     }
 
     return next();

@@ -87,6 +87,28 @@ const wilayaController = {
       return next(boom.internal('Error'));
     }
   },
+  wilayaByPhoneCode: async (req, res, next) => {
+    const resFormat = req.query.format || 'json';
+    const { code } = req.query;
+
+    try {
+      const theWilaya = await service.getWilayaByPhoneCode(code);
+
+      if (!theWilaya) {
+        throw next(boom.notFound(`There is no wilaya with the phone code "${code}"`));
+      }
+
+      switch (resFormat) {
+        case 'xml':
+          res.type('application/xml');
+          return res.send(xmlify(theWilaya, 'wilaya'));
+        default:
+          return res.status(200).json({ data: theWilaya });
+      }
+    } catch (error) {
+      return next(boom.internal('Error'));
+    }
+  },
 };
 
 module.exports = wilayaController;

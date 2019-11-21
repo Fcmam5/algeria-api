@@ -155,9 +155,10 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 * Get postal codes by Wilaya
 * Get wilaya by postal codes
 * Get Wilaya by phone code
+  * GET: `http://localhost:3000/wilaya/phone-codes?code=41` and for getting XML results `http://localhost:3000/wilaya/phone-codes?code=41&format=xml`
 
 * Healthcheck
-  * GET: `http://localhost/healthcheck`
+  * GET: `http://localhost:3000/healthcheck`
 
 Find the full documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest).
 
