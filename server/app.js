@@ -1,20 +1,20 @@
 require('dotenv').config();
 const express = require('express');
-const logger = require('morgan');
 const bodyParser = require('body-parser');
 const helmet = require('helmet');
 const cors = require('cors');
 // config
 const MongoManager = require('./config/db');
+
 // routes
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
+const { handle404, handelServerErrors } = require('./controllers/handlers');
 
 const app = express();
 
 MongoManager.connect();
 
-app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(helmet());
@@ -23,21 +23,9 @@ app.use('/', cors(), index);
 app.use('/api/v1', cors(), apiV1);
 
 // catch 404 and forward to error handler
-app.use((req, res, next) => {
-  const err = new Error('Not Found');
-  err.status = 404;
-  next(err);
-});
+app.use(handle404);
 
 // error handler
-app.use((err, req, res, next) => {
-  // set locals, only providing error in development
-  const { message } = err;
-  const error = req.app.get('env') === 'development' ? err : {};
-
-  // render the error page
-  res.status(err.status || 500);
-  res.json({ message, error });
-});
+app.use(handelServerErrors);
 
 module.exports = app;

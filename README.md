@@ -1,6 +1,6 @@
 # Algeria API
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/Fcmam5/algeria-api) 
+[![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/Fcmam5/algeria-api) [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FFcmam5%2Falgeria-api%2Fmaster)](https://stryker-mutator.github.io)
 
 A list of Algerian Wilayas, Dairas and Baladyahs.
 
@@ -156,6 +156,8 @@ A list of Algerian Wilayas, Dairas and Baladyahs.
 * Get wilaya by postal codes
 * Get Wilaya by phone code
 
+* Healthcheck
+  * GET: `http://localhost/healthcheck`
 
 Find the full documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest).
 
