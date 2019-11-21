@@ -1,13 +1,3 @@
-// const request = require('supertest');
-// const app = require('../../app');
-
-// describe('Test the wilaya API', () => {
-//   it('should response the GET method on list endpoint', () => request(app).get('/api/v1/wilaya').expect(200));
-//   it('should response the GET method on wilaya by matricule endpoint', () => request(app).get('/api/v1/wilaya/matricule/31').expect(200));
-//   it('should response by bad request on requests with wrong matricule', () => request(app).get('/api/v1/wilaya/matricule/h31').expect(400));
-// });
-
-// const wilayaController = require('../../controllers/wilayaController');
 const { getServer } = require('../../../../../test-utils');
 
 const server = getServer();
@@ -68,6 +58,30 @@ describe('WilayaRouter', () => {
       const response = await server.get('/api/v1/wilaya/adjacence/31/names?format=xml');
       expect(response.type).toBe('application/xml');
       expect(response.statusCode).toBe(200);
+    });
+  });
+
+  describe('Get wilayas by phone codes "/wilaya/phone-codes"', () => {
+    it('should return a JSON response if phone codes are provided', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?code=41');
+      expect(response.type).toBe('application/json');
+      expect(response.statusCode).toBe(200);
+    });
+
+    it('should return a XML response when providing "format=xml" parameter', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?format=xml&code=41');
+      expect(response.type).toBe('application/xml');
+      expect(response.statusCode).toBe(200);
+    });
+
+    it('should return a 404 if no wilaya is found', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?code=1337');
+      expect(response.statusCode).toBe(404);
+    });
+
+    it('should return a 400 if the code parameter is not provided', async () => {
+      const response = await server.get('/api/v1/wilaya/phone-codes?code=foo');
+      expect(response.statusCode).toBe(400);
     });
   });
 });

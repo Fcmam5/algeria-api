@@ -18,6 +18,9 @@ const WilayaService = {
     const adjacentWilayasWithNames = getWilayasNames(adjacentWilayas, lang);
     return { adjacentWilayas, adjacentWilayasWithNames };
   },
+  getWilayaByPhoneCode: async code => Wilaya.findOne({ phoneCodes: code }, {
+    _id: 0, 'dairats._id': 0, 'dairats.baladyiats._id': 0, __v: 0,
+  }).exec(),
 };
 
 module.exports = WilayaService;
