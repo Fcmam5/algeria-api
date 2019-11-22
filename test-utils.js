@@ -6,8 +6,10 @@ const app = require('./server/app');
  * @param {Object} body
  * @param {Object} session
  */
-function mockRequest(params, body, session) {
-  return { params, body, session };
+function mockRequest(params, query, body, session) {
+  return {
+    params, query, body, session,
+  };
 }
 
 function mockResponse() {

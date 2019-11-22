@@ -10,7 +10,7 @@
     "docker:prod": "docker-compose -f deployment/docker-compose.yml up --build",
     "server:docker": "node bin/www",
     "server:dev": "nodemon --config nodemon-server.json ./server/bin/www",
-    "server:test": "jest --watch",
+    "server:test": "jest --watchAll",
     "server:coverage": "jest --coverage --collectCoverageFrom='server/**/*.js'",
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect",
