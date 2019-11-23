@@ -1,7 +1,7 @@
 const { supportedLanguages } = require('../../utils/constants');
 const { isLanguageSupported, getWilayasNames } = require('../../utils');
 
-describe('Test language support suite', () => {
+describe('test language support suite', () => {
   it('should return true if language is supported', () => {
     const langues = [...supportedLanguages];
     langues.forEach((lg) => {
@@ -19,8 +19,8 @@ describe('Test language support suite', () => {
   });
 });
 
-describe('Test getWilayasNames() function', () => {
-  it('should return arabic names the provided wilayas', () => {
+describe('test getWilayasNames() function', () => {
+  it('should return Arabic names the provided wilayas', () => {
     const arNames = ['وهران', 'سطيف', 'الجزائر'];
     expect(getWilayasNames([31, 16, 19], 'ar')).toContain(...arNames);
   });
@@ -30,7 +30,7 @@ describe('Test getWilayasNames() function', () => {
     expect(getWilayasNames([31, 16, 19], 'fr')).toContain(...arNames);
   });
 
-  it('should return arabic names the provided wilayas', () => {
+  it('should return English names the provided wilayas', () => {
     const arNames = ['Oran', 'Setif', 'Algiers'];
     expect(getWilayasNames([31, 16, 19], 'en')).toContain(...arNames);
   });
@@ -48,9 +48,9 @@ describe('Test getWilayasNames() function', () => {
 
     const result = getWilayasNames([31, 16, 19]);
 
-    expect(result[0]).toEqual(mockWilayasResponse[0]);
-    expect(result[1]).toEqual(mockWilayasResponse[1]);
-    expect(result[2]).toEqual(mockWilayasResponse[2]);
+    expect(result[0]).toStrictEqual(mockWilayasResponse[0]);
+    expect(result[1]).toStrictEqual(mockWilayasResponse[1]);
+    expect(result[2]).toStrictEqual(mockWilayasResponse[2]);
   });
 
   it('should throw an error if the mattricules parameter is not an array', () => {
@@ -64,6 +64,6 @@ describe('Test getWilayasNames() function', () => {
 
   it('should return an empty array if an empty arry is passed', () => {
     const rsArr = getWilayasNames([]);
-    expect(rsArr).toEqual([]);
+    expect(rsArr).toStrictEqual([]);
   });
 });

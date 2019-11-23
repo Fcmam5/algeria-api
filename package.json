@@ -7,6 +7,7 @@
   },
   "main": "server/app.js",
   "scripts": {
+    "test": "jest",
     "docker:prod": "docker-compose -f deployment/docker-compose.yml up --build",
     "server:docker": "node bin/www",
     "server:dev": "nodemon --config nodemon-server.json ./server/bin/www",
@@ -21,9 +22,14 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@stryker-mutator/core": "2.3.0",
+    "@stryker-mutator/javascript-mutator": "2.3.0",
+    "@stryker-mutator/jest-runner": "2.3.0",
+    "@types/jest": "24.0.23",
     "eslint": "5.16.0",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-plugin-import": "2.17.2",
+    "eslint-plugin-jest": "23.0.4",
     "jest": "24.8.0",
     "node-notifier-cli": "1.1.2",
     "nodemon": "1.19.0",

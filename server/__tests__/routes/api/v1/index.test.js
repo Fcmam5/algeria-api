@@ -2,8 +2,8 @@ const { getServer } = require('../../../../../test-utils');
 
 const server = getServer();
 
-describe('WilayaRouter', () => {
-  describe('Wilaya list "/api/v1/wilaya/"', () => {
+describe('wilayaRouter', () => {
+  describe('wilaya list "/api/v1/wilaya/"', () => {
     it('should return a JSON response', async () => {
       const response = await server.get('/api/v1//wilaya');
       expect(response.type).toBe('application/json');
@@ -19,7 +19,7 @@ describe('WilayaRouter', () => {
     // TODO Test list length..
   });
 
-  describe('Get a wilaya by code "/api/v1/wilaya/matricule/:matricule"', () => {
+  describe('get a wilaya by code "/api/v1/wilaya/matricule/:matricule"', () => {
     it('should return a JSON response', async () => {
       const response = await server.get('/api/v1/wilaya/matricule/31');
       expect(response.type).toBe('application/json');
@@ -33,7 +33,7 @@ describe('WilayaRouter', () => {
     });
   });
 
-  describe('Get adjacent wilayas "/wilaya/adjacence/:matricule/"', () => {
+  describe('get adjacent wilayas "/wilaya/adjacence/:matricule/"', () => {
     it('should return a JSON response', async () => {
       const response = await server.get('/api/v1/wilaya/adjacence/31/');
       expect(response.type).toBe('application/json');
@@ -47,7 +47,7 @@ describe('WilayaRouter', () => {
     });
   });
 
-  describe('Get adjacent wilayas "/wilaya/adjacence/:matricule/names"', () => {
+  describe('get adjacent wilayas "/wilaya/adjacence/:matricule/names"', () => {
     it('should return a JSON response', async () => {
       const response = await server.get('/api/v1/wilaya/adjacence/31/names');
       expect(response.type).toBe('application/json');
@@ -61,7 +61,7 @@ describe('WilayaRouter', () => {
     });
   });
 
-  describe('Get wilayas by phone codes "/wilaya/phone-codes"', () => {
+  describe('get wilayas by phone codes "/wilaya/phone-codes"', () => {
     it('should return a JSON response if phone codes are provided', async () => {
       const response = await server.get('/api/v1/wilaya/phone-codes?code=41');
       expect(response.type).toBe('application/json');

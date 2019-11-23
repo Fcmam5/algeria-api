@@ -5,7 +5,7 @@ const { mockRequest, mockResponse } = require('../../../test-utils');
 const wilyaNotInRangeError = boom.badRequest('Bad request! "matricule" parameter must be a number between 1 and 48');
 const incorrectPhoneCodeError = boom.badRequest('Bad request! incorrect phone code');
 
-describe('Test middlewares', () => {
+describe('test middlewares', () => {
   describe('isInWilayasRange', () => {
     it('should return a HTTP 400 error if the parameter is not a number', () => {
       const req = mockRequest({ matricule: '1hello' });
@@ -40,7 +40,7 @@ describe('Test middlewares', () => {
       const next = jest.fn();
 
       isInWilayasRange(req, res, next);
-      expect(next).toBeCalled();
+      expect(next).toHaveBeenCalled();
     });
   });
 
@@ -78,7 +78,7 @@ describe('Test middlewares', () => {
       const next = jest.fn();
 
       isValidPhoneCode(req, res, next);
-      expect(next).toBeCalled();
+      expect(next).toHaveBeenCalled();
     });
   });
 });
