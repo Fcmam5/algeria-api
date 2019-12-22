@@ -9,11 +9,10 @@ const UserController = {
     } = req.body;
 
     try {
-      // TODO Complete this logic
       const user = await service.create(name, email, password);
-      return res.status(201).json({ ok: 1 });
+      return res.status(201).json({ success: true, user });
     } catch (error) {
-      return next(boom.internal('Error'));
+      return next(boom.internal('Error! Couldn\'t create user'));
     }
   },
   login: async (req, res, next) => {

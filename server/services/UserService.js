@@ -1,10 +1,20 @@
+/* eslint-disable no-underscore-dangle */
 const User = require('../models/User');
 const { createJWToken } = require('../config/auth');
 
 const UserService = {
   create: async (name, email, password) => {
-    const user = new User(name, email, password);
-    return user.save();
+    try {
+      const user = new User(name, email, password);
+      const savedUser = await user.save();
+
+      // return only public attributes
+      delete savedUser._id;
+      delete savedUser.password;
+      return savedUser;
+    } catch (error) {
+      throw error;
+    }
   },
   getByAuthCredentials: async (email, password) => {
     const user = await User.findOne({ email });

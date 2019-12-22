@@ -9,7 +9,7 @@ const MongoManager = require('./config/db');
 // routes
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
-const apiAuthentication = require('./routes/api/auth');
+const apiAuthentication = require('./routes/api/authUsers');
 const { handle404, handelServerErrors } = require('./controllers/handlers');
 
 const app = express();
