@@ -6,7 +6,7 @@ const Handlers = {
   handelServerErrors: (err, req, res, next) => {
     if (err.isServer) { logger.error(err); }
     return res
-      .status(err.output.statusCode)
+      .status(err.output ? err.output.statusCode : 500)
       .json(err.output.payload);
   },
 };

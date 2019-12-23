@@ -28,7 +28,7 @@ const Middlewares = {
     const { error } = UserValidators.validateSignupBody(req.body);
 
     if (error) {
-      return next(boom.badRequest(error.details));
+      return next(boom.badRequest(error));
     }
     return next();
   },

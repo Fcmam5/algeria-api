@@ -1,3 +1,4 @@
+/* eslint-disable func-names */
 const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 
@@ -9,8 +10,7 @@ const UserSchema = new mongoose.Schema({
   timestamps: true,
 });
 
-// eslint-disable-next-line consistent-return
-UserSchema.pre('save', async (next) => {
+UserSchema.pre('save', async function (next) {
   const user = this;
 
   if (!user.isModified('password')) return next();
@@ -24,9 +24,13 @@ UserSchema.pre('save', async (next) => {
   } catch (err) {
     if (err) return next(err);
   }
+
+  return next();
 });
 
-UserSchema.methods.comparePassword = candidatePwd => bcrypt.compare(candidatePwd, this.password);
+UserSchema.methods.comparePassword = function (candidatePwd) {
+  return bcrypt.compare(candidatePwd, this.password);
+};
 
 const User = mongoose.model('User', UserSchema);
 

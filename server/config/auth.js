@@ -22,19 +22,7 @@ const createJWToken = (details) => {
     details.maxAge = 3600;
   }
 
-  details.sessionData = (details.sessionData || {}).reduce((memo, val, key) => {
-    if (typeof val !== 'function' && key !== 'password') {
-      memo[key] = val;
-    }
-    return memo;
-  }, {});
-
-  const token = jwt.sign({
-    data: details.sessionData,
-  }, JWT_TOKEN, {
-    expiresIn: details.maxAge,
-    // algorithm: 'HS256', Default
-  });
+  const token = jwt.sign({ ...details.sessionData }, JWT_TOKEN, { expiresIn: details.maxAge });
 
   return token;
 };
