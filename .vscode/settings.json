@@ -8,5 +8,8 @@
     "titleBar.activeBackground": "#4CAF50",
     "statusBar.background": "#F44336"
   },
-  "window.title": "${dirty}${activeEditorShort}${separator} 🇩🇿 ${rootName}${separator}${appName}"
+  "window.title": "${dirty}${activeEditorShort}${separator} 🇩🇿 ${rootName}${separator}${appName}",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }

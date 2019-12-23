@@ -1,5 +1,5 @@
 const boom = require('@hapi/boom');
-const { isInWilayasRange, isValidPhoneCode } = require('../../middlewares');
+const { isInWilayasRange, isValidPhoneCode } = require('../../middlewares/wilayasMiddlware');
 const { mockRequest, mockResponse } = require('../../../test-utils');
 
 const wilyaNotInRangeError = boom.badRequest('Bad request! "matricule" parameter must be a number between 1 and 48');

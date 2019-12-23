@@ -1,5 +1,5 @@
 const express = require('express');
-const { isInWilayasRange, isValidPhoneCode } = require('../../../middlewares');
+const { isInWilayasRange, isValidPhoneCode } = require('../../../middlewares/wilayasMiddlware');
 const wilayaController = require('../../../controllers/wilayaController');
 
 const router = express.Router();

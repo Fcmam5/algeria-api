@@ -9,6 +9,7 @@ const MongoManager = require('./config/db');
 // routes
 const index = require('./routes');
 const apiV1 = require('./routes/api/v1');
+const apiAuthentication = require('./routes/api/authUsers');
 const { handle404, handelServerErrors } = require('./controllers/handlers');
 
 const app = express();
@@ -20,6 +21,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(helmet());
 
 app.use('/', cors(), index);
+app.use('/api/auth', cors(), apiAuthentication);
 app.use('/api/v1', cors(), apiV1);
 
 // catch 404 and forward to error handler
