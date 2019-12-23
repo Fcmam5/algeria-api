@@ -8,14 +8,14 @@ const schemas = {
 
   signupRequestSchema: Joi.object({
     name: Joi.string(),
-    password: Joi.string().required(),
+    password: Joi.string().min(8).required(),
     email: Joi.string().email().required(),
-  }).required(),
+  }),
 };
 
 const UserValidators = {
   validateLoginCredentials: body => schemas.loginRequestSchema.validate(body),
-  validateSignupBody: body => schemas.signupRequestSchema.validate(body, { abortEarly: false }),
+  validateSignupBody: body => schemas.signupRequestSchema.validate(body, { stripUnknown: true, abortEarly: false }),
 };
 
 module.exports = UserValidators;

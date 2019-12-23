@@ -1,0 +1,52 @@
+/* eslint-disable jest/no-hooks */
+/* eslint-disable jest/prefer-expect-assertions */
+/* eslint-disable jest/expect-expect */
+describe('main Express Application', () => {
+  let mockedExpress;
+  let mockedBodyParser;
+  let mockMogoDBManager;
+
+  beforeAll(async () => {
+    await require('../app');
+  });
+
+  //
+  beforeEach(() => {
+    mockedExpress = () => mockedExpress;
+    mockedExpress.use = jest.fn();
+    mockedExpress.disable = jest.fn();
+    mockedExpress.listen = jest.fn().mockImplementation((port, cb) => cb());
+    mockedExpress.static = () => null;
+    mockedExpress.Router = () => ({ post: () => null, patch: () => null, put: () => null });
+
+    mockedBodyParser = {
+      json: jest.fn(),
+      urlencoded: jest.fn(),
+    };
+
+    mockMogoDBManager = {
+      connect: jest.fn(),
+    };
+
+    jest.mock('body-parser', () => mockedBodyParser);
+    jest.mock('express', () => mockedExpress);
+    jest.mock('../config/db', () => mockMogoDBManager);
+  });
+
+  afterEach(() => {
+    jest.resetModules();
+    jest.restoreAllMocks();
+  });
+
+
+  it('should register body parser', async () => {
+    expect(mockedExpress.use).toHaveBeenCalledWith(mockedBodyParser.json());
+    expect(mockedExpress.use).toHaveBeenCalledWith(
+      expect(mockedBodyParser.urlencoded).toHaveBeenCalledWith({ extended: false }),
+    );
+  });
+
+  it('should connect to MongoDB server', () => {
+    expect(mockMogoDBManager.connect).toHaveBeenCalledTimes(1);
+  });
+});
