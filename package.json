@@ -15,7 +15,7 @@
     "server:test.watch": "jest --watchAll",
     "server:coverage": "jest --coverage --collectCoverageFrom='server/**/*.js'",
     "snyk-protect": "snyk protect",
-    "prepublish": "yarn run snyk-protect",
+    "prepublishOnly": "npm run snyk-protect",
     "lint": "eslint server",
     "flush-db": "node server/flush-db/index.js"
   },
@@ -60,5 +60,6 @@
     "snyk": "^1.290.1",
     "xmlify": "1.1.0"
   },
-  "snyk": true
+  "snyk": true,
+  "optionalDependencies": {}
 }
