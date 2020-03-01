@@ -1,3 +1,4 @@
+/* eslint-disable sonarjs/no-duplicate-string */
 const { getServer } = require('../../../../../test-utils');
 
 const server = getServer();

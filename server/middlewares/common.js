@@ -7,12 +7,16 @@ const Middlewares = {
     const resFormat = req.query.format;
     const { error } = validateReponseTypes(resFormat);
     if (error) {
-      return next(boom.badRequest(
-        `Bad request! "format" must be one of ${supportedReponseTypes.join(' ,')}`,
-      ));
+      return next(
+        boom.badRequest(
+          `Bad request! "format" must be one of ${supportedReponseTypes.join(
+            ' ,'
+          )}`
+        )
+      );
     }
 
-    next();
+    return next();
   },
 };
 

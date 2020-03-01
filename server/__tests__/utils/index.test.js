@@ -4,18 +4,20 @@ const { isLanguageSupported, getWilayasNames } = require('../../utils');
 describe('test language support suite', () => {
   it('should return true if language is supported', () => {
     const langues = [...supportedLanguages];
-    langues.forEach((lg) => {
-      expect(isLanguageSupported(lg)).toBeTruthy();
+    langues.forEach(lg => {
+      expect(isLanguageSupported(lg)).toBe(true);
     });
   });
 
   it('should return false if language is not supported', () => {
     const lg = 'notALanguage';
-    expect(isLanguageSupported(lg)).toBeFalsy();
+    expect(isLanguageSupported(lg)).toBe(false);
   });
 
   it('should throw an error if language code parameter is not provided', () => {
-    expect(() => isLanguageSupported()).toThrow();
+    expect(() => isLanguageSupported()).toThrow(
+      'Please provide a valid language code, example: isLanguageSupported("ar")'
+    );
   });
 });
 
@@ -38,11 +40,22 @@ describe('test getWilayasNames() function', () => {
   it('should', () => {
     const mockWilayasResponse = [
       {
-        mattricule: 31, name: 'Oran', name_ar: 'وهران', name_en: 'Oran',
-      }, {
-        mattricule: 16, name: 'Alger', name_ar: 'الجزائر', name_en: 'Algiers',
-      }, {
-        mattricule: 19, name: 'Sétif', name_ar: 'سطيف', name_en: 'Setif',
+        mattricule: 31,
+        name: 'Oran',
+        name_ar: 'وهران',
+        name_en: 'Oran',
+      },
+      {
+        mattricule: 16,
+        name: 'Alger',
+        name_ar: 'الجزائر',
+        name_en: 'Algiers',
+      },
+      {
+        mattricule: 19,
+        name: 'Sétif',
+        name_ar: 'سطيف',
+        name_en: 'Setif',
       },
     ];
 
@@ -54,12 +67,14 @@ describe('test getWilayasNames() function', () => {
   });
 
   it('should throw an error if the mattricules parameter is not an array', () => {
-    expect(() => getWilayasNames(0)).toThrow();
-    expect(() => getWilayasNames()).toThrow();
-    expect(() => getWilayasNames('')).toThrow();
-    expect(() => getWilayasNames({})).toThrow();
-    expect(() => getWilayasNames(null)).toThrow();
-    expect(() => getWilayasNames(undefined)).toThrow();
+    const errorMessage = 'matricules is not an array!';
+
+    expect(() => getWilayasNames(0)).toThrow(errorMessage);
+    expect(() => getWilayasNames()).toThrow(errorMessage);
+    expect(() => getWilayasNames('')).toThrow(errorMessage);
+    expect(() => getWilayasNames({})).toThrow(errorMessage);
+    expect(() => getWilayasNames(null)).toThrow(errorMessage);
+    expect(() => getWilayasNames(undefined)).toThrow(errorMessage);
   });
 
   it('should return an empty array if an empty arry is passed', () => {

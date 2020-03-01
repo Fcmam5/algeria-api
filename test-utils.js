@@ -1,3 +1,8 @@
+const supertest = require('supertest');
+const app = require('./server/app');
+
+const server = supertest(app);
+
 /**
  * Mock request object
  * @param {Object} params
@@ -6,18 +11,23 @@
  */
 function mockRequest(params, query, body, session) {
   return {
-    params, query, body, session,
+    params,
+    query,
+    body,
+    session,
   };
 }
 
-function mockResponse() {
-  const res = {};
-  res.status = jest.fn().mockReturnValue(res);
-  res.json = jest.fn().mockReturnValue(res);
-  return res;
+function mockResponse(status, jsonObject) {
+  return {
+    status: jest.fn().mockReturnValue(status),
+    json: jest.fn().mockReturnValue(jsonObject),
+  };
 }
 
+const getServer = () => server;
 module.exports = {
   mockRequest,
   mockResponse,
+  getServer,
 };

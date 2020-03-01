@@ -1,10 +1,15 @@
 {
     "extends": [
         "airbnb-base",
+        "plugin:sonarjs/recommended",
+        "plugin:security/recommended",
+        "prettier",
         "plugin:jest/all"
     ],
     "plugins": [
-        "jest"
+        "jest",
+        "prettier",
+        "sonarjs"
     ],
     "rules": {
         "jest/no-disabled-tests": "warn",
@@ -13,9 +18,13 @@
         "jest/prefer-to-have-length": "warn",
         "jest/valid-expect": "error",
         "jest/prefer-expect-assertions": "off",
-        "jest/prefer-spy-on": "off"
+        "jest/prefer-spy-on": "off",
+        "no-underscore-dangle": "off"
     },
     "env": {
-        "jest/globals": true
+        "commonjs": true,
+        "es6": true,
+        "node": true,
+        "jest": true
     }
 }

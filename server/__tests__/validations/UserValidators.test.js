@@ -1,10 +1,12 @@
 const { UserValidators } = require('../../validations');
 
+
 describe('user parameters validation', () => {
+  const exampleEmailAddress = 'mhajeb@bled.dz';
   describe('validate login data', () => {
     it('should return valid login credentials', () => {
       const validLoginParameters = {
-        email: 'mhajeb@bled.dz',
+        email: exampleEmailAddress,
         password: '7arin7arinyajedek',
       };
 
@@ -30,7 +32,7 @@ describe('user parameters validation', () => {
     it('should return valid registration parameters', () => {
       const validLoginParameters = {
         name: 'Mahjouba',
-        email: 'mhajeb@bled.dz',
+        email: exampleEmailAddress,
         password: '7arin7arinyajedek',
       };
 
@@ -44,13 +46,12 @@ describe('user parameters validation', () => {
     it('should return non-empty error array if parameters are not porvided', () => {
       const invalidParams = {
         name: 'Mahjouba',
-        email: 'mhajeb@bled.dz',
+        email: exampleEmailAddress,
         password: '',
       };
 
       const { error } = UserValidators.validateLoginCredentials(invalidParams);
-      // TODO Verify that both errors are thrown
-      expect(error).toStrictEqual('"email" must be a valid email');
+      expect(error.message).toStrictEqual('"password" is not allowed to be empty');
     });
   });
 });

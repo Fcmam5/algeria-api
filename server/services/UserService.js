@@ -36,12 +36,11 @@ const UserService = {
       const isMatch = await user.comparePassword(password);
 
       if (isMatch) {
-        const jwtToken = createJWToken({
+        return createJWToken({
           sessionData: { email: user.email, id: user._id },
           maxAge: 3600,
         });
 
-        return jwtToken;
       }
     }
 

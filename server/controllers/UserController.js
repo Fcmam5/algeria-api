@@ -1,4 +1,3 @@
-
 const boom = require('@hapi/boom');
 const service = require('../services/UserService');
 
@@ -10,13 +9,10 @@ const UserController = {
       const user = await service.create(name, email, password);
       return res.status(201).json({ success: true, user });
     } catch (error) {
-      switch (error.name) {
-        case 'EmailIsTakenError':
-          return next(boom.conflict(error.message));
-
-        default:
-          return next(boom.internal(error));
+      if (error.name === 'EmailIsTakenError') {
+        return next(boom.conflict(error.message));
       }
+      return next(boom.internal(error));
     }
   },
   login: async (req, res, next) => {
@@ -27,13 +23,11 @@ const UserController = {
 
       return res.json({ success: true, token });
     } catch (error) {
-      switch (error.name) {
-        case 'BadLoginCredentials':
-          return next(boom.unauthorized(error.message));
-
-        default:
-          return next(boom.internal(error));
+      if (error.name === 'BadLoginCredentials') {
+        return next(boom.unauthorized(error.message));
       }
+
+      return next(boom.internal(error));
     }
   },
 };

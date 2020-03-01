@@ -9,7 +9,11 @@ const Middlewares = {
     const { matricule } = req.params;
     const { error } = WilayaValidator.isInWilayasRange(matricule);
     if (error) {
-      return next(boom.badRequest('Bad request! "matricule" parameter must be a number between 1 and 48'));
+      return next(
+        boom.badRequest(
+          'Bad request! "matricule" parameter must be a number between 1 and 48'
+        )
+      );
     }
 
     return next();

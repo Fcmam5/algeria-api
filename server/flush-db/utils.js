@@ -5,7 +5,9 @@ const logger = require('../config/logger');
 async function showCollections(connection) {
   logger.info('|-- Show collections');
   const names = await connection.db.listCollections().toArray();
-  logger.info(`|-- ${names.length} collections found (${names.map(n => n.name)})`);
+  logger.info(
+    `|-- ${names.length} collections found (${names.map(n => n.name)})`
+  );
 }
 
 function eraseData(connection, name) {
@@ -16,7 +18,7 @@ function eraseData(connection, name) {
 async function insertData() {
   const wilayasToInset = [];
 
-  WilayaList.forEach(async (w) => {
+  WilayaList.forEach(async w => {
     // Construct dairats
     const dairats = w.dairats.map(d => ({
       code: d.code,
@@ -30,7 +32,6 @@ async function insertData() {
         nameEn: b.name_en,
       })),
     }));
-
 
     const wilaya = new Wilaya({
       mattricule: w.mattricule,
@@ -46,9 +47,7 @@ async function insertData() {
     wilayasToInset.push(wilaya);
   });
 
-  const wilayas = await Wilaya.insertMany(wilayasToInset);
-
-  return wilayas;
+  return Wilaya.insertMany(wilayasToInset);
 }
 
 module.exports = {

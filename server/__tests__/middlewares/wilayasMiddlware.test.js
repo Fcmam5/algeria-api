@@ -40,7 +40,7 @@ describe('test middlewares', () => {
       const next = jest.fn();
 
       isInWilayasRange(req, res, next);
-      expect(next).toHaveBeenCalled();
+      expect(next).toHaveBeenCalledTimes(1);
     });
   });
 
@@ -78,7 +78,7 @@ describe('test middlewares', () => {
       const next = jest.fn();
 
       isValidPhoneCode(req, res, next);
-      expect(next).toHaveBeenCalled();
+      expect(next).toHaveBeenCalledTimes(1);
     });
   });
 });
