@@ -17,7 +17,8 @@
     "snyk-protect": "snyk protect",
     "prepublishOnly": "npm run snyk-protect",
     "lint": "eslint server",
-    "flush-db": "node server/flush-db/index.js"
+    "flush-db": "node server/flush-db/index.js",
+    "prepare": "yarn run snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -57,7 +58,7 @@
     "jsonwebtoken": "8.5.1",
     "lodash": "4.17.13",
     "mongoose": "5.7.5",
-    "snyk": "^1.290.1",
+    "snyk": "^1.316.2",
     "xmlify": "1.1.0"
   },
   "snyk": true,
