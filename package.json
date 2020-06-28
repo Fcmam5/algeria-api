@@ -49,7 +49,7 @@
     "@hapi/joi": "16.1.7",
     "bcrypt": "3.0.7",
     "body-parser": "1.19.0",
-    "bunyan": "1.8.12",
+    "bunyan": "1.8.13",
     "cors": "2.8.5",
     "debug": "4.1.1",
     "dotenv": "8.0.0",
