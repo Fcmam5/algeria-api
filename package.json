@@ -21,7 +21,7 @@
     "snyk-protect": "snyk protect",
     "prepublishOnly": "npm run snyk-protect",
     "lint": "eslint server",
-    "prepare": "yarn run snyk-protect",
+    "prepare": "npm run snyk-protect",
     "stryker": "stryker run",
     "flush-db": "node server/flush-db/index.js",
     "validate-data-schemas": "node tools/validateDataSchemas"

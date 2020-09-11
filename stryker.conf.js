@@ -2,7 +2,7 @@
 module.exports = function (config) {
   config.set({
     mutator: 'javascript',
-    packageManager: 'yarn',
+    packageManager: 'npm',
     mutate: [
       'server/**/*.js',
     ],
