@@ -2,6 +2,9 @@
   "name": "algeria-api",
   "version": "1.0.0",
   "description": "The API for DZ 🇩🇿",
+  "engines": {
+    "node": "12.x"
+  },
   "repository": {
     "url": "https://github.com/Fcmam5/algeria-api"
   },
@@ -18,9 +21,10 @@
     "snyk-protect": "snyk protect",
     "prepublishOnly": "npm run snyk-protect",
     "lint": "eslint server",
-    "flush-db": "node server/flush-db/index.js",
     "prepare": "yarn run snyk-protect",
-    "stryker": "stryker run"
+    "stryker": "stryker run",
+    "flush-db": "node server/flush-db/index.js",
+    "validate-data-schemas": "node tools/validateDataSchemas"
   },
   "keywords": [],
   "author": "",
@@ -30,6 +34,7 @@
     "@stryker-mutator/javascript-mutator": "^3.3.1",
     "@stryker-mutator/jest-runner": "^3.3.1",
     "@types/jest": "^26.0.13",
+    "ajv": "^6.12.4",
     "eslint": "^7.8.1",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-airbnb-base": "^14.2.0",

@@ -21,7 +21,7 @@ Find the full API documentation [here](https://documenter.getpostman.com/view/63
 * Build a dashboard to manage/correct data
 * Match each postal code withe its provinces
 * Add long/latt cordinates
-* sqlite ?
+* Improve data validation (see [`tools/validateDataSchemas.js`](./tools/validateDataSchemas.js) and [`data/WilayaList.schema.json`](./data/WilayaList.schema.json))
 
 ## Contributing
 

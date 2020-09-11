@@ -3,11 +3,18 @@
   "eslint.enable": true,
   "workbench.colorCustomizations": {
     "titleBar.activeForeground": "#FFFFFF",
-    "titleBar.activeBackground": "#4CAF50",
-    "statusBar.background": "#F44336"
+    "titleBar.activeBackground": "#27ae60",
+    "statusBar.background": "#c0392b"
   },
   "window.title": "${dirty}${activeEditorShort}${separator} 🇩🇿 ${rootName}${separator}${appName}",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "cSpell.words": [
+    "Wilaya",
+    "Wilayas",
+    "baladyiats",
+    "dairats",
+    "mattricule"
+  ]
 }
