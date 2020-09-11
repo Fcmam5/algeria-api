@@ -19,7 +19,8 @@
     "prepublishOnly": "npm run snyk-protect",
     "lint": "eslint server",
     "flush-db": "node server/flush-db/index.js",
-    "prepare": "yarn run snyk-protect"
+    "prepare": "yarn run snyk-protect",
+    "stryker": "stryker run"
   },
   "keywords": [],
   "author": "",

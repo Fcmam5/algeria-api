@@ -1,6 +1,6 @@
 # Algeria API
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/Fcmam5/algeria-api) [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FFcmam5%2Falgeria-api%2Fmaster)](https://stryker-mutator.github.io)
+[![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/Fcmam5/algeria-api) [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FFcmam5%2Falgeria-api%2Fdevelop)](https://dashboard.stryker-mutator.io/reports/github.com/Fcmam5/algeria-api/develop)
 
 This is another Algerian administrative areas repository :smiley:. In this project we provide a structured JSON and XML data that can be found in [results/WilayaList.json](./data/WilayaList.json) and [results/WilayaList.XML](./data/WilayaList.XML) or through our API: [https://algeria-api.herokuapp.com/api/v1/]()
 
