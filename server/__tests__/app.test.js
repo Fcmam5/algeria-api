@@ -1,36 +1,30 @@
-/* eslint-disable jest/no-hooks */
-/* eslint-disable jest/prefer-expect-assertions */
-/* eslint-disable jest/expect-expect */
 describe('main Express Application', () => {
   let mockedExpress;
   let mockedBodyParser;
-  let mockMogoDBManager;
+  let mockMongoDBManager;
 
-  beforeAll(async () => {
-    await require('../app');
-  });
-
-  //
   beforeEach(() => {
     mockedExpress = () => mockedExpress;
     mockedExpress.use = jest.fn();
     mockedExpress.disable = jest.fn();
     mockedExpress.listen = jest.fn().mockImplementation((port, cb) => cb());
     mockedExpress.static = () => null;
-    mockedExpress.Router = () => ({ post: () => null, patch: () => null, put: () => null });
+    mockedExpress.Router = () => ({ get: jest.fn(), post: jest.fn(), patch: jest.fn(), put: jest.fn() });
 
     mockedBodyParser = {
       json: jest.fn(),
       urlencoded: jest.fn(),
     };
 
-    mockMogoDBManager = {
+    mockMongoDBManager = {
       connect: jest.fn(),
     };
 
     jest.mock('body-parser', () => mockedBodyParser);
     jest.mock('express', () => mockedExpress);
-    jest.mock('../config/db', () => mockMogoDBManager);
+    jest.mock('../config/db', () => mockMongoDBManager);
+
+    require('../app');
   });
 
   afterEach(() => {
@@ -47,6 +41,6 @@ describe('main Express Application', () => {
   });
 
   it('should connect to MongoDB server', () => {
-    expect(mockMogoDBManager.connect).toHaveBeenCalledTimes(1);
+    expect(mockMongoDBManager.connect).toHaveBeenCalledTimes(1);
   });
 });

@@ -19,6 +19,7 @@
         "jest/valid-expect": "error",
         "jest/prefer-expect-assertions": "off",
         "jest/prefer-spy-on": "off",
+        "jest/no-hooks": "off",
         "no-underscore-dangle": "off"
     },
     "env": {
@@ -26,5 +27,15 @@
         "es6": true,
         "node": true,
         "jest": true
-    }
+    },
+    "overrides": [
+        {
+            "files": [
+                "server/__tests__/**/*.test.js"
+            ],
+            "rules": {
+                "global-require": "off"
+            }
+        }
+    ]
 }
