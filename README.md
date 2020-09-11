@@ -2,165 +2,18 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Fcmam5/algeria-api/badge.svg)](https://snyk.io/test/github/Fcmam5/algeria-api) [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FFcmam5%2Falgeria-api%2Fmaster)](https://stryker-mutator.github.io)
 
-A list of Algerian Wilayas, Dairas and Baladyahs.
+This is another Algerian administrative areas repository :smiley:. In this project we provide a structured JSON and XML data that can be found in [results/WilayaList.json](./results/WilayaList.json) and [[results/WilayaList.XML](./results/WilayaList.XML) or through our API: [https://algeria-api.herokuapp.com/api/v1/]()
 
 ## Features
 
 * Exposes a RESTful API
-* GraphQL Endpoint
 * JSON Files
   * Postal codes by wilaya [results/postal-codes-results.json](./results/postal-codes-results.json)
   * Wilayas list (with Dairas and Baladiyahs lists) [results/WilayaList.json](./results/WilayaList.json)
 
 ## API Documentation
 
-* Get a list of all Wilayas `GET https://localhost:3000/api/v1/wilaya`
-* Get Wilaya's details: `GET https://localhost:3000/api/v1/wilaya/matricule/:matricule`, example:
-
-  ```bash
-  ~: curl -X GET -i http://localhost:3000/api/v1/wilaya/matricule/31
-
-  # Response
-  {
-    "data": {
-      "mattricule": 31,
-      "name": "Oran",
-      "name_ar": "وهران",
-      "name_en": "Oran",
-      "phoneCodes": [
-        41
-      ],
-      "postalCodes": [
-        31000,
-        31001,
-        ...
-        31117,
-        31118
-      ],
-      "dairats": [
-        {
-          "name": "AIN TURK",
-          "name_ar": "AIN TURK",
-          "name_en": "AIN TURK",
-          "baladyiats": []
-        },
-        {
-          "name": "ARZEW",
-          "name_ar": "ARZEW",
-          "name_en": "ARZEW",
-          "baladyiats": []
-        },
-        ...
-      ]
-    }
-  }
-  ```
-* Get the adjacent (nearby wilayas)
-  * Only wilaya codes `/wilaya/adjacence/:matricule`
-  * Wilaya names `/wilaya/adjacence/:matricule/names` example response:
-
-  ````json
-      {
-      "data": {
-        "names": [
-          {
-            "mattricule": 46,
-            "name": "Ain Temouchent",
-            "name_ar": "عين تموشنت",
-            "name_en": "Ain Temouchent"
-          },
-          {
-            "mattricule": 22,
-            "name": "Sidi Bel Abbes",
-            "name_ar": "سيدي بلعباس",
-            "name_en": "Sidi Bel Abbes"
-          },
-          {
-            "mattricule": 29,
-            "name": "Mascara",
-            "name_ar": "معسكر",
-            "name_en": "Mascara"
-          },
-          {
-            "mattricule": 27,
-            "name": "Mostaganem",
-            "name_ar": "مستغانم",
-            "name_en": "Mostaganem"
-          }
-        ],
-        "mattricules": [
-          46,
-          22,
-          29,
-          27
-        ]
-      }
-    }
-  ````
-  * Short format (only wilaya names in a language and their codes)
-
-    ```json
-      {
-        "data": {
-          "names": [
-            "عين تموشنت",
-            "سيدي بلعباس",
-            "معسكر",
-            "مستغانم"
-          ],
-          "mattricules": [
-            46,
-            22,
-            29,
-            27
-          ]
-        }
-      }
-    ```
-
-* You can get an XML result by adding a `format=xml` query parameter, example:
-  * GET: `http://localhost:3000/api/v1/wilaya/matricule/31?format=xml` will return:
-
-  ```xml
-  <?xml version="1.0" encoding="UTF-8"?>
-  <wilaya>
-    <phoneCodes>
-      <phoneCode>41</phoneCode>
-    </phoneCodes>
-    <postalCodes>
-      <postalCode>31000</postalCode>
-      <postalCode>31001</postalCode>
-      ...
-      <postalCode>31118</postalCode>
-    </postalCodes>
-    <adjacentWilayas>
-      <adjacentWilaya>46</adjacentWilaya>
-      <adjacentWilaya>22</adjacentWilaya>
-      <adjacentWilaya>29</adjacentWilaya>
-      <adjacentWilaya>27</adjacentWilaya>
-    </adjacentWilayas>
-    <mattricule>31</mattricule>
-    <name>Oran</name>
-    <nameAr>وهران</nameAr>
-    <nameEn>Oran</nameEn>
-    <dairats>
-      <dairat>
-        <baladyiats>
-          <baladyiat>
-            <code>3101</code>
-            <name>ORAN</name>
-            <nameAr>وهران</nameAr>
-  ```
-
-* Get postal codes by Wilaya
-* Get wilaya by postal codes
-* Get Wilaya by phone code
-  * GET: `http://localhost:3000/wilaya/phone-codes?code=41` and for getting XML results `http://localhost:3000/wilaya/phone-codes?code=41&format=xml`
-
-* Healthcheck
-  * GET: `http://localhost:3000/healthcheck`
-
-Find the full documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest).
+Find the full API documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest) (*Will be moved to a SWAGGER documentation*).
 
 ## TODOs & Future Improvements/Features
 
