@@ -8,6 +8,7 @@
   "main": "server/app.js",
   "scripts": {
     "test": "jest",
+    "test.watch": "jest --watch",
     "docker:prod": "docker-compose -f deployment/docker-compose.yml up --build",
     "server:docker": "node bin/www",
     "server:dev": "nodemon --config nodemon-server.json ./server/bin/www | bunyan",
@@ -18,7 +19,8 @@
     "prepublishOnly": "npm run snyk-protect",
     "lint": "eslint server",
     "flush-db": "node server/flush-db/index.js",
-    "prepare": "yarn run snyk-protect"
+    "prepare": "yarn run snyk-protect",
+    "stryker": "stryker run"
   },
   "keywords": [],
   "author": "",

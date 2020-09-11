@@ -1,11 +1,11 @@
 const mongoose = require('mongoose');
-const logger = require('../config/logger');
+const logger = require("./logger");
 
 const { DB_URL } = process.env;
 
 // When the connection is disconnected
 mongoose.connection.on('disconnected', () =>
-  logger.error(`The database "${DB_URL}" has disonnected!`)
+  logger.error(`The database "${DB_URL}" has disconnected!`)
 );
 
 // If the Node process ends, close the Mongoose connection
