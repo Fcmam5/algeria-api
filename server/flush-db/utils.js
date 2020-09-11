@@ -1,5 +1,5 @@
 const { Wilaya } = require('../models');
-const WilayaList = require('../../results/WilayaList');
+const WilayaList = require('../../data/WilayaList');
 const logger = require('../config/logger');
 
 async function showCollections(connection) {

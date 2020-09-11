@@ -12,7 +12,7 @@ const fs = require('fs');
 const rp = require('request-promise');
 const { keyBy, merge, values } = require('lodash');
 const $ = require('cheerio');
-const WilayaList = require('./results/result.json');
+const WilayaList = require('./data/result.json');
 
 const baladyiahUrlFR = daira => `http://www.interieur.gov.dz/index.php/fr/component/annuaire/?view=daira&code_d=${daira}`;
 const baladyiahUrlAR = daira => `http://www.interieur.gov.dz/index.php/ar/component/annuaire/?view=daira_ar&code_d=${daira}`;
@@ -73,7 +73,7 @@ async function getBaladyatsForWilaya(wilaya) {
 
   //   if (i >= WilayaList.length - 1) {
   //     clearInterval(lazyLoop);
-  //     fs.writeFileSync(`${__dirname}/results/result.json`, JSON.stringify(WilayaList));
+  //     fs.writeFileSync(`${__dirname}/data/result.json`, JSON.stringify(WilayaList));
   //   }
 
   //   i++;
@@ -86,6 +86,6 @@ async function getBaladyatsForWilaya(wilaya) {
   for (let i = start; i <= end; i++) {
     const result = await getBaladyatsForWilaya(WilayaList[i]);
     WilayaList[i].dairats = result;
-    fs.writeFileSync(`${__dirname}/results/result.json`, JSON.stringify(WilayaList));
+    fs.writeFileSync(`${__dirname}/data/result.json`, JSON.stringify(WilayaList));
   }
 }());

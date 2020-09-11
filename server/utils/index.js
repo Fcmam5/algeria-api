@@ -1,5 +1,5 @@
 /* eslint-disable camelcase */
-const WilayaList = require('../../results/WilayaList.json');
+const WilayaList = require('../../data/WilayaList.json');
 const { supportedLanguages } = require('./constants');
 
 function isLanguageSupported(langCode) {

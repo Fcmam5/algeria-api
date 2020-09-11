@@ -1,3 +1,4 @@
+/* eslint-disable max-classes-per-file */
 
 class EmailIsTakenError extends Error {
   constructor(message = 'Email Address is Already taken') {

@@ -10,8 +10,8 @@
 // // Models
 // const { Wilaya, Daira, Baladyia } = require('../models');
 // // Inputs
-// const dairasPerWilayaFile = require('../crawlers/dairas-crawler/results/dairasPerWilaya.json');
-// const dairasPerWilayaArabicFile = require('../crawlers/dairas-crawler/results/dairasPerWilayaArabic.json');
+// const dairasPerWilayaFile = require('../crawlers/dairas-crawler/data/dairasPerWilaya.json');
+// const dairasPerWilayaArabicFile = require('../crawlers/dairas-crawler/data/dairasPerWilayaArabic.json');
 // // Get Wilaya list from AlgerianAdministrativeDivision repository (https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
 // let AlgerianAdministrativeDivision = require('./Algeria.json');
 // const postalCodesFile = require('../crawlers/postal-codes-crawler/cleaned-response.json');

@@ -31,6 +31,6 @@ async function getDairas(wilaya) {
       result[WILAYAS[index]] = wilaya;
     });
 
-    fs.writeFileSync(`${__dirname}/results/dairasPerWilayaArabic.json`, JSON.stringify(result));
+    fs.writeFileSync(`${__dirname}/data/dairasPerWilayaArabic.json`, JSON.stringify(result));
   });
 }());
