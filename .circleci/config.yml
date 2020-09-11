@@ -24,3 +24,6 @@ jobs:
       - run:
           name: mutation tests
           command: npm run stryker
+      - run:
+          name: validate data schemas
+          command: npm run validate-data-schemas

@@ -1,0 +1,119 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "Wilaya list",
+  "type": "array",
+  "maxLength": 48,
+  "minLength": 48,
+  "items": {
+    "type": "object",
+    "properties": {
+      "mattricule": {
+        "description": "The province (Wilaya) code",
+        "type": "number",
+        "minimum": 1,
+        "maximum": 48
+      },
+      "name": {
+        "type": "string",
+        "minLength": 3
+      },
+      "name_en": {
+        "type": "string",
+        "minLength": 3
+      },
+      "name_ar": {
+        "type": "string",
+        "pattern": "^[\u0621-\u064A\\s]+$"
+      },
+      "phoneCodes": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "adjacentWilayas": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "postalCodes": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "dairats": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "code": {
+              "type": "number"
+            },
+            "name": {
+              "type": "string",
+              "minLength": 3
+            },
+            "name_ar": {
+              "type": "string",
+              "pattern": "^[\u0621-\u064A\\s\\(\\)]+$"
+            },
+            "name_en": {
+              "type": "string",
+              "minLength": 3
+            },
+            "baladyiats": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "code": {
+                    "type": "number"
+                  },
+                  "name": {
+                    "type": "string",
+                    "minLength": 3
+                  },
+                  "name_ar": {
+                    "type": "string",
+                    "pattern": "^[\u0621-\u064A\\s\\(\\)]+$"
+                  },
+                  "name_en": {
+                    "type": "string",
+                    "minLength": 3
+                  }
+                },
+                "additionalProperties": false,
+                "required": [
+                  "code",
+                  "name",
+                  "name_en",
+                  "name_ar"
+                ]
+              }
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "code",
+            "name",
+            "name_en",
+            "name_ar"
+          ]
+        }
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "mattricule",
+    "name",
+    "name_en",
+    "name_ar",
+    "phoneCodes",
+    "adjacentWilayas",
+    "dairats",
+    "postalCodes"
+  ]
+}
