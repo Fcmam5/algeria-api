@@ -65,7 +65,7 @@
     "jsonwebtoken": "8.5.1",
     "lodash": "4.17.20",
     "mongoose": "^5.10.4",
-    "snyk": "^1.393.0",
+    "snyk": "^1.425.4",
     "xmlify": "1.1.0"
   },
   "snyk": true,
