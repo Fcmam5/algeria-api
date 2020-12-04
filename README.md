@@ -6,22 +6,21 @@ This is another Algerian administrative areas repository :smiley:. In this proje
 
 ## Features
 
-* Exposes a RESTful API
-* JSON Files
-  * Postal codes by wilaya [results/postal-codes-results.json](./data/postal-codes-results.json)
-  * Wilayas list (with Dairas and Baladiyahs lists) [results/WilayaList.json](./data/WilayaList.json)
+- Exposes a RESTful API
+- JSON Files
+  - Postal codes by wilaya [results/postal-codes-results.json](./data/postal-codes-results.json)
+  - Wilayas list (with Dairas and Baladiyahs lists) [results/WilayaList.json](./data/WilayaList.json)
 
 ## API Documentation
 
-Find the full API documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest) (*Will be moved to a SWAGGER documentation*).
+Find the full API documentation [here](https://documenter.getpostman.com/view/6370698/SW12ywmH?version=latest) (_Will be moved to a SWAGGER documentation_).
 
 ## TODOs & Future Improvements/Features
 
-* Add Tamazight Translation
-* Build a dashboard to manage/correct data
-* Match each postal code withe its provinces
-* Add long/latt cordinates
-* Improve data validation (see [`tools/validateDataSchemas.js`](./tools/validateDataSchemas.js) and [`data/WilayaList.schema.json`](./data/WilayaList.schema.json))
+- Build a dashboard to manage/correct data
+- Match each postal code withe its provinces
+- Add long/latt cordinates
+- Improve data validation (see [`tools/validateDataSchemas.js`](./tools/validateDataSchemas.js) and [`data/WilayaList.schema.json`](./data/WilayaList.schema.json))
 
 ## Contributing
 
@@ -61,6 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Acknowledgments
 
-* [mohsenuss91/AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
-* [AbderrahmeneDZ/Wilaya-Of-Algeria/Wilaya_Of_Algeria.json](https://github.com/AbderrahmeneDZ/Wilaya-Of-Algeria/blob/master/Wilaya_Of_Algeria.json)
-* Postal codes and Dairas list are collected by crawling the [Algérie Poste](https://www.poste.dz/) and [Interior ministry](http://www.interieur.gov.dz/) websites, the scripts I used are in [tools/](./tools/README.md)
+- [mohsenuss91/AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
+- [AbderrahmeneDZ/Wilaya-Of-Algeria/Wilaya_Of_Algeria.json](https://github.com/AbderrahmeneDZ/Wilaya-Of-Algeria/blob/master/Wilaya_Of_Algeria.json)
+- Postal codes and Dairas list are collected by crawling the [Algérie Poste](https://www.poste.dz/) and [Interior ministry](http://www.interieur.gov.dz/) websites, the scripts I used are in [tools/](./tools/README.md)
