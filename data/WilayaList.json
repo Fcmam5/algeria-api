@@ -1,9 +1,10 @@
 [
   {
     "mattricule": 1,
-    "name": "Adrar",
     "name_ar": "أدرار",
+    "name_ber": "ⴰⴷⵔⴰⵔ",
     "name_en": "Adrar",
+    "name": "Adrar",
     "phoneCodes": [
       49
     ],
@@ -365,9 +366,10 @@
   },
   {
     "mattricule": 2,
-    "name": "Chlef",
     "name_ar": "الشلف",
+    "name_ber": "ⵛⵛⵍⴻⴼ",
     "name_en": "Chlef",
+    "name": "Chlef",
     "phoneCodes": [
       27
     ],
@@ -801,9 +803,10 @@
   },
   {
     "mattricule": 3,
-    "name": "Laghouat",
     "name_ar": "الأغواط",
+    "name_ber": "ⵍⴻⵖⵡⴰⵟ",
     "name_en": "Laghouat",
+    "name": "Laghouat",
     "phoneCodes": [
       29
     ],
@@ -1096,9 +1099,10 @@
   },
   {
     "mattricule": 4,
-    "name": "Oum El Bouaghi",
     "name_ar": "أم البواقي",
+    "name_ber": "ⵓⵎⵍⴻⴱⵡⴰⵖⵉ",
     "name_en": "Oum El Bouaghi",
+    "name": "Oum El Bouaghi",
     "phoneCodes": [
       32
     ],
@@ -1455,9 +1459,10 @@
   },
   {
     "mattricule": 5,
-    "name": "Batna",
     "name_ar": "باتنة",
+    "name_ber": "ⵜⴱⴰⵜⴻⵏⵜ",
     "name_en": "Batna",
+    "name": "Batna",
     "phoneCodes": [
       33
     ],
@@ -2155,9 +2160,10 @@
   },
   {
     "mattricule": 6,
-    "name": "Béjaïa",
     "name_ar": "بجاية",
+    "name_ber": "ⴲⴳⴰⵢⴻⵝ",
     "name_en": "Béjaïa",
+    "name": "Béjaïa",
     "phoneCodes": [
       34
     ],
@@ -2783,9 +2789,10 @@
   },
   {
     "mattricule": 7,
-    "name": "Biskra",
     "name_ar": "بسكرة",
+    "name_ber": "ⴱⴻⵙⴽⵔⴰ",
     "name_en": "Biskra",
+    "name": "Biskra",
     "phoneCodes": [
       33
     ],
@@ -3200,9 +3207,10 @@
   },
   {
     "mattricule": 8,
-    "name": "Bechar",
     "name_ar": "بشار",
+    "name_ber": "ⴱⴻⵛⵛⴰⵔ",
     "name_en": "Bechar",
+    "name": "Bechar",
     "phoneCodes": [
       49
     ],
@@ -3510,9 +3518,10 @@
   },
   {
     "mattricule": 9,
-    "name": "Blida",
     "name_ar": "البليدة",
+    "name_ber": "ⴱⵍⵉⴷⴰ",
     "name_en": "Blida",
+    "name": "Blida",
     "phoneCodes": [
       25
     ],
@@ -3839,9 +3848,10 @@
   },
   {
     "mattricule": 10,
-    "name": "Bouira",
     "name_ar": "البويرة",
+    "name_ber": "ⵜⵓⴱⵉⵔⴻⵜ",
     "name_en": "Bouira",
+    "name": "Bouira",
     "phoneCodes": [
       26
     ],
@@ -4335,9 +4345,10 @@
   },
   {
     "mattricule": 11,
-    "name": "Tamanrasset",
     "name_ar": "تمنراست",
+    "name_ber": "ⵜⴰⵎⴰⵏⵖⴰⵙⵜ",
     "name_en": "Tamanrasset",
+    "name": "Tamanrasset",
     "phoneCodes": [
       29
     ],
@@ -4539,9 +4550,10 @@
   },
   {
     "mattricule": 12,
-    "name": "Tbessa",
     "name_ar": "تبسة",
+    "name_ber": "ⵜⴱⴻⵙⴰ",
     "name_en": "Tbessa",
+    "name": "Tbessa",
     "phoneCodes": [
       37
     ],
@@ -4891,9 +4903,10 @@
   },
   {
     "mattricule": 13,
-    "name": "Tlemcen",
     "name_ar": "تلمسان",
+    "name_ber": "ⵜⵍⴻⵎⵙⴻⵏ",
     "name_en": "Tlemcen",
+    "name": "Tlemcen",
     "phoneCodes": [
       43
     ],
@@ -5502,9 +5515,10 @@
   },
   {
     "mattricule": 14,
-    "name": "Tiaret",
     "name_ar": "تيارت",
+    "name_ber": "ⵜⵢⴰⵔⴻⵜ",
     "name_en": "Tiaret",
+    "name": "Tiaret",
     "phoneCodes": [
       46
     ],
@@ -5969,9 +5983,10 @@
   },
   {
     "mattricule": 15,
-    "name": "Tizi Ouzou",
     "name_ar": "تيزي وزو",
+    "name_ber": "ⵝⵉⵣⵉ ⵡⴻⵣⵣⵓ",
     "name_en": "Tizi Ouzou",
+    "name": "Tizi Ouzou",
     "phoneCodes": [
       26
     ],
@@ -6725,9 +6740,10 @@
   },
   {
     "mattricule": 16,
-    "name": "Alger",
     "name_ar": "الجزائر",
+    "name_ber": "ⴷⵣⴰⵢⴻⵔ",
     "name_en": "Algiers",
+    "name": "Alger",
     "phoneCodes": [
       21,
       23
@@ -7424,9 +7440,10 @@
   },
   {
     "mattricule": 17,
-    "name": "Djelfa",
     "name_ar": "الجلفة",
+    "name_ber": "ⴵⴻⵍⴼⴰ",
     "name_en": "Djelfa",
+    "name": "Djelfa",
     "phoneCodes": [
       27
     ],
@@ -7848,9 +7865,10 @@
   },
   {
     "mattricule": 18,
-    "name": "Jijel",
     "name_ar": "جيجل",
+    "name_ber": "ⵉⵖⵉⵍ ⴳⵉⵍⵉ",
     "name_en": "Jijel",
+    "name": "Jijel",
     "phoneCodes": [
       34
     ],
@@ -8178,9 +8196,10 @@
   },
   {
     "mattricule": 19,
-    "name": "Sétif",
     "name_ar": "سطيف",
+    "name_ber": "ⵙⵟⵉⴼ",
     "name_en": "Setif",
+    "name": "Sétif",
     "phoneCodes": [
       36
     ],
@@ -8862,9 +8881,10 @@
   },
   {
     "mattricule": 20,
-    "name": "Saefda",
     "name_ar": "سعيدة",
+    "name_ber": "ⵙⵄⵉⴷⴰ",
     "name_en": "Saefda",
+    "name": "Saefda",
     "phoneCodes": [
       48
     ],
@@ -9077,9 +9097,10 @@
   },
   {
     "mattricule": 21,
-    "name": "Skikda",
     "name_ar": "سكيكدة",
+    "name_ber": "ⵙⴽⵉⴽⴷⴰ",
     "name_en": "Skikda",
+    "name": "Skikda",
     "phoneCodes": [
       38
     ],
@@ -9514,9 +9535,10 @@
   },
   {
     "mattricule": 22,
-    "name": "Sidi Bel Abbes",
     "name_ar": "سيدي بلعباس",
+    "name_ber": "ⵙⵉⴷⵉ ⴱⴻⵍ ⵄⴻⴱⴱⴰⵙ",
     "name_en": "Sidi Bel Abbes",
+    "name": "Sidi Bel Abbes",
     "phoneCodes": [
       48
     ],
@@ -10060,9 +10082,10 @@
   },
   {
     "mattricule": 23,
-    "name": "Annaba",
     "name_ar": "عنابة",
+    "name_ber": "ⵄⴻⵏⵏⴰⴱⴰ",
     "name_en": "Annaba",
+    "name": "Annaba",
     "phoneCodes": [
       38
     ],
@@ -10255,9 +10278,10 @@
   },
   {
     "mattricule": 24,
-    "name": "Guelma",
     "name_ar": "قالمة",
+    "name_ber": "ⴳⴰⵍⵎⴰ",
     "name_en": "Guelma",
+    "name": "Guelma",
     "phoneCodes": [
       37
     ],
@@ -10617,9 +10641,10 @@
   },
   {
     "mattricule": 25,
-    "name": "Constantine",
     "name_ar": "قسنطينة",
+    "name_ber": "ⵇⵙⴻⵏⵟⵉⵏⴰ",
     "name_en": "Constantine",
+    "name": "Constantine",
     "phoneCodes": [
       31
     ],
@@ -10823,9 +10848,10 @@
   },
   {
     "mattricule": 26,
-    "name": "Medea",
     "name_ar": "المدية",
+    "name_ber": "ⵎⴷⵉⵢⵢⴰ",
     "name_en": "Medea",
+    "name": "Medea",
     "phoneCodes": [
       25
     ],
@@ -11471,9 +11497,10 @@
   },
   {
     "mattricule": 27,
-    "name": "Mostaganem",
     "name_ar": "مستغانم",
+    "name_ber": "ⵎⵓⵙⵜⵖⴰⵏⴻⵎ",
     "name_en": "Mostaganem",
+    "name": "Mostaganem",
     "phoneCodes": [
       45
     ],
@@ -11829,9 +11856,10 @@
   },
   {
     "mattricule": 28,
-    "name": "M'Sila",
     "name_ar": "المسيلة",
+    "name_ber": "ⵎⵙⵉⵍⴰ",
     "name_en": "M'Sila",
+    "name": "M'Sila",
     "phoneCodes": [
       35
     ],
@@ -12346,9 +12374,10 @@
   },
   {
     "mattricule": 29,
-    "name": "Mascara",
     "name_ar": "معسكر",
+    "name_ber": "ⵎⵄⴻⵙⴽⴻⵔ",
     "name_en": "Mascara",
+    "name": "Mascara",
     "phoneCodes": [
       45
     ],
@@ -12873,9 +12902,10 @@
   },
   {
     "mattricule": 30,
-    "name": "Ouargla",
     "name_ar": "ورقلة",
+    "name_ber": "ⵡⴰⵔⴳⵍⴰ",
     "name_en": "Ouargla",
+    "name": "Ouargla",
     "phoneCodes": [
       29
     ],
@@ -13194,9 +13224,10 @@
   },
   {
     "mattricule": 31,
-    "name": "Oran",
     "name_ar": "وهران",
+    "name_ber": "ⵡⴻⵀⵔⴰⵏ",
     "name_en": "Oran",
+    "name": "Oran",
     "phoneCodes": [
       41
     ],
@@ -13558,9 +13589,10 @@
   },
   {
     "mattricule": 32,
-    "name": "El Bayadh",
     "name_ar": "البيض",
+    "name_ber": "ⵍⴱⴰⵢⴻⴹ",
     "name_en": "El Bayadh",
+    "name": "El Bayadh",
     "phoneCodes": [
       49
     ],
@@ -13778,9 +13810,10 @@
   },
   {
     "mattricule": 33,
-    "name": "Illizi",
     "name_ar": "إليزي",
+    "name_ber": "ⵉⵍⵍⵉⵣⵉ",
     "name_en": "Illizi",
+    "name": "Illizi",
     "phoneCodes": [
       29
     ],
@@ -13898,9 +13931,10 @@
   },
   {
     "mattricule": 34,
-    "name": "Bordj Bou Arreridj",
     "name_ar": "برج بوعريريج",
+    "name_ber": "ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ",
     "name_en": "Bordj Bou Arreridj",
+    "name": "Bordj Bou Arreridj",
     "phoneCodes": [
       35
     ],
@@ -14275,9 +14309,10 @@
   },
   {
     "mattricule": 35,
-    "name": "Boumerdes",
     "name_ar": "بومرداس",
+    "name_ber": "ⴱⵓⵎⴻⵔⴷⴰⵙ",
     "name_en": "Boumerdes",
+    "name": "Boumerdes",
     "phoneCodes": [
       24
     ],
@@ -14626,9 +14661,10 @@
   },
   {
     "mattricule": 36,
-    "name": "El Tarf",
     "name_ar": "الطارف",
+    "name_ber": "ⵟⵟⴰⵔⴻⴼ",
     "name_en": "El Tarf",
+    "name": "El Tarf",
     "phoneCodes": [
       38
     ],
@@ -14901,9 +14937,10 @@
   },
   {
     "mattricule": 37,
-    "name": "Tindouf",
     "name_ar": "تندوف",
+    "name_ber": "ⵜⵉⵏⴷⵓⴼ",
     "name_en": "Tindouf",
+    "name": "Tindouf",
     "phoneCodes": [
       49
     ],
@@ -14956,9 +14993,10 @@
   },
   {
     "mattricule": 38,
-    "name": "Tissemsilt",
     "name_ar": "تيسمسيلت",
+    "name_ber": "ⵜⵉⵙⴻⵎⵙⵉⵍⵜ",
     "name_en": "Tissemsilt",
+    "name": "Tissemsilt",
     "phoneCodes": [
       46
     ],
@@ -15217,9 +15255,10 @@
   },
   {
     "mattricule": 39,
-    "name": "El Oued",
     "name_ar": "الوادي",
+    "name_ber": "ⵍⵡⴰⴷ",
     "name_en": "El Oued",
+    "name": "El Oued",
     "phoneCodes": [
       32
     ],
@@ -15642,9 +15681,10 @@
   },
   {
     "mattricule": 40,
-    "name": "Khenchela",
     "name_ar": "خنشلة",
+    "name_ber": "ⵅⴻⵏⵛⵍⴰ",
     "name_en": "Khenchela",
+    "name": "Khenchela",
     "phoneCodes": [
       32
     ],
@@ -15908,9 +15948,10 @@
   },
   {
     "mattricule": 41,
-    "name": "Souk Ahras",
     "name_ar": "سوق أهراس",
+    "name_ber": "ⵙⵓⵇⴻⵀⵔⴰⵙ",
     "name_en": "Souk Ahras",
+    "name": "Souk Ahras",
     "phoneCodes": [
       37
     ],
@@ -16217,9 +16258,10 @@
   },
   {
     "mattricule": 42,
-    "name": "Tipaza",
     "name_ar": "تيبازة",
+    "name_ber": "ⵜⵉⵒⴰⵣⴰ",
     "name_en": "Tipaza",
+    "name": "Tipaza",
     "phoneCodes": [
       24
     ],
@@ -16556,9 +16598,10 @@
   },
   {
     "mattricule": 43,
-    "name": "Mila",
     "name_ar": "ميلة",
+    "name_ber": "ⵎⵉⵍⴰ",
     "name_en": "Mila",
+    "name": "Mila",
     "phoneCodes": [
       31
     ],
@@ -16948,9 +16991,10 @@
   },
   {
     "mattricule": 44,
-    "name": "Ain Defla",
     "name_ar": "عين الدفلى",
+    "name_ber": "ⵄⵉⵏ ⴷⴻⴼⵍⴰ",
     "name_en": "Ain Defla",
+    "name": "Ain Defla",
     "phoneCodes": [
       27
     ],
@@ -17364,9 +17408,10 @@
   },
   {
     "mattricule": 45,
-    "name": "Naama",
     "name_ar": "النعامة",
+    "name_ber": "ⵏⵄⴰⵎⴰ",
     "name_en": "Naama",
+    "name": "Naama",
     "phoneCodes": [
       49
     ],
@@ -17562,9 +17607,10 @@
   },
   {
     "mattricule": 46,
-    "name": "Ain Temouchent",
     "name_ar": "عين تموشنت",
+    "name_ber": "ⵄⵉⵏ ⵜⵉⵎⵓⵛⴻⵏⵜ",
     "name_en": "Ain Temouchent",
+    "name": "Ain Temouchent",
     "phoneCodes": [
       43
     ],
@@ -17878,9 +17924,10 @@
   },
   {
     "mattricule": 47,
-    "name": "Ghardaïa",
     "name_ar": "غرداية",
+    "name_ber": "ⵜⴰⵖⴻⵔⴷⴰⵢⵜ",
     "name_en": "Ghardaïa",
+    "name": "Ghardaïa",
     "phoneCodes": [
       29
     ],
@@ -18111,9 +18158,10 @@
   },
   {
     "mattricule": 48,
-    "name": "Relizane",
     "name_ar": "غليزان",
+    "name_ber": "ⵉⵖⵉⵍ ⵉⵣⴰⵏ",
     "name_en": "Relizane",
+    "name": "Relizane",
     "phoneCodes": [
       46
     ],

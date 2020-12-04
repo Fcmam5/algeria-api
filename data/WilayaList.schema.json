@@ -17,6 +17,10 @@
         "type": "string",
         "minLength": 3
       },
+      "name_ber": {
+        "type": "string",
+        "pattern": "^[\u2D30-\u2D7F\\s]+$"
+      },
       "name_en": {
         "type": "string",
         "minLength": 3
@@ -103,17 +107,19 @@
           ]
         }
       }
-    }
+    },
+    "required": [
+      "mattricule",
+      "name",
+      "name_ber",
+      "name_en",
+      "name_ar",
+      "phoneCodes",
+      "adjacentWilayas",
+      "dairats",
+      "postalCodes"
+    ],
+    "additionalProperties": false
   },
-  "additionalProperties": false,
-  "required": [
-    "mattricule",
-    "name",
-    "name_en",
-    "name_ar",
-    "phoneCodes",
-    "adjacentWilayas",
-    "dairats",
-    "postalCodes"
-  ]
+  "additionalProperties": false
 }

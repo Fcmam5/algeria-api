@@ -1,0 +1,242 @@
+[
+  {
+    "mattricule": "01",
+    "name": "Adrar",
+    "name_ber": "ⴰⴷⵔⴰⵔ"
+  },
+  {
+    "mattricule": "02",
+    "name": "Chlef",
+    "name_ber": "ⵛⵛⵍⴻⴼ"
+  },
+  {
+    "mattricule": "03",
+    "name": "Laghouat",
+    "name_ber": "ⵍⴻⵖⵡⴰⵟ"
+  },
+  {
+    "mattricule": "04",
+    "name": "Oum El Bouaghi",
+    "name_ber": "ⵓⵎⵍⴻⴱⵡⴰⵖⵉ"
+  },
+  {
+    "mattricule": "05",
+    "name": "Batna",
+    "name_ber": "ⵜⴱⴰⵜⴻⵏⵜ"
+  },
+  {
+    "mattricule": "06",
+    "name": "Béjaïa",
+    "name_ber": "ⴲⴳⴰⵢⴻⵝ"
+  },
+  {
+    "mattricule": "07",
+    "name": "Biskra",
+    "name_ber": "ⴱⴻⵙⴽⵔⴰ"
+  },
+  {
+    "mattricule": "08",
+    "name": "Béchar",
+    "name_ber": "ⴱⴻⵛⵛⴰⵔ"
+  },
+  {
+    "mattricule": "09",
+    "name": "Blida",
+    "name_ber": "ⴱⵍⵉⴷⴰ"
+  },
+  {
+    "mattricule": 10,
+    "name": "Bouira",
+    "name_ber": "ⵜⵓⴱⵉⵔⴻⵜ"
+  },
+  {
+    "mattricule": 11,
+    "name": "Tamanrasset",
+    "name_ber": "ⵜⴰⵎⴰⵏⵖⴰⵙⵜ"
+  },
+  {
+    "mattricule": 12,
+    "name": "Tébessa",
+    "name_ber": "ⵜⴱⴻⵙⴰ"
+  },
+  {
+    "mattricule": 13,
+    "name": "Tlemcen",
+    "name_ber": "ⵜⵍⴻⵎⵙⴻⵏ"
+  },
+  {
+    "mattricule": 14,
+    "name": "Tiaret",
+    "name_ber": "ⵜⵢⴰⵔⴻⵜ"
+  },
+  {
+    "mattricule": 15,
+    "name": "Tizi Ouzou",
+    "name_ber": "ⵝⵉⵣⵉ ⵡⴻⵣⵣⵓ"
+  },
+  {
+    "mattricule": 16,
+    "name": "Algiers",
+    "name_ber": "ⴷⵣⴰⵢⴻⵔ"
+  },
+  {
+    "mattricule": 17,
+    "name": "Djelfa",
+    "name_ber": "ⴵⴻⵍⴼⴰ"
+  },
+  {
+    "mattricule": 18,
+    "name": "Jijel",
+    "name_ber": "ⵉⵖⵉⵍ ⴳⵉⵍⵉ"
+  },
+  {
+    "mattricule": 19,
+    "name": "Sétif",
+    "name_ber": "ⵙⵟⵉⴼ"
+  },
+  {
+    "mattricule": 20,
+    "name": "Saïda",
+    "name_ber": "ⵙⵄⵉⴷⴰ"
+  },
+  {
+    "mattricule": 21,
+    "name": "Skikda",
+    "name_ber": "ⵙⴽⵉⴽⴷⴰ"
+  },
+  {
+    "mattricule": 22,
+    "name": "Sidi Bel Abbès",
+    "name_ber": "ⵙⵉⴷⵉ ⴱⴻⵍ ⵄⴻⴱⴱⴰⵙ"
+  },
+  {
+    "mattricule": 23,
+    "name": "Annaba",
+    "name_ber": "ⵄⴻⵏⵏⴰⴱⴰ"
+  },
+  {
+    "mattricule": 24,
+    "name": "Guelma",
+    "name_ber": "ⴳⴰⵍⵎⴰ"
+  },
+  {
+    "mattricule": 25,
+    "name": "Constantine",
+    "name_ber": "ⵇⵙⴻⵏⵟⵉⵏⴰ"
+  },
+  {
+    "mattricule": 26,
+    "name": "Médéa",
+    "name_ber": "ⵎⴷⵉⵢⵢⴰ"
+  },
+  {
+    "mattricule": 27,
+    "name": "Mostaganem",
+    "name_ber": "ⵎⵓⵙⵜⵖⴰⵏⴻⵎ"
+  },
+  {
+    "mattricule": 28,
+    "name": "M'Sila",
+    "name_ber": "ⵎⵙⵉⵍⴰ"
+  },
+  {
+    "mattricule": 29,
+    "name": "Mascara",
+    "name_ber": "ⵎⵄⴻⵙⴽⴻⵔ"
+  },
+  {
+    "mattricule": 30,
+    "name": "Ouargla",
+    "name_ber": "ⵡⴰⵔⴳⵍⴰ"
+  },
+  {
+    "mattricule": 31,
+    "name": "Oran",
+    "name_ber": "ⵡⴻⵀⵔⴰⵏ"
+  },
+  {
+    "mattricule": 32,
+    "name": "El Bayadh",
+    "name_ber": "ⵍⴱⴰⵢⴻⴹ"
+  },
+  {
+    "mattricule": 33,
+    "name": "Illizi",
+    "name_ber": "ⵉⵍⵍⵉⵣⵉ"
+  },
+  {
+    "mattricule": 34,
+    "name": "Bordj Bou Arreridj",
+    "name_ber": "ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ"
+  },
+  {
+    "mattricule": 35,
+    "name": "Boumerdès",
+    "name_ber": "ⴱⵓⵎⴻⵔⴷⴰⵙ"
+  },
+  {
+    "mattricule": 36,
+    "name": "El Tarf",
+    "name_ber": "ⵟⵟⴰⵔⴻⴼ"
+  },
+  {
+    "mattricule": 37,
+    "name": "Tindouf",
+    "name_ber": "ⵜⵉⵏⴷⵓⴼ"
+  },
+  {
+    "mattricule": 38,
+    "name": "Tissemsilt",
+    "name_ber": "ⵜⵉⵙⴻⵎⵙⵉⵍⵜ"
+  },
+  {
+    "mattricule": 39,
+    "name": "El Oued",
+    "name_ber": "ⵍⵡⴰⴷ"
+  },
+  {
+    "mattricule": 40,
+    "name": "Khenchela",
+    "name_ber": "ⵅⴻⵏⵛⵍⴰ"
+  },
+  {
+    "mattricule": 41,
+    "name": "Souk Ahras",
+    "name_ber": "ⵙⵓⵇⴻⵀⵔⴰⵙ"
+  },
+  {
+    "mattricule": 42,
+    "name": "Tipaza",
+    "name_ber": "ⵜⵉⵒⴰⵣⴰ"
+  },
+  {
+    "mattricule": 43,
+    "name": "Mila",
+    "name_ber": "ⵎⵉⵍⴰ"
+  },
+  {
+    "mattricule": 44,
+    "name": "Aïn Defla",
+    "name_ber": "ⵄⵉⵏ ⴷⴻⴼⵍⴰ"
+  },
+  {
+    "mattricule": 45,
+    "name": "Naâma",
+    "name_ber": "ⵏⵄⴰⵎⴰ"
+  },
+  {
+    "mattricule": 46,
+    "name": "Aïn Témouchent",
+    "name_ber": "ⵄⵉⵏ ⵜⵉⵎⵓⵛⴻⵏⵜ"
+  },
+  {
+    "mattricule": 47,
+    "name": "Ghardaia",
+    "name_ber": "ⵜⴰⵖⴻⵔⴷⴰⵢⵜ"
+  },
+  {
+    "mattricule": 48,
+    "name": "Relizane",
+    "name_ber": "ⵉⵖⵉⵍ ⵉⵣⴰⵏ"
+  }
+]
