@@ -62,7 +62,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "helmet": "^4.2.0",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash": "4.17.20",
     "mongoose": "^5.12.3",
     "snyk": "^1.518.0",
